@@ -1,0 +1,59 @@
+\chapter{Test}
+
+%Her beskrives test af systemet, herunder en overordnet beskrivelse af hvordan modultest, integrationstest og accepttest er udført. For detaljer angives reference til jeres ”testdoku- ment” i projektets bilag.
+\section*{Indledning}
+Dette kapitel har til formål at beskrive, hvorledes detekteringssystemet er blevet testet gennem udviklingen. Der er blevet udført modeltest for henholdvis hardwaren og softwaren og  integrationstest samt accepttest for det samlede detekteringssystem. 
+
+\section{Modultest}
+Til at teste software- og hardwarekomponenterne er der benyttet modultest. Modultest er en testmetode, som verificerer, at de individelle komponenter i detekteringssystemet virker efter hensigten. En komponent er den mindste testbare enhed i det samlede system. Ved at teste hver enkelt komponent seperat, opdages fejl tidligt i udviklingsprocessen, hvormed denne fejl kan justeres og udbedres. 
+
+\subsubsection{Hardware}
+Der er foretaget modultest af hardwarekomponenter for at sikre, at de bidrager med den ønskede egenskab til detekteringssystemet. Hver hardwarekomponent, som er identificeret og specificeret på hardware BDD'et, se afsnit \ref{hardwaredesign}, er testet i modultesten. Gennem modultesten er det blevet verificeret, at hardwarekomponenter opfylder de ønskede egenskaber. Se dokumentation afsnit 4.3.1 for ydeligere beskrivelse af hardwaremodultest samt testresultater. 
+
+\subsubsection{Software}
+I softwaren er der foretaget modultest for at verificere, at de forskellige softwarefunktioner fungerer optimalt. Der er foretaget modultest på de softwarefunktioner, som er beskrevet på software BDD'et, se afsnit \ref{softwaredesign}. De softwarefunktioner, som er testet, er henholdvis DAQ Assistant, digitalt filter og detekteringsalgoritmen. Endvidere er det testet, at brugergrænsefladerne præsenterer de ønskede værdier samt indikerer frakturering ved lyd og lys. Se dokumentationen afsnit 5.3.1 for ydeligere beskrivelse af software modultest samt testresultater.     
+
+Gennem de forskellige modultests, der er blevet foretaget for hardwaren og softwaren, kan det konkluderes, at de enkelte hardwarekomponenter og softwarefunktioner fungerer som ønsket. 
+
+
+\section{Integrationstest}
+Der er foretaget integrationstest for det samlede detekteringssystem. Integrationstesten benyttes for at demonstrere, at sammenspillet mellem hardwarekomponenterne og softwarefunktionerne fungerer som ønsket. Hardwarekomponenterne er sammensat som en samlet enhed og tilkoblet systemets software. Sammenkoblingen mellem hardware og software er dokumenteret i implementering, se afsnit \ref{implementering}. I dokumentationen kapitel 6 ses udførsel samt resultat af integrationstesten. Det konkluderes, at detekteringssystemet fungerer som ønsket og integrationstesten kan derfor godkendes. 
+
+\section{Accepttest}\label{accepttest}
+Som afslutning på udviklingen af detekteringssystemet blev accepttesten gennemført. Accepttesten udføres for at verificere, at kravene til detekteringssystemet er opfyldt og at detekteringssystemet kan accepteres. Accepttesten blev udført for funktionelle og ikke-funktionelle krav, som er beskrevet i kravspecifikationen, se dokumentation kapitel 2. 
+
+Accepttesten blev udført i CAVE lab d. 29/11-2017 og blev godkendt og gennemført af Henrik Engholt. Accepttestens scenarier er veldefinerede scenarier for de enkelte Use Cases, samt de opstillede ikke-funktionelle krav. På baggrund af accepttesten er der udarbejdet en rapport med kommentarer til udførsel af testen samt kommentarer til delvist accepterede tests, se dokumentation afsnit 7.4. Til accepttesten blev de fire scenarier, henholdsvis fri luft, rask griseaorta, hurtig inflatering og 3D printet aortamodel testet. Det blev valgt at teste en 3D-printet aortamodel med 75\% kalk. 
+
+Resultatet af accepttesten kan læses i Kapitel \ref{resultat}. 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

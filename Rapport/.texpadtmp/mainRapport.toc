@@ -1,0 +1,17 @@
+\changetocdepth {2}
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\contentsline {chapter}{Abstract}{i}{chapter*.2}
+\contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Problem Statement}{2}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}Method}{3}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Theory}{4}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Empirical process}{5}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Analysis and discussion}{6}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{7}{chapter.7}
+\contentsline {chapter}{Appendix}{8}{chapter*.4}
+\contentsline {chapter}{Referencer}{9}{section*.6}
+\contentsline {chapter}{List of Figures}{10}{section*.7}
+\contentsline {chapter}{List of Tables}{11}{section*.8}

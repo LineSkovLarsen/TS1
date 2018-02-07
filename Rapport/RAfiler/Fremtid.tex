@@ -1,0 +1,57 @@
+\chapter{Fremtidigt arbejde}
+
+%Her beskrives hvad der mangler for at gøre projektet færdigt, og hvilke fremtidige udvidelses- og anvendelsesmuligheder, der er i projektet.
+
+\section*{Indledning}
+I dette bachelorprojekt har der været flere overvejelser om, hvorledes det ønskede slutprodukt skulle se ud og hvilke funktioner det skulle opfylde. Dette afsnit vil præsentere, hvilke fremtidige udvidelses- og anvendelsesmuligheder, der er til detekteringssystemet.     
+   
+\section{Anvendelig ved andre procedurer}
+Interviewet med Jens Erik Nielsen-Kudsk, overlæge, dr. med. på Aarhus Universitetshospital, Skejby, gav anledning til overvejelse af andre anvendelsesmuligheder. Detekteringssystemet vil være anvendeligt ved andre procedurer, eksempelvis ved PCI (Perkutan Coronar Intervention), som er den hyppigste worldwide intervention, se Bilag 7. Ved denne procedure afsættes en stent ved et givet tryk i koronararterie. Operatøren fortæller sygeplejersken, hvilket tryk inflatoren skal drejes op på og operatøren kan derfor ikke kontrollere, hvor højt trykket reelt er. Det ville til denne procedure være oplagt, at operatøren kunne aflæse trykket visuelt på et skærmbillede og dermed sikre, at trykket er korrekt.  
+
+\section{Manometer delay}
+Der er i forbindelse med udviklingen af detekteringssystemet opstået en problematik ved det manometer som benyttes. Det ses i dokumentationen, Tabel 9.5 i afsnit 9.5.5, at det tyder på, at der er et delay på manometeret, hvormed det aktuelle tryk ved hurtig inflatering, ikke vises korrekt. Klinisk inflateres ballonen ved hurtig inflation, og det vil derfor være relevant at undersøge, hvorvidt dette delay er reelt. Operatøren aflæser idag det nødvendige fraktureringstryk visuelt på det analoge manometer. Hvis dette delay er reelt, viser det analoge manometer et lavere fraktureringstryk end, hvad det reelt har været. Ved implementering af detekteringssystemet vil denne fejlaflæsning af det nødvendige fraktureringstryk ikke forekomme, da tryktransduceren er bedre og mere præcis til at måle trykket end det analoge manometer. 
+ 
+\section{Nyt stentdesign}
+Den POM-stent, som benyttes i projektet, er tidligere i forskningen valideret til at simulere Mitroflow stentens frakturkarakteristik \cite{rapport}. Der er i dette projekt generelt målt et lavere fraktureringstryk end tidligere og det er derfor usikkert, hvorvidt det anvendte stentdesign er validt. Ydeligere efterligner POM-stenten ikke den geometriske kronestruktur, som ses ved Mitroflow stenten og der er endvidere manuelt boret et hul i POM-stenten, hvorved reproducerbarheden af disse ikke kan sikres 100\%.
+
+I det videre arbejde vil det være optimalt at udvikle et nyt stentdesign, som simulerer Mitroflow stenten endnu bedre. Det er i dette projekt forsøgt at udvikle 3D-printede ringe, se Forstudie 1.4 dokumentation afsnit 9.5.7. Ved disse ringdesigns var variansen mellem de 3D-printede ringe og Mitroflow stenten mindre, men dog ikke tilstrækkeligt til, at denne udvikling blev prioriteret i projektet.
+
+En anden mulig løsning kunne være at udvikle et stykke værktøj, som vil sikre, at det manuelle borede hul på 0,7 mm bliver boret i midten af POM-stentene hver gang.       
+
+\section{Database}
+Når detekteringssystemet er blevet implementeret på sygehuset og bliver anvendt under procedureren, BF-ViV, kunne det være relevant at gemme de forskellige fraktureringer af de degenerede biologiske hjerterklapper fra patienter i en database. Både ift. patientens journal, hvor det nødvendige fraktureringstryk bør stå nedskrevet, men også ift. videre forskning indenfor denne procedure. Det kunne være interessant at have adgang til en større datamængde omkring de forskellige fraktureringer udført in vivo, hvor typen og størrelsen af hjerteklappen samt ballonen varierer. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
