@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex version 2.5 $
+% $ biblatex bbl format version 2.8 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,77 +16,86 @@
   {}
 \endgroup
 
-\entry{example}{article}{}
-  \name{author}{9}{}{%
-    {{}%
-     {Chhatriwalla}{C.}%
-     {Adnan~K.}{A.~K.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Allen}{A.}%
-     {Keith~B.}{K.~B.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Saxon}{S.}%
-     {John~T.}{J.~T.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Cohen}{C.}%
-     {David~J.}{D.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Aggarwal}{A.}%
-     {Sanjeev}{S.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Hart}{H.}%
-     {Anthony~J.}{A.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Baron}{B.}%
-     {Suzanne~J.}{S.~J.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Dvir}{D.}%
-     {Danny}{D.}%
-     {}{}%
-     {}{}}%
-    {{}%
-     {Borkon}{B.}%
-     {A.~Michael}{A.~M.}%
-     {}{}%
-     {}{}}%
-  }
-  \list{publisher}{1}{%
-    {Ovid Technologies (Wolters Kluwer Health)}%
-  }
-  \strng{namehash}{CAKAKBSJTCDJASHAJBSJDDBAM1}
-  \strng{fullhash}{CAKAKBSJTCDJASHAJBSJDDBAM1}
-  \verb{doi}
-  \verb 10.1161/circinterventions.117.005216
-  \endverb
-  \field{issn}{1941-7632}
-  \field{number}{7}
-  \field{pages}{e005216}
-  \field{title}{Bioprosthetic Valve Fracture Improves the Hemodynamic Results
+\sortlist[entry]{none/global/}
+  \entry{example}{article}{}
+    \name{author}{9}{}{%
+      {{hash=CAK}{%
+         family={Chhatriwalla},
+         familyi={C\bibinitperiod},
+         given={Adnan\bibnamedelima K.},
+         giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=AKB}{%
+         family={Allen},
+         familyi={A\bibinitperiod},
+         given={Keith\bibnamedelima B.},
+         giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=SJT}{%
+         family={Saxon},
+         familyi={S\bibinitperiod},
+         given={John\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=CDJ}{%
+         family={Cohen},
+         familyi={C\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Aggarwal},
+         familyi={A\bibinitperiod},
+         given={Sanjeev},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HAJ}{%
+         family={Hart},
+         familyi={H\bibinitperiod},
+         given={Anthony\bibnamedelima J.},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BSJ}{%
+         family={Baron},
+         familyi={B\bibinitperiod},
+         given={Suzanne\bibnamedelima J.},
+         giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DD}{%
+         family={Dvir},
+         familyi={D\bibinitperiod},
+         given={Danny},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BAM}{%
+         family={Borkon},
+         familyi={B\bibinitperiod},
+         given={A.\bibnamedelima Michael},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Ovid Technologies (Wolters Kluwer Health)}%
+    }
+    \strng{namehash}{CAKAKBSJTCDJASHAJBSJDDBAM1}
+    \strng{fullhash}{CAKAKBSJTCDJASHAJBSJDDBAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1161/circinterventions.117.005216
+    \endverb
+    \field{issn}{1941-7632}
+    \field{number}{7}
+    \field{pages}{e005216}
+    \field{title}{Bioprosthetic Valve Fracture Improves the Hemodynamic Results
   of Valve-in-Valve Transcatheter Aortic Valve Replacement}
-  \verb{url}
-  \verb http://dx.doi.org/10.1161/CIRCINTERVENTIONS.117.005216
-  \endverb
-  \field{volume}{10}
-  \field{journaltitle}{Circulation: Cardiovascular Interventions}
-  \field{year}{2017}
-  \warn{\item Invalid format of field 'month'}
-\endentry
-
-\lossort
-\endlossort
-
+    \verb{url}
+    \verb http://dx.doi.org/10.1161/CIRCINTERVENTIONS.117.005216
+    \endverb
+    \field{volume}{10}
+    \field{journaltitle}{Circulation: Cardiovascular Interventions}
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+\endsortlist
 \endinput

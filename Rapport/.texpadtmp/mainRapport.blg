@@ -1,6 +1,6 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: /Users/LineLarsen/Desktop/TS1/Rapport/.texpadtmp/mainRapport.aux
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -14,8 +14,9 @@ A level-1 auxiliary file: RAfiler/Analysisanddiscussion.aux
 A level-1 auxiliary file: RAfiler/Conclusions.aux
 A level-1 auxiliary file: RAfiler/Appendix.aux
 A level-1 auxiliary file: RAfiler/Litteraturliste.aux
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -25,49 +26,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
-Biblatex version: 3.0
-Reallocated singl_function (elt_size=4) to 100 items from 50.
+Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 2 entries,
-            6047 wiz_defined-function locations,
-            1152 strings with 8987 characters,
-and the built_in function-call counts, 8144 in all, are:
-= -- 350
-> -- 407
+            6256 wiz_defined-function locations,
+            1199 strings with 9463 characters,
+and the built_in function-call counts, 18702 in all, are:
+= -- 1522
+> -- 401
 < -- 90
-+ -- 209
-- -- 195
-* -- 732
-:= -- 742
++ -- 579
+- -- 193
+* -- 1524
+:= -- 2281
 add.period$ -- 0
 call.type$ -- 2
 change.case$ -- 47
-chr.to.int$ -- 37
+chr.to.int$ -- 33
 cite$ -- 2
-duplicate$ -- 670
-empty$ -- 598
-format.name$ -- 206
-if$ -- 1814
+duplicate$ -- 1532
+empty$ -- 1470
+format.name$ -- 197
+if$ -- 3799
 int.to.chr$ -- 0
 int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 91
+newline$ -- 100
 num.names$ -- 80
-pop$ -- 381
+pop$ -- 451
 preamble$ -- 1
-purify$ -- 65
+purify$ -- 74
 quote$ -- 0
-skip$ -- 492
+skip$ -- 460
 stack$ -- 0
-substring$ -- 365
-swap$ -- 268
-text.length$ -- 74
+substring$ -- 3062
+swap$ -- 326
+text.length$ -- 72
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 64
+type$ -- 56
 warning$ -- 0
-while$ -- 70
+while$ -- 245
 width$ -- 0
-write$ -- 88
+write$ -- 99
