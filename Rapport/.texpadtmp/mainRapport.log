@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  7 FEB 2018 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  7 FEB 2018 13:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1766,6 +1766,45 @@ Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box88
+\beforetitleunit=\skip306
+\aftertitleunit=\skip307
+\ttl@plus=\dimen293
+\ttl@minus=\dimen294
+\ttl@toksa=\toks38
+\titlewidth=\dimen295
+\titlewidthlast=\dimen296
+\titlewidthfirst=\dimen297
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count479
+\c@Blindtext=\count480
+\c@blind@countparstart=\count481
+\blind@countxx=\count482
+\blindtext@numBlindtext=\count483
+\blind@countyy=\count484
+\c@blindlist=\count485
+\c@blindlistlevel=\count486
+\c@blindlist@level=\count487
+\blind@listitem=\count488
+\c@blind@listcount=\count489
+\c@blind@levelcount=\count490
+\blind@mathformula=\count491
+\blind@Mathformula=\count492
+\c@blind@randomcount=\count493
+\c@blind@randommax=\count494
+\c@blind@pangramcount=\count495
+\c@blind@pangrammax=\count496
 )
 
 Class memoir Warning: You are using the caption package with the memoir class. To prepare we will now reset all captioning macros and configurations to kernel defaults, and then let the caption package take over. Please remember to use
@@ -1777,15 +1816,15 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen293
-\captionmargin@=\dimen294
-\captionwidth=\dimen295
-\caption@tempdima=\dimen296
-\caption@indent=\dimen297
-\caption@parindent=\dimen298
-\caption@hangindent=\dimen299
+\captionmargin=\dimen298
+\captionmargin@=\dimen299
+\captionwidth=\dimen300
+\caption@tempdima=\dimen301
+\caption@indent=\dimen302
+\caption@parindent=\dimen303
+\caption@hangindent=\dimen304
 )
-\c@ContinuedFloat=\count479
+\c@ContinuedFloat=\count497
 Package caption Info: float package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
@@ -1823,15 +1862,15 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen300
-\Hy@linkcounter=\count480
-\Hy@pagecounter=\count481
+\@linkdim=\dimen305
+\Hy@linkcounter=\count498
+\Hy@pagecounter=\count499
  (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count482
+\Hy@SavedSpaceFactor=\count500
  (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
@@ -1842,12 +1881,12 @@ Package hyperref Info: Plain pages OFF on input line 4513.
 Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4751.
-\c@Hy@tempcnt=\count483
+\c@Hy@tempcnt=\count501
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen301
-\Fld@menulength=\count484
-\Field@Width=\dimen302
-\Fld@charsize=\dimen303
+\XeTeXLinkMargin=\dimen306
+\Fld@menulength=\count502
+\Field@Width=\dimen307
+\Fld@charsize=\dimen308
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -1857,28 +1896,28 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6383.
 Package hyperref Info: PDF/A mode OFF on input line 6388.
 LaTeX Info: Redefining \ref on input line 6428.
 LaTeX Info: Redefining \pageref on input line 6432.
-\Hy@abspage=\count485
-\c@Item=\count486
-\c@Hfootnote=\count487
+\Hy@abspage=\count503
+\c@Item=\count504
+\c@Hfootnote=\count505
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/memoir/memhfixc.sty
 Package: memhfixc 2013/05/30 v1.17 nameref/hyperref package fixes for memoir class
-\c@memhycontfloat=\count488
-\c@Hpagenote=\count489
+\c@memhycontfloat=\count506
+\c@Hpagenote=\count507
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
-\Fld@listcount=\count490
-\c@bookmark@seq@number=\count491
+\Fld@listcount=\count508
+\c@bookmark@seq@number=\count509
  (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
-\Hy@SectionHShift=\skip306
+\Hy@SectionHShift=\skip308
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 232.
+Package hyperref Info: Option `colorlinks' set `false' on input line 242.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2013/12/28 v0.19 Intelligent cross-referencing
 LaTeX Info: Redefining \Cref on input line 955.
@@ -1904,69 +1943,69 @@ Package cleveref Info: `listings' support loaded on input line 2950.
 Package: units 1998/08/04 v0.9b Typesetting units
  (/usr/local/texlive/2017/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
-\L@UnitsRaiseDisplaystyle=\skip307
-\L@UnitsRaiseTextstyle=\skip308
-\L@UnitsRaiseScriptstyle=\skip309
+\L@UnitsRaiseDisplaystyle=\skip309
+\L@UnitsRaiseTextstyle=\skip310
+\L@UnitsRaiseScriptstyle=\skip311
 )) (/usr/local/texlive/2017/texmf-dist/tex/latex/tabu/tabu.sty
 Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box88
-\sift@deathcycles=\count492
-\@vwid@loff=\dimen304
-\@vwid@roff=\dimen305
+\@vwid@box=\box89
+\sift@deathcycles=\count510
+\@vwid@loff=\dimen309
+\@vwid@roff=\dimen310
 )
-\c@taburow=\count493
-\tabu@nbcols=\count494
-\tabu@cnt=\count495
-\tabu@Xcol=\count496
-\tabu@alloc=\count497
-\tabu@nested=\count498
-\tabu@target=\dimen306
-\tabu@spreadtarget=\dimen307
-\tabu@naturalX=\dimen308
-\tabucolX=\dimen309
-\tabu@Xsum=\dimen310
-\extrarowdepth=\dimen311
-\abovetabulinesep=\dimen312
-\belowtabulinesep=\dimen313
-\tabustrutrule=\dimen314
-\tabu@thebody=\toks38
-\tabu@footnotes=\toks39
-\tabu@box=\box89
-\tabu@arstrutbox=\box90
-\tabu@hleads=\box91
-\tabu@vleads=\box92
-\tabu@cellskip=\skip310
+\c@taburow=\count511
+\tabu@nbcols=\count512
+\tabu@cnt=\count513
+\tabu@Xcol=\count514
+\tabu@alloc=\count515
+\tabu@nested=\count516
+\tabu@target=\dimen311
+\tabu@spreadtarget=\dimen312
+\tabu@naturalX=\dimen313
+\tabucolX=\dimen314
+\tabu@Xsum=\dimen315
+\extrarowdepth=\dimen316
+\abovetabulinesep=\dimen317
+\belowtabulinesep=\dimen318
+\tabustrutrule=\dimen319
+\tabu@thebody=\toks39
+\tabu@footnotes=\toks40
+\tabu@box=\box90
+\tabu@arstrutbox=\box91
+\tabu@hleads=\box92
+\tabu@vleads=\box93
+\tabu@cellskip=\skip312
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip311
-\LTright=\skip312
-\LTpre=\skip313
-\LTpost=\skip314
-\LTchunksize=\count499
-\LTcapwidth=\dimen315
-\LT@head=\box93
-\LT@firsthead=\box94
-\LT@foot=\box95
-\LT@lastfoot=\box96
-\LT@cols=\count500
-\LT@rows=\count501
-\c@LT@tables=\count502
-\c@LT@chunks=\count503
-\LT@p@ftn=\toks40
+\LTleft=\skip313
+\LTright=\skip314
+\LTpre=\skip315
+\LTpost=\skip316
+\LTchunksize=\count517
+\LTcapwidth=\dimen320
+\LT@head=\box94
+\LT@firsthead=\box95
+\LT@foot=\box96
+\LT@lastfoot=\box97
+\LT@cols=\count518
+\LT@rows=\count519
+\c@LT@tables=\count520
+\c@LT@chunks=\count521
+\LT@p@ftn=\toks41
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/tabto-ltx/tabto.sty
 Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
-\CurrentLineWidth=\dimen316
+\CurrentLineWidth=\dimen321
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/breakurl/breakurl.sty
 Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
  (/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
  (/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks41
-\XKV@tempa@toks=\toks42
+\XKV@toks=\toks42
+\XKV@tempa@toks=\toks43
 )
-\XKV@depth=\count504
+\XKV@depth=\count522
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 
@@ -1993,8 +2032,8 @@ File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count505
-\@quotereset=\count506
+\@quotelevel=\count523
+\@quotereset=\count524
 (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/ProblemStatement.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux))
 \openout1 = `mainRapport.aux'.
 
@@ -2022,17 +2061,17 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Info: Redefining \selectfont on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count507
-\scratchdimen=\dimen317
-\scratchbox=\box97
-\nofMPsegments=\count508
-\nofMParguments=\count509
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count510
-\MPscratchDim=\dimen318
-\MPnumerator=\count511
-\makeMPintoPDFobject=\count512
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count525
+\scratchdimen=\dimen322
+\scratchbox=\box98
+\nofMPsegments=\count526
+\nofMParguments=\count527
+\everyMPshowfont=\toks44
+\MPscratchCnt=\count528
+\MPscratchDim=\dimen323
+\MPnumerator=\count529
+\makeMPintoPDFobject=\count530
+\everyMPtoPDFconversion=\toks45
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -2067,7 +2106,7 @@ Package biblatex Warning: Biber reported the following issues
 )
 Package biblatex Info: Reference section=0 on input line 4.
 Package biblatex Info: Reference segment=0 on input line 4.
-\AtBeginShipoutBox=\box98
+\AtBeginShipoutBox=\box99
 .................................................
 . chemgreek info: "mapping-activated"
 . 
@@ -2078,7 +2117,7 @@ Dictionary: translator-basic-dictionary, Language: English
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 )
-\c@lstlisting=\count513
+\c@lstlisting=\count531
  (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
  (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/lscape.sty
@@ -2099,7 +2138,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count514
+\c@section@level=\count532
 LaTeX Info: Redefining \Ref on input line 515.
 )
 Redoing nameref's sectioning
@@ -2113,7 +2152,7 @@ LaTeX Info: Redefining \nameref on input line 4.
 \openout6 = `mainRapport.out'.
 
 LaTeX Info: Redefining \Ref on input line 4.
-\c__siunitx_mathsf_int=\count515
+\c__siunitx_mathsf_int=\count533
 LaTeX Font Info:    Try loading font information for U+msa on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2124,7 +2163,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
  (/usr/local/texlive/2017/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
-\c__siunitx_mathtt_int=\count516
+\c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
  (./RAfiler/Forside.tex <Figure/Ase.jpg, id=56, 1176.395pt x 299.1175pt>
@@ -2146,7 +2185,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 ])
 \openout2 = `RAfiler/Abstract.aux'.
 
- (./RAfiler/Abstract.tex (/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/t1pbk.fd))pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+ (./RAfiler/Abstract.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.7 \include{RAfiler/Abstract}
@@ -2271,18 +2310,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36133 strings out of 492995
- 656903 string characters out of 6132705
- 1304683 words of memory out of 5000000
- 39105 multiletter control sequences out of 15000+600000
- 547478 words of font info for 65 fonts, out of 8000000 for 9000
+ 36504 strings out of 492995
+ 662439 string characters out of 6132705
+ 1321285 words of memory out of 5000000
+ 39468 multiletter control sequences out of 15000+600000
+ 545272 words of font info for 62 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 45i,12n,47p,10489b,1865s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (17 pages, 214236 bytes).
+ 45i,11n,47p,10489b,1885s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (17 pages, 211886 bytes).
 PDF statistics:
- 199 PDF objects out of 1000 (max. 8388607)
- 167 compressed objects within 2 object streams
+ 194 PDF objects out of 1000 (max. 8388607)
+ 163 compressed objects within 2 object streams
  32 named destinations out of 1000 (max. 500000)
  110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

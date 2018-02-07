@@ -137,33 +137,43 @@
 }
 
 %% Kapiteludssende %%
-\definecolor{numbercolor}{gray}{0.7}		            % Definerer en farve til brug til kapiteludseende
-\newif\ifchapternonum
+%\definecolor{numbercolor}{gray}{0.7}		            % Definerer en farve til brug til kapiteludseende
+%\newif\ifchapternonum
+%
+%\makechapterstyle{jenor}{					        % Definerer kapiteludseende frem til ...
+%  \renewcommand\beforechapskip{0pt}
+%  \renewcommand\printchaptername{}
+%  \renewcommand\printchapternum{}
+%  \renewcommand\printchapternonum{\chapternonumtrue}
+%  \renewcommand\chaptitlefont{\fontfamily{pbk}\fontseries{db}\fontshape{n}\fontsize{25}{35}\selectfont\raggedleft}
+%  \renewcommand\chapnumfont{\fontfamily{pbk}\fontseries{m}\fontshape{n}\fontsize{1in}{0in}\selectfont\color{numbercolor}}
+%  \renewcommand\printchaptertitle[1]{%
+%    \noindent
+%    \ifchapternonum
+%    \begin{tabularx}{\textwidth}{X}
+%    {\let\\\newline\chaptitlefont ##1\par} 
+%    \end{tabularx}
+%    \par\vskip-2.5mm\hrule
+%    \else
+%    \begin{tabularx}{\textwidth}{Xl}
+%    {\parbox[b]{\linewidth}{\chaptitlefont ##1}} & \raisebox{-15pt}{\chapnumfont \thechapter}
+%    \end{tabularx}
+%    \par\vskip2mm\hrule
+%    \fi
+%  }
+%}											        % ... her
+%
+%\chapterstyle{jenor}						        % Valg af kapiteludseende - Google 'memoir chapter styles' for alternativer
 
-\makechapterstyle{jenor}{					        % Definerer kapiteludseende frem til ...
-  \renewcommand\beforechapskip{0pt}
-  \renewcommand\printchaptername{}
-  \renewcommand\printchapternum{}
-  \renewcommand\printchapternonum{\chapternonumtrue}
-  \renewcommand\chaptitlefont{\fontfamily{pbk}\fontseries{db}\fontshape{n}\fontsize{25}{35}\selectfont\raggedleft}
-  \renewcommand\chapnumfont{\fontfamily{pbk}\fontseries{m}\fontshape{n}\fontsize{1in}{0in}\selectfont\color{numbercolor}}
-  \renewcommand\printchaptertitle[1]{%
-    \noindent
-    \ifchapternonum
-    \begin{tabularx}{\textwidth}{X}
-    {\let\\\newline\chaptitlefont ##1\par} 
-    \end{tabularx}
-    \par\vskip-2.5mm\hrule
-    \else
-    \begin{tabularx}{\textwidth}{Xl}
-    {\parbox[b]{\linewidth}{\chaptitlefont ##1}} & \raisebox{-15pt}{\chapnumfont \thechapter}
-    \end{tabularx}
-    \par\vskip2mm\hrule
-    \fi
-  }
-}											        % ... her
+\usepackage{xr}
+%\documentclass{report}
+\usepackage[T1]{fontenc}
+\usepackage{titlesec, blindtext, color}
+\definecolor{gray75}{gray}{0.75}
+\newcommand{\hsp}{\hspace{20pt}}
+\titleformat{\chapter}[hang]{\Huge\bfseries}{\thechapter\hsp\textcolor{gray75}{|}\hsp}{0pt}{\Huge\bfseries}
+\titlespacing*{\chapter}{0pt}{-20pt}{15pt} %ændre på placering af titel på kapitel
 
-\chapterstyle{jenor}						        % Valg af kapiteludseende - Google 'memoir chapter styles' for alternativer
 
 %% Sidehoved %%
 
@@ -181,7 +191,7 @@
 \nouppercaseheads									% Ingen Caps ønskes
 
 \makeevenhead{AAU}{\small E17BAC }{}{\leftmark}	% Definerer lige siders sidehoved (\makeevenhead{Navn}{Venstre}{Center}{Hoejre})
-\makeevenfoot{AAU}{\footnotesize Page \thepage\ of \thelastpage}{}{}						% Definerer lige siders sidefod (\makeevenfoot{Navn}{Venstre}{Center}{Højre})
+\makeevenfoot{AAU}{}{}{\footnotesize Page \thepage\ of \thelastpage}					% Definerer lige siders sidefod (\makeevenfoot{Navn}{Venstre}{Center}{Højre})
 \makeoddfoot{AAU}{}{}{\footnotesize Page \thepage\ of \thelastpage}						% Definerer ulige siders sidefod (\makeoddfoot{Navn}{Venstre}{Center}{Højre})
 
 \copypagestyle{AAUchap}{AAU}							% Sidehoved for kapitelsider defineres som standardsider, men med blank sidehoved
