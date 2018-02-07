@@ -12,6 +12,6 @@
 \contentsline {chapter}{\chapternumberline {6}Analysis and discussion}{6}{chapter.6}
 \contentsline {chapter}{\chapternumberline {7}Conclusion}{7}{chapter.7}
 \contentsline {chapter}{Appendix}{8}{chapter*.4}
-\contentsline {chapter}{Referencer}{9}{section*.6}
+\contentsline {chapter}{References}{9}{section*.6}
 \contentsline {chapter}{List of Figures}{10}{section*.7}
 \contentsline {chapter}{List of Tables}{11}{section*.8}
