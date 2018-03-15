@@ -97,5 +97,30 @@
     \field{year}{2017}
     \warn{\item Invalid format of field 'month'}
   \endentry
+
+  \entry{sundhedsvaesen}{book}{}
+    \name{author}{1}{}{%
+      {{hash=eaBRH}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al.},
+         familyi={a\bibinitperiod},
+         given={Bjarne Rose\bibnamedelima Hjortbak},
+         giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
+  H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {munksgaard}%
+    }
+    \strng{namehash}{aBRHe1}
+    \strng{fullhash}{aBRHe1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{2}
+    \field{title}{Sundhedsv{\ae}senet p{\aa} tv{\ae}rs - opgaver, organisation
+  og regulering}
+    \field{year}{2013}
+  \endentry
 \endsortlist
 \endinput
