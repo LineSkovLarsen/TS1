@@ -29,47 +29,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
+Warning--entry type for "Hjerteforening" isn't style-file defined
+--line 26 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 2 entries,
+You've used 3 entries,
             6256 wiz_defined-function locations,
-            1198 strings with 9415 characters,
-and the built_in function-call counts, 18702 in all, are:
-= -- 1522
-> -- 401
-< -- 90
-+ -- 579
-- -- 193
-* -- 1524
-:= -- 2281
+            1195 strings with 9144 characters,
+and the built_in function-call counts, 5618 in all, are:
+= -- 245
+> -- 134
+< -- 27
++ -- 83
+- -- 55
+* -- 230
+:= -- 538
 add.period$ -- 0
-call.type$ -- 2
-change.case$ -- 47
-chr.to.int$ -- 33
-cite$ -- 2
-duplicate$ -- 1532
-empty$ -- 1470
-format.name$ -- 197
-if$ -- 3799
+call.type$ -- 3
+change.case$ -- 7
+chr.to.int$ -- 32
+cite$ -- 4
+duplicate$ -- 532
+empty$ -- 666
+format.name$ -- 43
+if$ -- 1267
 int.to.chr$ -- 0
 int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 100
-num.names$ -- 80
-pop$ -- 451
+newline$ -- 42
+num.names$ -- 38
+pop$ -- 697
 preamble$ -- 1
-purify$ -- 74
+purify$ -- 10
 quote$ -- 0
-skip$ -- 460
+skip$ -- 269
 stack$ -- 0
-substring$ -- 3062
-swap$ -- 326
-text.length$ -- 72
+substring$ -- 317
+swap$ -- 132
+text.length$ -- 41
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 56
+type$ -- 89
 warning$ -- 0
-while$ -- 245
+while$ -- 72
 width$ -- 0
-write$ -- 99
+write$ -- 40
+(There was 1 warning)

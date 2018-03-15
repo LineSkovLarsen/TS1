@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  15 MAR 2018 11:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  15 MAR 2018 14:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2097,13 +2097,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'mainRapport.bbl' found.
- (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.bbl
-
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'example':
-(biblatex)                - Invalid format of field 'month'.
-
-)
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.bbl)
 Package biblatex Info: Reference section=0 on input line 4.
 Package biblatex Info: Reference segment=0 on input line 4.
 \AtBeginShipoutBox=\box99
@@ -2208,49 +2202,49 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 ]
 \openout2 = `RAfiler/Introduction.aux'.
 
- (./RAfiler/Introduction.tex) [1
+ (./RAfiler/Introduction.tex [1
 
 
 
-]
+]) [2]
 \openout2 = `RAfiler/Method.aux'.
 
- (./RAfiler/Method.tex) [2
+ (./RAfiler/Method.tex) [3
 
 
 
 ]
 \openout2 = `RAfiler/Theory.aux'.
 
- (./RAfiler/Theory.tex) [3
+ (./RAfiler/Theory.tex) [4
 
 
 
 ]
 \openout2 = `RAfiler/Empiricalprocess.aux'.
 
- (./RAfiler/Empiricalprocess.tex) [4
+ (./RAfiler/Empiricalprocess.tex) [5
 
 
 
 ]
 \openout2 = `RAfiler/Analysisanddiscussion.aux'.
 
- (./RAfiler/Analysisanddiscussion.tex) [5
+ (./RAfiler/Analysisanddiscussion.tex) [6
 
 
 
 ]
 \openout2 = `RAfiler/Conclusions.aux'.
 
- (./RAfiler/Conclusions.tex) [6
+ (./RAfiler/Conclusions.tex) [7
 
 
 
 ]
 \openout2 = `RAfiler/Appendix.aux'.
 
- (./RAfiler/Appendix.tex) [7
+ (./RAfiler/Appendix.tex) [8
 
 
 
@@ -2258,20 +2252,28 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 ]
 \openout2 = `RAfiler/Litteraturliste.aux'.
 
- (./RAfiler/Litteraturliste.tex) [8
+ (./RAfiler/Litteraturliste.tex
+Underfull \hbox (badness 1661) in paragraph at lines 1--1
+[]\T1/cmr/m/n/10.95 Sundhedsstyrelsen. Vejledning om hjerterehabilitering på sygehuse. Center for
+ []
+
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 1.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)) [9
 
 
 
 ] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
-) [9
+) [10
 
 
 ] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
-[10
+[11
 
 ]
 \tf@toc=\write7
@@ -2297,18 +2299,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36525 strings out of 492995
- 661744 string characters out of 6132704
+ 36580 strings out of 492995
+ 662874 string characters out of 6132704
  1322243 words of memory out of 5000000
- 39489 multiletter control sequences out of 15000+600000
- 547932 words of font info for 66 fonts, out of 8000000 for 9000
+ 39533 multiletter control sequences out of 15000+600000
+ 552728 words of font info for 85 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  45i,11n,47p,10489b,1900s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (14 pages, 247299 bytes).
+{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (15 pages, 280324 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
+ 37 named destinations out of 1000 (max. 500000)
  150 words of extra memory for PDF output out of 10000 (max. 10000000)
 
