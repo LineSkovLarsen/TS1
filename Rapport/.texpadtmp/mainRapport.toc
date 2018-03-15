@@ -6,6 +6,7 @@
 \contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Problem Statement}{2}{chapter.2}
+\contentsline {section}{\numberline {2.1}Delimitation}{2}{section.2.1}
 \contentsline {chapter}{\chapternumberline {3}Method}{3}{chapter.3}
 \contentsline {chapter}{\chapternumberline {4}Theory}{4}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Empirical process}{5}{chapter.5}
