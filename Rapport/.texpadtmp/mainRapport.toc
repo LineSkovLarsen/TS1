@@ -5,14 +5,18 @@
 \contentsline {chapter}{Abstract}{i}{chapter*.2}
 \contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Problem Statement}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Delimitation}{2}{section.2.1}
-\contentsline {chapter}{\chapternumberline {3}Method}{3}{chapter.3}
-\contentsline {chapter}{\chapternumberline {4}Theory}{4}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Empirical process}{5}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Analysis and discussion}{6}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Conclusion}{7}{chapter.7}
-\contentsline {chapter}{Appendix}{8}{chapter*.4}
-\contentsline {chapter}{References}{9}{section*.6}
-\contentsline {chapter}{List of Figures}{10}{section*.7}
-\contentsline {chapter}{List of Tables}{11}{section*.8}
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Technology}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}The Danish Healthcare System}{1}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{1}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Problemstatement}{1}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Delimitation}{1}{subsection.1.2.1}
+\contentsline {chapter}{\chapternumberline {2}Method}{2}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}Theory}{3}{chapter.3}
+\contentsline {chapter}{\chapternumberline {4}Empirical process}{4}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Analysis and discussion}{5}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Conclusion}{6}{chapter.6}
+\contentsline {chapter}{Appendix}{7}{chapter*.4}
+\contentsline {chapter}{References}{8}{section*.6}
+\contentsline {chapter}{List of Figures}{9}{section*.7}
+\contentsline {chapter}{List of Tables}{10}{section*.8}
