@@ -27,8 +27,6 @@
          given={Bjarne Rose\bibnamedelima Hjortbak},
          giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim
   H\bibinitperiod},
-<<<<<<< HEAD
-=======
       }}%
     }
     \list{publisher}{1}{%
@@ -42,6 +40,35 @@
     \field{title}{Sundhedsv{\ae}senet p{\aa} tv{\ae}rs - opgaver, organisation
   og regulering}
     \field{year}{2013}
+  \endentry
+
+  \entry{indenrigs}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{The local government reform}
+    \field{journaltitle}{The Ministry of the Interior and Health}
+    \field{year}{2005}
+  \endentry
+
+  \entry{Healthcareindk2}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Health Care in Denmark - an overview}
+    \field{journaltitle}{Healthcare Denmark and Ministry of health}
+    \field{year}{2017}
+  \endentry
+
+  \entry{sundhedsministeriet}{article}{}
+    \field{labeltitlesource}{title}
+    \field{title}{Health Care in Denmark}
+    \field{journaltitle}{Ministry of Health and prevention}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ministryofhealth}{misc}{}
+    \verb{url}
+    \verb http://www.sum.dk/Om-ministeriet/Ministeriets-historie.aspx
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Rehabilitering}{article}{}
@@ -220,7 +247,6 @@
          familyi={L\bibinitperiod},
          given={Sussie},
          giveni={S\bibinitperiod},
->>>>>>> 92c2d2c8ac99de91bc23869ea1756629f70dedcf
       }}%
     }
     \list{publisher}{1}{%
@@ -292,57 +318,6 @@
   Association}
     \field{year}{2007}
     \warn{\item Invalid format of field 'month'}
-  \endentry
-
-  \entry{indenrigs}{article}{}
-    \field{labeltitlesource}{title}
-    \field{title}{The local government reform}
-    \field{journaltitle}{The Ministry of the Interior and Health}
-    \field{year}{2005}
-  \endentry
-
-  \entry{Healthcareindk2}{article}{}
-    \field{labeltitlesource}{title}
-    \field{title}{Health Care in Denmark - an overview}
-    \field{journaltitle}{Healthcare Denmark and Ministry of health}
-    \field{year}{2017}
-  \endentry
-
-  \entry{sundhedsministeriet}{article}{}
-    \field{labeltitlesource}{title}
-    \field{title}{Health Care in Denmark}
-    \field{journaltitle}{Ministry of Health and prevention}
-    \field{year}{2008}
-  \endentry
-
-  \entry{ministryofhealth}{misc}{}
-    \verb{url}
-    \verb http://www.sum.dk/Om-ministeriet/Ministeriets-historie.aspx
-    \endverb
-    \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
-  \endentry
-
-  \entry{Rehabilitering}{article}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={Sundhedsstyrelsen},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Vejledning om hjerterehabilitering p{\aa} sygehuse}
-    \field{journaltitle}{Center for Forebyggelse og Enhed for Planl{\ae}gning}
-    \field{year}{2004}
-  \endentry
-
-  \entry{Hjerteforening}{misc}{}
-    \verb{url}
-    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
-    \endverb
   \endentry
 \endsortlist
 \endinput
