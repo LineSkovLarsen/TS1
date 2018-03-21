@@ -32,6 +32,7 @@ Database file #2: ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
 --line 18 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
+<<<<<<< HEAD
 --line 64 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
@@ -78,3 +79,51 @@ while$ -- 123
 width$ -- 0
 write$ -- 87
 (There were 2 warnings)
+=======
+--line 96 of file ../bibliography.bib
+Biblatex version: 3.3
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 9 entries,
+            6256 wiz_defined-function locations,
+            1236 strings with 10664 characters,
+and the built_in function-call counts, 56681 in all, are:
+= -- 4192
+> -- 1136
+< -- 290
++ -- 1453
+- -- 478
+* -- 4282
+:= -- 5967
+add.period$ -- 0
+call.type$ -- 9
+change.case$ -- 143
+chr.to.int$ -- 34
+cite$ -- 16
+duplicate$ -- 5339
+empty$ -- 5098
+format.name$ -- 634
+if$ -- 11785
+int.to.chr$ -- 0
+int.to.str$ -- 18
+missing$ -- 0
+newline$ -- 285
+num.names$ -- 366
+pop$ -- 2845
+preamble$ -- 1
+purify$ -- 215
+quote$ -- 0
+skip$ -- 1664
+stack$ -- 0
+substring$ -- 7778
+swap$ -- 1209
+text.length$ -- 234
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 293
+warning$ -- 0
+while$ -- 639
+width$ -- 0
+write$ -- 277
+(There was 1 warning)
+>>>>>>> 92c2d2c8ac99de91bc23869ea1756629f70dedcf
