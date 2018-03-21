@@ -17,28 +17,6 @@
 \endgroup
 
 \sortlist[entry]{none/global/}
-  \entry{Rehabilitering}{article}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={Sundhedsstyrelsen},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Vejledning om hjerterehabilitering p{\aa} sygehuse}
-    \field{journaltitle}{Center for Forebyggelse og Enhed for Planl{\ae}gning}
-    \field{year}{2004}
-  \endentry
-
-  \entry{Hjerteforening}{misc}{}
-    \verb{url}
-    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
-    \endverb
-  \endentry
-
   \entry{sundhedsvaesen}{book}{}
     \name{author}{1}{}{%
       {{hash=eaBRH}{%
@@ -62,6 +40,255 @@
     \field{title}{Sundhedsv{\ae}senet p{\aa} tv{\ae}rs - opgaver, organisation
   og regulering}
     \field{year}{2013}
+  \endentry
+
+  \entry{Rehabilitering}{article}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Sundhedsstyrelsen},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Vejledning om hjerterehabilitering p{\aa} sygehuse}
+    \field{journaltitle}{Center for Forebyggelse og Enhed for Planl{\ae}gning}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Hjerteforening}{misc}{}
+    \verb{url}
+    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
+    \endverb
+  \endentry
+
+  \entry{4}{article}{}
+    \name{author}{8}{}{%
+      {{hash=CAM}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Alexander\bibnamedelima M.},
+         giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KSKM}{%
+         family={King-Shier},
+         familyi={K\bibinitperiod-S\bibinitperiod},
+         given={Kathryn\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=TDR}{%
+         family={Thompson},
+         familyi={T\bibinitperiod},
+         given={David\bibnamedelima R.},
+         giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SMA}{%
+         family={Spaling},
+         familyi={S\bibinitperiod},
+         given={Melisa\bibnamedelima A.},
+         giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=DAS}{%
+         family={Duncan},
+         familyi={D\bibinitperiod},
+         given={Amanda\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=SJA}{%
+         family={Stone},
+         familyi={S\bibinitperiod},
+         given={James\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=JSB}{%
+         family={Jaglal},
+         familyi={J\bibinitperiod},
+         given={Susan\bibnamedelima B.},
+         giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AJE}{%
+         family={Angus},
+         familyi={A\bibinitperiod},
+         given={Jan\bibnamedelima E.},
+         giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CAMKSKMTDRSMADASSJAJSBAJE1}
+    \strng{fullhash}{CAMKSKMTDRSMADASSJAJSBAJE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A qualitative systematic review of influences on attendance
+  at cardiac rehabilitation programs}
+    \field{journaltitle}{American Heart Journal}
+    \field{year}{2012}
+  \endentry
+
+  \entry{5}{article}{}
+    \name{author}{5}{}{%
+      {{hash=BJM}{%
+         family={Bailey},
+         familyi={B\bibinitperiod},
+         given={Jacqueline\bibnamedelima M.},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WPM}{%
+         family={Wye},
+         familyi={W\bibinitperiod},
+         given={Paula\bibnamedelima M.},
+         giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={H.Wiggers},
+         familyi={H\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=BKM}{%
+         family={Bartlem},
+         familyi={B\bibinitperiod},
+         given={Kate\bibnamedelima M.},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=BJA}{%
+         family={Bowman},
+         familyi={B\bibinitperiod},
+         given={Jennifer\bibnamedelima A.},
+         giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BJMWPMHJBKMBJA1}
+    \strng{fullhash}{BJMWPMHJBKMBJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Family carers: A role in addressing chronic disease risk
+  behaviours for people with a mental illness?}
+    \field{journaltitle}{Preventive Medicine Reports}
+    \field{year}{2017}
+  \endentry
+
+  \entry{12}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LLM}{%
+         family={LaFramboise},
+         familyi={L\bibinitperiod},
+         given={Louise\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Woster},
+         familyi={W\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YA}{%
+         family={Yager},
+         familyi={Y\bibinitperiod},
+         given={Amy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=YBC}{%
+         family={Yates},
+         familyi={Y\bibinitperiod},
+         given={Bernice\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LLMWJYAYBC1}
+    \strng{fullhash}{LLMWJYAYBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Technological Life Buoy Patient Perceptions of the Health
+  Buddy}
+    \field{journaltitle}{Journal of Cardiovascular Nursing}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Bregendahl_2016}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BAW}{%
+         family={Bregendahl},
+         familyi={B\bibinitperiod},
+         given={Ann\bibnamedelima Wolff},
+         giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Laustsen},
+         familyi={L\bibinitperiod},
+         given={Sussie},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Scandinavian University Press / Universitetsforlaget AS}%
+    }
+    \strng{namehash}{BAWLS1}
+    \strng{fullhash}{BAWLS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.18261/issn.1903-2285-2016-02-06
+    \endverb
+    \field{issn}{0902-2767}
+    \field{number}{02}
+    \field{pages}{129\bibrangedash 142}
+    \field{title}{P{\aa}r{\o}rendes oplevelse af hjertepatientens
+  telemedicinske rehabiliteringsforl{\o}b - Relatives' Experiences of Patients'
+  Telemonitored Cardiac Rehabilitation}
+    \verb{url}
+    \verb http://dx.doi.org/10.18261/issn.1903-2285-2016-02-06
+    \endverb
+    \field{volume}{43}
+    \field{journaltitle}{Klinisk Sygepleje}
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{7}{article}{}
+    \name{author}{3}{}{%
+      {{hash=PG}{%
+         family={Pare},
+         familyi={P\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Jaana},
+         familyi={J\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Sicotte},
+         familyi={S\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press (OUP)}%
+    }
+    \strng{namehash}{PGJMSC1}
+    \strng{fullhash}{PGJMSC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1197/jamia.m2270
+    \endverb
+    \field{issn}{1527-974X}
+    \field{number}{3}
+    \field{pages}{269\bibrangedash 277}
+    \field{title}{Systematic Review of Home Telemonitoring for Chronic
+  Diseases: The Evidence Base}
+    \verb{url}
+    \verb http://dx.doi.org/10.1197/jamia.M2270
+    \endverb
+    \field{volume}{14}
+    \field{journaltitle}{Journal of the American Medical Informatics
+  Association}
+    \field{year}{2007}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 \endsortlist
 \endinput
