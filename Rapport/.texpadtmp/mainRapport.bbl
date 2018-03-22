@@ -42,24 +42,33 @@
     \field{year}{2013}
   \endentry
 
-  \entry{indenrigs}{article}{}
+  \entry{indenrigs}{manual}{}
+    \list{organization}{2}{%
+      {The Ministry of the Interior}%
+      {Health}%
+    }
     \field{labeltitlesource}{title}
     \field{title}{The local government reform}
-    \field{journaltitle}{The Ministry of the Interior and Health}
     \field{year}{2005}
   \endentry
 
-  \entry{Healthcareindk2}{article}{}
+  \entry{Healthcareindk2}{manual}{}
+    \list{organization}{2}{%
+      {Healthcare Denmark}%
+      {Ministry of Health}%
+    }
     \field{labeltitlesource}{title}
     \field{title}{Health Care in Denmark - an overview}
-    \field{journaltitle}{Healthcare Denmark and Ministry of health}
     \field{year}{2017}
   \endentry
 
-  \entry{sundhedsministeriet}{article}{}
+  \entry{sundhedsministeriet}{manual}{}
+    \list{organization}{2}{%
+      {Ministry of Health}%
+      {Prevention}%
+    }
     \field{labeltitlesource}{title}
     \field{title}{Health Care in Denmark}
-    \field{journaltitle}{Ministry of Health and prevention}
     \field{year}{2008}
   \endentry
 
@@ -69,6 +78,17 @@
     \endverb
     \field{year}{2016}
     \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{behandlingsforlob}{manual}{}
+    \list{organization}{1}{%
+      {Danish Health Authority}%
+    }
+    \field{labeltitlesource}{title}
+    \field{edition}{1}
+    \field{title}{Anbefalinger for tv{\ae}rsektorielle forl{\o}b for mennesker
+  med hjertesygdom}
+    \field{year}{2018}
   \endentry
 
   \entry{Rehabilitering}{article}{}
