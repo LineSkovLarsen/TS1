@@ -22,8 +22,9 @@
 \contentsline {chapter}{\chapternumberline {4}Empirical process}{9}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis and discussion}{10}{chapter.5}
 \contentsline {subsection}{\numberline {5.0.1}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{10}{subsection.5.0.1}
-\contentsline {chapter}{\chapternumberline {6}Conclusion}{11}{chapter.6}
-\contentsline {chapter}{Appendix}{12}{chapter*.11}
-\contentsline {chapter}{References}{13}{section*.13}
-\contentsline {chapter}{List of Figures}{14}{section*.14}
-\contentsline {chapter}{List of Tables}{15}{section*.15}
+\contentsline {subsection}{\numberline {5.0.2}Comparison with telemedicine solution for COPD patients}{10}{subsection.5.0.2}
+\contentsline {chapter}{\chapternumberline {6}Conclusion}{12}{chapter.6}
+\contentsline {chapter}{Appendix}{13}{chapter*.11}
+\contentsline {chapter}{References}{14}{section*.13}
+\contentsline {chapter}{List of Figures}{15}{section*.14}
+\contentsline {chapter}{List of Tables}{16}{section*.15}

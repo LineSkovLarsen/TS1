@@ -339,5 +339,20 @@
     \field{year}{2007}
     \warn{\item Invalid format of field 'month'}
   \endentry
+
+  \entry{KOL_1}{misc}{}
+    \verb{url}
+    \verb http://www.sum.dk/Aktuelt/Nyheder/Digitalisering/2012/August/~/media/
+    \verb Filer%20-%20Publikationer_i_pdf/2012/Telemedicin/Telemedicinsk-handli
+    \verb ngsplan.ashx
+    \endverb
+  \endentry
+
+  \entry{KOL_2}{misc}{}
+    \verb{url}
+    \verb http://www.rn.dk/sundhed/til-sundhedsfaglige-og-samarbejdspartnere/te
+    \verb lecare-nord/national-udbredelse
+    \endverb
+  \endentry
 \endsortlist
 \endinput
