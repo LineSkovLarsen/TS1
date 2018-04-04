@@ -80,6 +80,25 @@
     \warn{\item Invalid format of field 'month'}
   \endentry
 
+  \entry{retningsrehab}{manual}{}
+    \list{organization}{1}{%
+      {Sundhedsstyrrelsen}%
+    }
+    \field{labeltitlesource}{title}
+    \field{edition}{1.1}
+    \field{title}{NATIONAL KLINISK RETNINGSLINJE FOR HJERTEREHABILITERING}
+    \field{year}{2015}
+  \endentry
+
+  \entry{WHO}{manual}{}
+    \list{organization}{1}{%
+      {World Health Organization}%
+    }
+    \field{labeltitlesource}{title}
+    \field{title}{WORLD REPORT ON DISABILITY}
+    \field{year}{2011}
+  \endentry
+
   \entry{behandlingsforlob}{manual}{}
     \list{organization}{1}{%
       {Danish Health Authority}%
