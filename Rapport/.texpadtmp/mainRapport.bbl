@@ -17,6 +17,16 @@
 \endgroup
 
 \sortlist[entry]{none/global/}
+  \entry{Technical}{manual}{}
+    \list{organization}{1}{%
+      {Technical annex}%
+    }
+    \field{labeltitlesource}{title}
+    \field{title}{Virtual Coaching Activities for Rehabilitation in Elderly
+  (vCare)}
+    \field{journaltitle}{Research and Innovation actions}
+  \endentry
+
   \entry{sundhedsvaesen}{book}{}
     \name{author}{1}{}{%
       {{hash=eaBRH}{%
@@ -86,7 +96,7 @@
     }
     \field{labeltitlesource}{title}
     \field{edition}{1.1}
-    \field{title}{NATIONAL KLINISK RETNINGSLINJE FOR HJERTEREHABILITERING}
+    \field{title}{National klinisk retningslinje for hjerterehabilitering}
     \field{year}{2015}
   \endentry
 
@@ -95,7 +105,7 @@
       {World Health Organization}%
     }
     \field{labeltitlesource}{title}
-    \field{title}{WORLD REPORT ON DISABILITY}
+    \field{title}{World report on disability}
     \field{year}{2011}
   \endentry
 
@@ -108,6 +118,40 @@
     \field{title}{Anbefalinger for tv{\ae}rsektorielle forl{\o}b for mennesker
   med hjertesygdom}
     \field{year}{2018}
+  \endentry
+
+  \entry{Emergence}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={Jannie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI AG}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3390/ijerph15010061
+    \endverb
+    \field{issn}{1660-4601}
+    \field{number}{1}
+    \field{pages}{61}
+    \field{title}{The Emergence and Unfolding of Telemonitoring Practices in
+  Different Healthcare Organizations}
+    \verb{url}
+    \verb http://dx.doi.org/10.3390/ijerph15010061
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{International Journal of Environmental Research and
+  Public Health}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Rehabilitering}{article}{}
