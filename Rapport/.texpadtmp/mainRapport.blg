@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -36,49 +36,49 @@ Warning--entry type for "KOL_1" isn't style-file defined
 Warning--entry type for "ministryofhealth" isn't style-file defined
 --line 72 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 180 of file ../bibliography.bib
+--line 187 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 18 entries,
+You've used 20 entries,
             6256 wiz_defined-function locations,
-            1271 strings with 11556 characters,
-and the built_in function-call counts, 75433 in all, are:
-= -- 5178
-> -- 1312
-< -- 531
-+ -- 1629
-- -- 493
-* -- 4681
-:= -- 6388
+            1281 strings with 12080 characters,
+and the built_in function-call counts, 94676 in all, are:
+= -- 6713
+> -- 1693
+< -- 632
++ -- 2158
+- -- 667
+* -- 6211
+:= -- 8479
 add.period$ -- 0
-call.type$ -- 18
-change.case$ -- 335
+call.type$ -- 20
+change.case$ -- 391
 chr.to.int$ -- 35
-cite$ -- 34
-duplicate$ -- 7685
-empty$ -- 7657
-format.name$ -- 640
-if$ -- 16441
+cite$ -- 38
+duplicate$ -- 9446
+empty$ -- 9282
+format.name$ -- 862
+if$ -- 20416
 int.to.chr$ -- 0
-int.to.str$ -- 33
+int.to.str$ -- 38
 missing$ -- 0
-newline$ -- 367
-num.names$ -- 551
-pop$ -- 5767
+newline$ -- 448
+num.names$ -- 671
+pop$ -- 6507
 preamble$ -- 1
-purify$ -- 407
+purify$ -- 490
 quote$ -- 0
-skip$ -- 2761
+skip$ -- 3256
 stack$ -- 0
-substring$ -- 8693
-swap$ -- 1884
-text.length$ -- 307
+substring$ -- 11641
+swap$ -- 2244
+text.length$ -- 376
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 596
+type$ -- 664
 warning$ -- 0
-while$ -- 658
+while$ -- 867
 width$ -- 0
-write$ -- 350
+write$ -- 429
 (There were 4 warnings)

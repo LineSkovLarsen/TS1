@@ -80,6 +80,63 @@
     \warn{\item Invalid format of field 'month'}
   \endentry
 
+  \entry{DKhealthreview}{article}{}
+    \true{moreauthor}
+    \name{author}{7}{}{%
+      {{hash=SLM}{%
+         family={Strandberg-Larsen},
+         familyi={S\bibinitperiod-L\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BNM}{%
+         family={Bernt\bibnamedelima Nielsen},
+         familyi={B\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Mikkel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=VS}{%
+         family={Vallg{\aa}rda},
+         familyi={V\bibinitperiod},
+         given={Signild},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Krasnik},
+         familyi={K\bibinitperiod},
+         given={Allan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VK}{%
+         family={Vrangb{\ae}k},
+         familyi={V\bibinitperiod},
+         given={Karsten},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=ME}{%
+         family={Mossialos},
+         familyi={M\bibinitperiod},
+         given={Elias},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=OWH}{%
+         family={Organization},
+         familyi={O\bibinitperiod},
+         given={World\bibnamedelima Health},
+         giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Copenhagen: WHO Regional Office for Europe}%
+    }
+    \strng{namehash}{SLMBNMVSKAVKMEOWH+1}
+    \strng{fullhash}{SLMBNMVSKAVKMEOWH+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Health systems in transition: Denmark: health system review}
+    \field{year}{2007}
+  \endentry
+
   \entry{retningsrehab}{manual}{}
     \list{organization}{1}{%
       {Sundhedsstyrrelsen}%
@@ -372,6 +429,31 @@
     \verb http://www.rn.dk/sundhed/til-sundhedsfaglige-og-samarbejdspartnere/te
     \verb lecare-nord/national-udbredelse
     \endverb
+  \endentry
+
+  \entry{Healthconsensus}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PKM}{%
+         family={Pedernsen},
+         familyi={P\bibinitperiod},
+         given={Kjeld\bibnamedelima M{\o}ller},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=aMB}{%
+         family={and},
+         familyi={a\bibinitperiod},
+         given={Mickael\bibnamedelima Bech},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKMaMB1}
+    \strng{fullhash}{PKMaMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Danish Health Care System: An Analysis of Strengths,
+  Weaknesses, Opportunities and Threats}
+    \field{journaltitle}{The Concensus Report}
+    \field{year}{2011}
   \endentry
 \endsortlist
 \endinput
