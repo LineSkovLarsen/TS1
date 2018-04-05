@@ -30,18 +30,23 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 30 of file ../bibliography.bib
+--line 55 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 36 of file ../bibliography.bib
+--line 61 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 72 of file ../bibliography.bib
+--line 97 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
+<<<<<<< HEAD
 --line 187 of file ../bibliography.bib
+=======
+--line 205 of file ../bibliography.bib
+>>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 20 entries,
             6256 wiz_defined-function locations,
+<<<<<<< HEAD
             1281 strings with 12080 characters,
 and the built_in function-call counts, 94676 in all, are:
 = -- 6713
@@ -74,11 +79,51 @@ stack$ -- 0
 substring$ -- 11641
 swap$ -- 2244
 text.length$ -- 376
+=======
+            1288 strings with 11965 characters,
+and the built_in function-call counts, 81241 in all, are:
+= -- 5487
+> -- 1410
+< -- 578
++ -- 1706
+- -- 518
+* -- 4993
+:= -- 6726
+add.period$ -- 0
+call.type$ -- 20
+change.case$ -- 368
+chr.to.int$ -- 36
+cite$ -- 38
+duplicate$ -- 8378
+empty$ -- 8349
+format.name$ -- 686
+if$ -- 17751
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 0
+newline$ -- 408
+num.names$ -- 617
+pop$ -- 6404
+preamble$ -- 1
+purify$ -- 443
+quote$ -- 0
+skip$ -- 3034
+stack$ -- 0
+substring$ -- 9061
+swap$ -- 2106
+text.length$ -- 332
+>>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 664
 warning$ -- 0
+<<<<<<< HEAD
 while$ -- 867
 width$ -- 0
 write$ -- 429
+=======
+while$ -- 699
+width$ -- 0
+write$ -- 389
+>>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
 (There were 4 warnings)
