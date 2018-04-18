@@ -30,6 +30,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
+<<<<<<< HEAD
 --line 82 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
 --line 88 of file ../bibliography.bib
@@ -37,11 +38,21 @@ Warning--entry type for "ministryofhealth" isn't style-file defined
 --line 124 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
 --line 239 of file ../bibliography.bib
+=======
+--line 88 of file ../bibliography.bib
+Warning--entry type for "KOL_1" isn't style-file defined
+--line 94 of file ../bibliography.bib
+Warning--entry type for "ministryofhealth" isn't style-file defined
+--line 130 of file ../bibliography.bib
+Warning--entry type for "Hjerteforening" isn't style-file defined
+--line 245 of file ../bibliography.bib
+>>>>>>> 8742a9654f84000dc82a2a3c966e633dde968586
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 25 entries,
             6256 wiz_defined-function locations,
+<<<<<<< HEAD
             1310 strings with 13174 characters,
 and the built_in function-call counts, 119475 in all, are:
 = -- 8310
@@ -74,11 +85,51 @@ stack$ -- 0
 substring$ -- 14101
 swap$ -- 2895
 text.length$ -- 492
+=======
+            1320 strings with 13366 characters,
+and the built_in function-call counts, 131167 in all, are:
+= -- 9412
+> -- 2422
+< -- 830
++ -- 3153
+- -- 976
+* -- 9037
+:= -- 12230
+add.period$ -- 0
+call.type$ -- 25
+change.case$ -- 499
+chr.to.int$ -- 36
+cite$ -- 48
+duplicate$ -- 13103
+empty$ -- 12492
+format.name$ -- 1290
+if$ -- 27939
+int.to.chr$ -- 0
+int.to.str$ -- 52
+missing$ -- 0
+newline$ -- 639
+num.names$ -- 911
+pop$ -- 8260
+preamble$ -- 1
+purify$ -- 649
+quote$ -- 0
+skip$ -- 4323
+stack$ -- 0
+substring$ -- 16487
+swap$ -- 3108
+text.length$ -- 517
+>>>>>>> 8742a9654f84000dc82a2a3c966e633dde968586
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 834
 warning$ -- 0
+<<<<<<< HEAD
 while$ -- 1170
 width$ -- 0
 write$ -- 567
+=======
+while$ -- 1278
+width$ -- 0
+write$ -- 615
+>>>>>>> 8742a9654f84000dc82a2a3c966e633dde968586
 (There were 4 warnings)
