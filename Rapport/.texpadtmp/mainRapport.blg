@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -30,100 +30,55 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 55 of file ../bibliography.bib
+--line 82 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 61 of file ../bibliography.bib
+--line 88 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 97 of file ../bibliography.bib
+--line 124 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
-<<<<<<< HEAD
---line 187 of file ../bibliography.bib
-=======
---line 205 of file ../bibliography.bib
->>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
+--line 239 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 20 entries,
+You've used 25 entries,
             6256 wiz_defined-function locations,
-<<<<<<< HEAD
-            1281 strings with 12080 characters,
-and the built_in function-call counts, 94676 in all, are:
-= -- 6713
-> -- 1693
-< -- 632
-+ -- 2158
-- -- 667
-* -- 6211
-:= -- 8479
+            1310 strings with 13174 characters,
+and the built_in function-call counts, 119475 in all, are:
+= -- 8310
+> -- 2228
+< -- 759
++ -- 2821
+- -- 891
+* -- 7977
+:= -- 10928
 add.period$ -- 0
-call.type$ -- 20
-change.case$ -- 391
-chr.to.int$ -- 35
-cite$ -- 38
-duplicate$ -- 9446
-empty$ -- 9282
-format.name$ -- 862
-if$ -- 20416
-int.to.chr$ -- 0
-int.to.str$ -- 38
-missing$ -- 0
-newline$ -- 448
-num.names$ -- 671
-pop$ -- 6507
-preamble$ -- 1
-purify$ -- 490
-quote$ -- 0
-skip$ -- 3256
-stack$ -- 0
-substring$ -- 11641
-swap$ -- 2244
-text.length$ -- 376
-=======
-            1288 strings with 11965 characters,
-and the built_in function-call counts, 81241 in all, are:
-= -- 5487
-> -- 1410
-< -- 578
-+ -- 1706
-- -- 518
-* -- 4993
-:= -- 6726
-add.period$ -- 0
-call.type$ -- 20
-change.case$ -- 368
+call.type$ -- 25
+change.case$ -- 445
 chr.to.int$ -- 36
-cite$ -- 38
-duplicate$ -- 8378
-empty$ -- 8349
-format.name$ -- 686
-if$ -- 17751
+cite$ -- 48
+duplicate$ -- 12275
+empty$ -- 11580
+format.name$ -- 1192
+if$ -- 25525
 int.to.chr$ -- 0
-int.to.str$ -- 38
+int.to.str$ -- 49
 missing$ -- 0
-newline$ -- 408
-num.names$ -- 617
-pop$ -- 6404
+newline$ -- 591
+num.names$ -- 851
+pop$ -- 8224
 preamble$ -- 1
-purify$ -- 443
+purify$ -- 580
 quote$ -- 0
-skip$ -- 3034
+skip$ -- 4079
 stack$ -- 0
-substring$ -- 9061
-swap$ -- 2106
-text.length$ -- 332
->>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
+substring$ -- 14101
+swap$ -- 2895
+text.length$ -- 492
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 664
+type$ -- 834
 warning$ -- 0
-<<<<<<< HEAD
-while$ -- 867
+while$ -- 1170
 width$ -- 0
-write$ -- 429
-=======
-while$ -- 699
-width$ -- 0
-write$ -- 389
->>>>>>> 2215236efd824b7523b086f8fc6b6914e516b9b3
+write$ -- 567
 (There were 4 warnings)
