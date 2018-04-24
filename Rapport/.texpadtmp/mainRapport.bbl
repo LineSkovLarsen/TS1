@@ -52,44 +52,6 @@
     \field{year}{2013}
   \endentry
 
-  \entry{indenrigs}{manual}{}
-    \list{organization}{2}{%
-      {The Ministry of the Interior}%
-      {Health}%
-    }
-    \field{labeltitlesource}{title}
-    \field{title}{The local government reform}
-    \field{year}{2005}
-  \endentry
-
-  \entry{Healthcareindk2}{manual}{}
-    \list{organization}{2}{%
-      {Healthcare Denmark}%
-      {Ministry of Health}%
-    }
-    \field{labeltitlesource}{title}
-    \field{title}{Health Care in Denmark - an overview}
-    \field{year}{2017}
-  \endentry
-
-  \entry{sundhedsministeriet}{manual}{}
-    \list{organization}{2}{%
-      {Ministry of Health}%
-      {Prevention}%
-    }
-    \field{labeltitlesource}{title}
-    \field{title}{Health Care in Denmark}
-    \field{year}{2008}
-  \endentry
-
-  \entry{ministryofhealth}{misc}{}
-    \verb{url}
-    \verb http://www.sum.dk/Om-ministeriet/Ministeriets-historie.aspx
-    \endverb
-    \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
-  \endentry
-
   \entry{DKhealthreview}{article}{}
     \true{moreauthor}
     \name{author}{7}{}{%
@@ -145,6 +107,44 @@
     \field{labeltitlesource}{title}
     \field{title}{Health systems in transition: Denmark: health system review}
     \field{year}{2007}
+  \endentry
+
+  \entry{Healthcareindk2}{manual}{}
+    \list{organization}{2}{%
+      {Healthcare Denmark}%
+      {Ministry of Health}%
+    }
+    \field{labeltitlesource}{title}
+    \field{title}{Health Care in Denmark - an overview}
+    \field{year}{2017}
+  \endentry
+
+  \entry{indenrigs}{manual}{}
+    \list{organization}{2}{%
+      {The Ministry of the Interior}%
+      {Health}%
+    }
+    \field{labeltitlesource}{title}
+    \field{title}{The local government reform}
+    \field{year}{2005}
+  \endentry
+
+  \entry{sundhedsministeriet}{manual}{}
+    \list{organization}{2}{%
+      {Ministry of Health}%
+      {Prevention}%
+    }
+    \field{labeltitlesource}{title}
+    \field{title}{Health Care in Denmark}
+    \field{year}{2008}
+  \endentry
+
+  \entry{ministryofhealth}{misc}{}
+    \verb{url}
+    \verb http://www.sum.dk/Om-ministeriet/Ministeriets-historie.aspx
+    \endverb
+    \field{year}{2016}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{retningsrehab}{manual}{}
@@ -681,6 +681,31 @@
     \field{year}{2014}
   \endentry
 
+  \entry{Healthconsensus}{article}{}
+    \name{author}{2}{}{%
+      {{hash=PKM}{%
+         family={Pedernsen},
+         familyi={P\bibinitperiod},
+         given={Kjeld\bibnamedelima M{\o}ller},
+         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=aMB}{%
+         family={and},
+         familyi={a\bibinitperiod},
+         given={Mickael\bibnamedelima Bech},
+         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PKMaMB1}
+    \strng{fullhash}{PKMaMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The Danish Health Care System: An Analysis of Strengths,
+  Weaknesses, Opportunities and Threats}
+    \field{journaltitle}{The Concensus Report}
+    \field{year}{2011}
+  \endentry
+
   \entry{CAD}{article}{}
     \name{author}{6}{}{%
       {{hash=BRW}{%
@@ -735,31 +760,6 @@
     \field{volume}{17}
     \field{journaltitle}{BMC cardiovascular disorders}
     \field{year}{2017}
-  \endentry
-
-  \entry{Healthconsensus}{article}{}
-    \name{author}{2}{}{%
-      {{hash=PKM}{%
-         family={Pedernsen},
-         familyi={P\bibinitperiod},
-         given={Kjeld\bibnamedelima M{\o}ller},
-         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=aMB}{%
-         family={and},
-         familyi={a\bibinitperiod},
-         given={Mickael\bibnamedelima Bech},
-         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{PKMaMB1}
-    \strng{fullhash}{PKMaMB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{The Danish Health Care System: An Analysis of Strengths,
-  Weaknesses, Opportunities and Threats}
-    \field{journaltitle}{The Concensus Report}
-    \field{year}{2011}
   \endentry
 \endsortlist
 \endinput

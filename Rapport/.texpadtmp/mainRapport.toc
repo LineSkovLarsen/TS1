@@ -10,26 +10,27 @@
 \contentsline {subsection}{\numberline {1.1.2}The Danish Healthcare System}{1}{subsection.1.1.2}
 \contentsline {subsubsection}{The structure og the Danish Healthcare System}{2}{subsubsection*.4}
 \contentsline {subsubsection}{Finances}{3}{subsubsection*.6}
-\contentsline {subsubsection}{Preventive healthcare}{3}{subsubsection*.7}
-\contentsline {subsubsection}{Rehabilitation}{3}{subsubsection*.8}
-\contentsline {subsubsection}{Digitization in the healthcare system}{4}{subsubsection*.9}
+\contentsline {subsubsection}{Preventive healthcare}{4}{subsubsection*.7}
+\contentsline {subsubsection}{Rehabilitation}{4}{subsubsection*.8}
+\contentsline {subsubsection}{Digitilization in the healthcare system}{4}{subsubsection*.9}
 \contentsline {subsubsection}{Treatment of Cardiac patients}{4}{subsubsection*.10}
-\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{5}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{6}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}Problem Statement}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Delimitation}{6}{subsection.1.2.1}
-\contentsline {chapter}{\chapternumberline {2}Method}{7}{chapter.2}
-\contentsline {chapter}{\chapternumberline {3}Theory}{8}{chapter.3}
-\contentsline {section}{\numberline {3.1}What is telemedicine and ICT}{8}{section.3.1}
-\contentsline {chapter}{\chapternumberline {4}Empirical process}{9}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Analysis and discussion}{10}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{10}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Impact of ICT in homecare}{10}{subsection.5.0.2}
-\contentsline {subsection}{\numberline {5.0.3}Comparison with telemedicine solution for COPD patients}{11}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Challenges within telemedicine rehabilitation}{12}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Effects and barriers to deployment of telehealth wellness programs for chronic patients across 3 European countries}{12}{subsection.5.0.5}
-\contentsline {subsection}{\numberline {5.0.6}Effects of cardiac telerehabilitation in patients with coronary artery disease using a personalised patient-centred web application: protocol for the SmartCare-CAD randomised controlled trial}{13}{subsection.5.0.6}
-\contentsline {chapter}{\chapternumberline {6}Conclusion}{14}{chapter.6}
-\contentsline {chapter}{Appendix}{15}{appendix*.11}
-\contentsline {chapter}{References}{16}{section*.13}
-\contentsline {chapter}{List of Figures}{18}{section*.14}
-\contentsline {chapter}{List of Tables}{19}{section*.15}
+\contentsline {subsection}{\numberline {1.2.1}Delimitation}{7}{subsection.1.2.1}
+\contentsline {chapter}{\chapternumberline {2}Method}{8}{chapter.2}
+\contentsline {chapter}{\chapternumberline {3}Theory}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}What is telemedicine and ICT}{9}{section.3.1}
+\contentsline {chapter}{\chapternumberline {4}Empirical process}{10}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Analysis and discussion}{11}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.1}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{11}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.2}Impact of ICT in homecare}{11}{subsection.5.0.2}
+\contentsline {subsection}{\numberline {5.0.3}Comparison with telemedicine solution for COPD patients}{12}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.4}Challenges within telemedicine rehabilitation}{13}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.5}Effects and barriers in implementation of telemedicine solutions for chronic patients across 3 European countries}{13}{subsection.5.0.5}
+\contentsline {chapter}{\chapternumberline {6}Perspectivation}{15}{chapter.6}
+\contentsline {subsection}{\numberline {6.0.1}Ongoing project in Netherlands}{15}{subsection.6.0.1}
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{16}{chapter.7}
+\contentsline {chapter}{Appendix}{17}{appendix*.11}
+\contentsline {chapter}{References}{18}{section*.13}
+\contentsline {chapter}{List of Figures}{20}{section*.14}
+\contentsline {chapter}{List of Tables}{21}{section*.15}
