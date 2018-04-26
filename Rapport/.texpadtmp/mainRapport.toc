@@ -39,6 +39,7 @@
 \contentsline {subsection}{\numberline {7.0.1}Ongoing project in Netherlands}{18}{subsection.7.0.1}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{19}{chapter.8}
 \contentsline {chapter}{References}{20}{section*.13}
-\contentsline {chapter}{Appendix}{22}{appendix*.14}
-\contentsline {chapter}{List of Figures}{23}{section*.15}
-\contentsline {chapter}{List of Tables}{24}{section*.16}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{22}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{23}{appendix.B}
+\contentsline {chapter}{List of Figures}{24}{section*.14}
+\contentsline {chapter}{List of Tables}{25}{section*.15}
