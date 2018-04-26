@@ -11,8 +11,8 @@ A level-1 auxiliary file: RAfiler/Theory.aux
 A level-1 auxiliary file: RAfiler/Empiricalprocess.aux
 A level-1 auxiliary file: RAfiler/Analysisanddiscussion.aux
 A level-1 auxiliary file: RAfiler/Conclusions.aux
-A level-1 auxiliary file: RAfiler/Appendix.aux
 A level-1 auxiliary file: RAfiler/Litteraturliste.aux
+A level-1 auxiliary file: RAfiler/Appendix.aux
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
