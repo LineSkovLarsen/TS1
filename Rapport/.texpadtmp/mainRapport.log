@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  26 APR 2018 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  30 APR 2018 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2181,7 +2181,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=140, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=144, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2237,7 +2237,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 
-] <Figure/thirdpart.png, id=222, 501.37312pt x 291.33844pt>
+] <Figure/thirdpart.png, id=227, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 22.
@@ -2326,17 +2326,19 @@ Underfull \hbox (badness 1178) in paragraph at lines 10--11
 
 ] [16] [17] [18] [19
 
+] [20
+
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 83.
+(hyperref)                than one, level fixed on input line 87.
 
-) [20
+) [21
 
 ]
 \openout2 = `RAfiler/Conclusions.aux'.
 
- (./RAfiler/Conclusions.tex) [21
+ (./RAfiler/Conclusions.tex) [22
 
 
 
@@ -2352,29 +2354,29 @@ Underfull \hbox (badness 1038) in paragraph at lines 1--1
 []\T1/cmr/m/n/10.95 Edward T Chen. Considerations of Telemedicine in the Delivery of Modern
  []
 
-[22
+[23
 
 
 
-]) [23]
+]) [24]
 \openout2 = `RAfiler/Appendix.aux'.
 
- (./RAfiler/Appendix.tex [24
+ (./RAfiler/Appendix.tex [25
 
 
 
-]) [25
+]) [26
 
 ] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
-) [26
+) [27
 
 
 ] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
-[27
+[28
 
 ]
 \tf@toc=\write7
@@ -2404,18 +2406,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36779 strings out of 492995
- 666639 string characters out of 6132704
+ 36782 strings out of 492995
+ 666666 string characters out of 6132704
  1325542 words of memory out of 5000000
- 39660 multiletter control sequences out of 15000+600000
+ 39661 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2990s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (32 pages, 393295 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (33 pages, 394308 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 449 compressed objects within 5 object streams
- 107 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 516 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
+ 109 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 

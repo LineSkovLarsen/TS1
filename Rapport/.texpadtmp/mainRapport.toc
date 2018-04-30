@@ -35,11 +35,12 @@
 \contentsline {subsection}{\numberline {5.0.4}Challenges within telemedicine rehabilitation}{17}{subsection.5.0.4}
 \contentsline {subsection}{\numberline {5.0.5}Effects and barriers in implementation of telemedicine solutions for chronic patients across 3 European countries}{17}{subsection.5.0.5}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{19}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Perspectivation}{20}{chapter.7}
-\contentsline {subsection}{\numberline {7.0.1}Ongoing project in Netherlands}{20}{subsection.7.0.1}
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{21}{chapter.8}
-\contentsline {chapter}{References}{22}{section*.14}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{24}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{25}{appendix.B}
-\contentsline {chapter}{List of Figures}{26}{section*.15}
-\contentsline {chapter}{List of Tables}{27}{section*.16}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{20}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{21}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{21}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{22}{chapter.9}
+\contentsline {chapter}{References}{23}{section*.14}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{25}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{26}{appendix.B}
+\contentsline {chapter}{List of Figures}{27}{section*.15}
+\contentsline {chapter}{List of Tables}{28}{section*.16}
