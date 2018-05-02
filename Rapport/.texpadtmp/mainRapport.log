@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  2 MAY 2018 13:14
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  2 MAY 2018 14:32
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2104,12 +2108,12 @@ Package biblatex Info: ... file 'mainRapport.bbl' found.
  (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.bbl
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'ministryofhealth':
+(biblatex)                with 'Emergence':
 (biblatex)                - Invalid format of field 'month'.
 
 
 Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'Emergence':
+(biblatex)                with 'ministryofhealth':
 (biblatex)                - Invalid format of field 'month'.
 
 
@@ -2181,7 +2185,11 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
+<<<<<<< HEAD
  (./RAfiler/Forside.tex <Figure/Ase.jpg, id=152, 1176.395pt x 299.1175pt>
+=======
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=148, 1176.395pt x 299.1175pt>
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2224,12 +2232,7 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 \openout2 = `RAfiler/Introduction.aux'.
 
  (./RAfiler/Introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
 
@@ -2237,6 +2240,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--18
 
 
 
+] [2]) [3]
+\openout2 = `RAfiler/Method.aux'.
+
+ (./RAfiler/Method.tex
+
+LaTeX Warning: Reference `empirical' on page 1 undefined on input line 12.
+
+<<<<<<< HEAD
 ] <Figure/thirdpart.png, id=237, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
@@ -2246,56 +2257,67 @@ Package pdftex.def Info: Figure/thirdpart.png used on input line 22.
 Underfull \hbox (badness 1102) in paragraph at lines 32--36
 \T1/cmr/m/n/10.95 practitioners, home nursing, public healthcare, school health service, child dental
  []
+=======
+[4
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
 
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 70--72
+
+
+] [5]) [6]
+\openout2 = `RAfiler/Theory.aux'.
+
+ (./RAfiler/Theory.tex <Figure/thirdpart.png, id=266, 501.37312pt x 291.33844pt>
+File: Figure/thirdpart.png Graphic file (type png)
+ <use Figure/thirdpart.png>
+Package pdftex.def Info: Figure/thirdpart.png used on input line 10.
+(pdftex.def)             Requested size: 426.0pt x 247.55437pt.
+ [7
+
+
+
+ <./Figure/thirdpart.png>]
+Underfull \hbox (badness 1102) in paragraph at lines 20--24
+\T1/cmr/m/n/10.95 practitioners, home nursing, public healthcare, school health service, child dental
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 73--89
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--89
+Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--89
+Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--89
+Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--89
-
- []
-
-[5] [6]) [7]
-\openout2 = `RAfiler/Method.aux'.
-
- (./RAfiler/Method.tex
-
-LaTeX Warning: Reference `empirical' on page 1 undefined on input line 12.
-
-[8
-
-
-
+<<<<<<< HEAD
 ] [9] [10]) [11]
 \openout2 = `RAfiler/Theory.aux'.
 
  (./RAfiler/Theory.tex) [12
+=======
+ []
 
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
 
+Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
-]
+ []
+
+[10]) [11]
 \openout2 = `RAfiler/Empiricalprocess.aux'.
 
  (./RAfiler/Empiricalprocess.tex
@@ -2406,18 +2428,34 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  36795 strings out of 492995
  667442 string characters out of 6132705
  1325542 words of memory out of 5000000
  39670 multiletter control sequences out of 15000+600000
+=======
+ 36784 strings out of 492995
+ 666690 string characters out of 6132704
+ 1325542 words of memory out of 5000000
+ 39662 multiletter control sequences out of 15000+600000
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2990s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+<<<<<<< HEAD
 Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (34 pages, 398107 bytes).
 PDF statistics:
  532 PDF objects out of 1000 (max. 8388607)
  474 compressed objects within 5 object streams
  113 named destinations out of 1000 (max. 500000)
  307 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (33 pages, 394968 bytes).
+PDF statistics:
+ 521 PDF objects out of 1000 (max. 8388607)
+ 464 compressed objects within 5 object streams
+ 110 named destinations out of 1000 (max. 500000)
+ 299 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
 
