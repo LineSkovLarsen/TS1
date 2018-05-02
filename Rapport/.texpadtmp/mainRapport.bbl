@@ -27,6 +27,62 @@
     \field{journaltitle}{Research and Innovation actions}
   \endentry
 
+  \entry{Emergence}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CJ}{%
+         family={Christensen},
+         familyi={C\bibinitperiod},
+         given={Jannie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MDPI AG}%
+    }
+    \strng{namehash}{CJ1}
+    \strng{fullhash}{CJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.3390/ijerph15010061
+    \endverb
+    \field{issn}{1660-4601}
+    \field{number}{1}
+    \field{pages}{61}
+    \field{title}{The Emergence and Unfolding of Telemonitoring Practices in
+  Different Healthcare Organizations}
+    \verb{url}
+    \verb http://dx.doi.org/10.3390/ijerph15010061
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{International Journal of Environmental Research and
+  Public Health}
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{Rehabilitering}{article}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={Sundhedsstyrelsen},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Vejledning om hjerterehabilitering p{\aa} sygehuse}
+    \field{journaltitle}{Center for Forebyggelse og Enhed for Planl{\ae}gning}
+    \field{year}{2004}
+  \endentry
+
+  \entry{Hjerteforening}{misc}{}
+    \verb{url}
+    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
+    \endverb
+  \endentry
+
   \entry{sundhedsvaesen}{book}{}
     \name{author}{1}{}{%
       {{hash=eaBRH}{%
@@ -175,62 +231,6 @@
     \field{title}{Anbefalinger for tv{\ae}rsektorielle forl{\o}b for mennesker
   med hjertesygdom}
     \field{year}{2018}
-  \endentry
-
-  \entry{Emergence}{article}{}
-    \name{author}{1}{}{%
-      {{hash=CJ}{%
-         family={Christensen},
-         familyi={C\bibinitperiod},
-         given={Jannie},
-         giveni={J\bibinitperiod},
-      }}%
-    }
-    \list{publisher}{1}{%
-      {MDPI AG}%
-    }
-    \strng{namehash}{CJ1}
-    \strng{fullhash}{CJ1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \verb{doi}
-    \verb 10.3390/ijerph15010061
-    \endverb
-    \field{issn}{1660-4601}
-    \field{number}{1}
-    \field{pages}{61}
-    \field{title}{The Emergence and Unfolding of Telemonitoring Practices in
-  Different Healthcare Organizations}
-    \verb{url}
-    \verb http://dx.doi.org/10.3390/ijerph15010061
-    \endverb
-    \field{volume}{15}
-    \field{journaltitle}{International Journal of Environmental Research and
-  Public Health}
-    \field{year}{2018}
-    \warn{\item Invalid format of field 'month'}
-  \endentry
-
-  \entry{Rehabilitering}{article}{}
-    \name{author}{1}{}{%
-      {{hash=S}{%
-         family={Sundhedsstyrelsen},
-         familyi={S\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{S1}
-    \strng{fullhash}{S1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Vejledning om hjerterehabilitering p{\aa} sygehuse}
-    \field{journaltitle}{Center for Forebyggelse og Enhed for Planl{\ae}gning}
-    \field{year}{2004}
-  \endentry
-
-  \entry{Hjerteforening}{misc}{}
-    \verb{url}
-    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
-    \endverb
   \endentry
 
   \entry{considerations}{article}{}
