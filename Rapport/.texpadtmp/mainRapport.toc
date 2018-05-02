@@ -8,25 +8,25 @@
 \contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Technology}{1}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}The Danish Healthcare System}{1}{subsection.1.1.2}
-<<<<<<< HEAD
-\contentsline {subsubsection}{The structure og the Danish Healthcare System}{2}{subsubsection*.4}
-\contentsline {subsubsection}{Finances}{3}{subsubsection*.6}
-\contentsline {subsubsection}{Preventive healthcare}{4}{subsubsection*.7}
-\contentsline {subsubsection}{Rehabilitation}{4}{subsubsection*.8}
-\contentsline {subsubsection}{Digitilization in the healthcare system}{4}{subsubsection*.9}
-\contentsline {subsubsection}{Treatment of Cardiac patients}{4}{subsubsection*.10}
-\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{6}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Problem Statement}{6}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Delimitation}{7}{subsection.1.2.1}
-\contentsline {chapter}{\chapternumberline {2}Methodology}{8}{chapter.2}
-\contentsline {section}{\numberline {2.1}Research design}{8}{section.2.1}
-\contentsline {section}{\numberline {2.2}Literature search method}{8}{section.2.2}
-\contentsline {section}{\numberline {2.3}Research interviews}{9}{section.2.3}
-\contentsline {section}{\numberline {2.4}Analyzing qualitative data}{10}{section.2.4}
-\contentsline {section}{\numberline {2.5}Economy}{10}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Cost-effectiveness analysis}{10}{subsection.2.5.1}
-\contentsline {chapter}{\chapternumberline {3}Theory}{12}{chapter.3}
-\contentsline {section}{\numberline {3.1}What is telemedicine and ICT}{12}{section.3.1}
+\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{2}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Delimitation}{3}{subsection.1.2.1}
+\contentsline {chapter}{\chapternumberline {2}Methodology}{4}{chapter.2}
+\contentsline {section}{\numberline {2.1}Research design}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Literature search method}{4}{section.2.2}
+\contentsline {section}{\numberline {2.3}Research interviews}{5}{section.2.3}
+\contentsline {section}{\numberline {2.4}Analyzing qualitative data}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Economy}{6}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Cost-effectiveness analysis}{6}{subsection.2.5.1}
+\contentsline {chapter}{\chapternumberline {3}Theory}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Danish Healthcare System}{8}{section.3.1}
+\contentsline {subsubsection}{Structure of the Danish Healthcare System}{8}{subsubsection*.5}
+\contentsline {subsubsection}{Finances}{9}{subsubsection*.7}
+\contentsline {subsubsection}{Preventive healthcare}{10}{subsubsection*.8}
+\contentsline {subsubsection}{Rehabilitation}{10}{subsubsection*.9}
+\contentsline {subsubsection}{Digitalization within the Danish Healthcare System}{10}{subsubsection*.10}
+\contentsline {subsubsection}{Treatment of Cardiac patients}{11}{subsubsection*.11}
+\contentsline {section}{\numberline {3.2}ICT in telemedicine}{12}{section.3.2}
 \contentsline {chapter}{\chapternumberline {4}Empirical data}{13}{chapter.4}
 \contentsline {subsection}{\numberline {4.0.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{13}{subsection.4.0.1}
 \contentsline {subsubsection}{Outcome of the interview}{13}{subsubsection*.12}
@@ -47,42 +47,3 @@
 \contentsline {appendix}{\chapternumberline {B}aap1}{27}{appendix.B}
 \contentsline {chapter}{List of Figures}{28}{section*.15}
 \contentsline {chapter}{List of Tables}{29}{section*.16}
-=======
-\contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{2}{subsection.1.1.3}
-\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Delimitation}{3}{subsection.1.2.1}
-\contentsline {chapter}{\chapternumberline {2}Method}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Research design}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Literature search method}{4}{section.2.2}
-\contentsline {section}{\numberline {2.3}Research interviews}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Analyzing qualitative data}{6}{section.2.4}
-\contentsline {section}{\numberline {2.5}Economy}{6}{section.2.5}
-\contentsline {chapter}{\chapternumberline {3}Theory}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Danish Healthcare System}{7}{section.3.1}
-\contentsline {subsubsection}{Structure of the Danish Healthcare System}{7}{subsubsection*.5}
-\contentsline {subsubsection}{Finances}{8}{subsubsection*.7}
-\contentsline {subsubsection}{Preventive healthcare}{9}{subsubsection*.8}
-\contentsline {subsubsection}{Rehabilitation}{9}{subsubsection*.9}
-\contentsline {subsubsection}{Digitalization within the Danish Healthcare System}{9}{subsubsection*.10}
-\contentsline {subsubsection}{Treatment of Cardiac patients}{10}{subsubsection*.11}
-\contentsline {section}{\numberline {3.2}ICT in telemedicine}{11}{section.3.2}
-\contentsline {chapter}{\chapternumberline {4}Empirical data}{12}{chapter.4}
-\contentsline {subsection}{\numberline {4.0.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{12}{subsection.4.0.1}
-\contentsline {subsubsection}{Outcome of the interview}{12}{subsubsection*.12}
-\contentsline {chapter}{\chapternumberline {5}Analysis}{15}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{15}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Impact of ICT in homecare}{15}{subsection.5.0.2}
-\contentsline {subsection}{\numberline {5.0.3}Comparison with telemedicine solution for COPD patients}{16}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Challenges within telemedicine rehabilitation}{17}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Effects and barriers in implementation of telemedicine solutions for chronic patients across 3 European countries}{17}{subsection.5.0.5}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{19}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{20}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{21}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{21}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{22}{chapter.9}
-\contentsline {chapter}{References}{23}{section*.14}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{25}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{26}{appendix.B}
-\contentsline {chapter}{List of Figures}{27}{section*.15}
-\contentsline {chapter}{List of Tables}{28}{section*.16}
->>>>>>> 619b913cad5dc5465a46ba91181b548b2763e56c
