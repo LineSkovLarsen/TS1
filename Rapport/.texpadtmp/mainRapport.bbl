@@ -258,41 +258,44 @@
     \field{year}{2017}
   \endentry
 
-  \entry{12}{article}{}
-    \name{author}{4}{}{%
-      {{hash=LLM}{%
-         family={LaFramboise},
-         familyi={L\bibinitperiod},
-         given={Louise\bibnamedelima M.},
-         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=WJ}{%
-         family={Woster},
-         familyi={W\bibinitperiod},
-         given={Jenna},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=YA}{%
-         family={Yager},
-         familyi={Y\bibinitperiod},
-         given={Amy},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=YBC}{%
-         family={Yates},
-         familyi={Y\bibinitperiod},
-         given={Bernice\bibnamedelima C.},
-         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+  \entry{herning}{misc}{}
+    \verb{url}
+    \verb http://sundhed.herning.dk/lev-aktivt-med-sygdom/hjerte
+    \endverb
+  \endentry
+
+  \entry{lonnurse}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=sD}{%
+         family={sygeplejer{\aa}d},
+         familyi={s\bibinitperiod},
+         given={Dansk},
+         giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{LLMWJYAYBC1}
-    \strng{fullhash}{LLMWJYAYBC1}
+    \strng{namehash}{sD1}
+    \strng{fullhash}{sD1}
     \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{A Technological Life Buoy Patient Perceptions of the Health
-  Buddy}
-    \field{journaltitle}{Journal of Cardiovascular Nursing}
-    \field{year}{2009}
+    \verb{url}
+    \verb https://dsr.dk/loen-og-arbejdsvilkaar/loen-og-pension/loenstatistik-f
+    \verb or-sygeplejersker-ansat-i-kommuner-og-regioner
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{lonfys}{misc}{}
+    \verb{url}
+    \verb https://fysio.dk/globalassets/documents/raadgivning/loen/kl-basis-1.1
+    \verb 0.-2017.pdf
+    \endverb
+    \field{year}{2017}
+  \endentry
+
+  \entry{londia}{misc}{}
+    \verb{url}
+    \verb http://www.lonstatistik.dk/lonninger.asp?job=Klinisk-diatist-5493
+    \endverb
+    \field{year}{2017}
   \endentry
 
   \entry{4}{article}{}
@@ -397,6 +400,43 @@
   behaviours for people with a mental illness?}
     \field{journaltitle}{Preventive Medicine Reports}
     \field{year}{2017}
+  \endentry
+
+  \entry{12}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LLM}{%
+         family={LaFramboise},
+         familyi={L\bibinitperiod},
+         given={Louise\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Woster},
+         familyi={W\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YA}{%
+         family={Yager},
+         familyi={Y\bibinitperiod},
+         given={Amy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=YBC}{%
+         family={Yates},
+         familyi={Y\bibinitperiod},
+         given={Bernice\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LLMWJYAYBC1}
+    \strng{fullhash}{LLMWJYAYBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Technological Life Buoy Patient Perceptions of the Health
+  Buddy}
+    \field{journaltitle}{Journal of Cardiovascular Nursing}
+    \field{year}{2009}
   \endentry
 
   \entry{Bregendahl_2016}{article}{}
