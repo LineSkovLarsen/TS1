@@ -258,6 +258,43 @@
     \field{year}{2017}
   \endentry
 
+  \entry{12}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LLM}{%
+         family={LaFramboise},
+         familyi={L\bibinitperiod},
+         given={Louise\bibnamedelima M.},
+         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Woster},
+         familyi={W\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YA}{%
+         family={Yager},
+         familyi={Y\bibinitperiod},
+         given={Amy},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=YBC}{%
+         family={Yates},
+         familyi={Y\bibinitperiod},
+         given={Bernice\bibnamedelima C.},
+         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LLMWJYAYBC1}
+    \strng{fullhash}{LLMWJYAYBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{A Technological Life Buoy Patient Perceptions of the Health
+  Buddy}
+    \field{journaltitle}{Journal of Cardiovascular Nursing}
+    \field{year}{2009}
+  \endentry
+
   \entry{4}{article}{}
     \name{author}{8}{}{%
       {{hash=CAM}{%
@@ -360,43 +397,6 @@
   behaviours for people with a mental illness?}
     \field{journaltitle}{Preventive Medicine Reports}
     \field{year}{2017}
-  \endentry
-
-  \entry{12}{article}{}
-    \name{author}{4}{}{%
-      {{hash=LLM}{%
-         family={LaFramboise},
-         familyi={L\bibinitperiod},
-         given={Louise\bibnamedelima M.},
-         giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=WJ}{%
-         family={Woster},
-         familyi={W\bibinitperiod},
-         given={Jenna},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=YA}{%
-         family={Yager},
-         familyi={Y\bibinitperiod},
-         given={Amy},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=YBC}{%
-         family={Yates},
-         familyi={Y\bibinitperiod},
-         given={Bernice\bibnamedelima C.},
-         giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LLMWJYAYBC1}
-    \strng{fullhash}{LLMWJYAYBC1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{A Technological Life Buoy Patient Perceptions of the Health
-  Buddy}
-    \field{journaltitle}{Journal of Cardiovascular Nursing}
-    \field{year}{2009}
   \endentry
 
   \entry{Bregendahl_2016}{article}{}
