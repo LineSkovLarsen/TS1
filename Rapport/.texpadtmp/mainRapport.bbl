@@ -264,6 +264,80 @@
     \endverb
   \endentry
 
+  \entry{costeffect}{article}{}
+    \name{author}{9}{}{%
+      {{hash=FI}{%
+         family={Frederix},
+         familyi={F\bibinitperiod},
+         given={Ines},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hansen},
+         familyi={H\bibinitperiod},
+         given={Dominique},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CK}{%
+         family={Coninx},
+         familyi={C\bibinitperiod},
+         given={Karin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Vandervoort},
+         familyi={V\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=VD}{%
+         family={Vandijck},
+         familyi={V\bibinitperiod},
+         given={Dominique},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hens},
+         familyi={H\bibinitperiod},
+         given={Niel},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=VCE}{%
+         family={Van\bibnamedelima Craenenbroeck},
+         familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Emeline},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=VDN}{%
+         family={Van\bibnamedelima Driessche},
+         familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+         given={Niels},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dendale},
+         familyi={D\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SAGE Publications Sage UK: London, England}%
+    }
+    \strng{namehash}{FIHDCKVPVDHNVCEVDNDP1}
+    \strng{fullhash}{FIHDCKVPVDHNVCEVDNDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{7}
+    \field{pages}{674\bibrangedash 682}
+    \field{title}{Effect of comprehensive cardiac telerehabilitation on
+  one-year cardiovascular rehospitalization rate, medical costs and quality of
+  life: A cost-effectiveness analysis}
+    \field{volume}{23}
+    \field{journaltitle}{European journal of preventive cardiology}
+    \field{year}{2016}
+  \endentry
+
   \entry{lonnurse}{misc}{}
     \name{author}{1}{}{%
       {{hash=sD}{%

@@ -48,45 +48,45 @@ Warning--entry type for "Hjerteforening" isn't style-file defined
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 32 entries,
+You've used 33 entries,
             6256 wiz_defined-function locations,
-            1341 strings with 14434 characters,
-and the built_in function-call counts, 157621 in all, are:
-= -- 10995
-> -- 2930
-< -- 950
-+ -- 3796
-- -- 1208
-* -- 10769
-:= -- 14705
+            1348 strings with 14894 characters,
+and the built_in function-call counts, 173094 in all, are:
+= -- 12257
+> -- 3266
+< -- 1038
++ -- 4318
+- -- 1365
+* -- 12031
+:= -- 16488
 add.period$ -- 0
-call.type$ -- 32
-change.case$ -- 528
+call.type$ -- 33
+change.case$ -- 576
 chr.to.int$ -- 36
-cite$ -- 62
-duplicate$ -- 16190
-empty$ -- 15175
-format.name$ -- 1618
-if$ -- 33469
+cite$ -- 64
+duplicate$ -- 17698
+empty$ -- 16334
+format.name$ -- 1815
+if$ -- 36573
 int.to.chr$ -- 0
-int.to.str$ -- 63
+int.to.str$ -- 66
 missing$ -- 0
-newline$ -- 781
-num.names$ -- 1063
-pop$ -- 10667
+newline$ -- 853
+num.names$ -- 1144
+pop$ -- 11083
 preamble$ -- 1
-purify$ -- 714
+purify$ -- 789
 quote$ -- 0
-skip$ -- 5202
+skip$ -- 5598
 stack$ -- 0
-substring$ -- 18865
-swap$ -- 3753
-text.length$ -- 649
+substring$ -- 21204
+swap$ -- 4056
+text.length$ -- 706
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1068
+type$ -- 1102
 warning$ -- 0
-while$ -- 1581
+while$ -- 1778
 width$ -- 0
-write$ -- 750
+write$ -- 821
 (There were 8 warnings)
