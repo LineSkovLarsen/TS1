@@ -258,12 +258,6 @@
     \field{year}{2017}
   \endentry
 
-  \entry{herning}{misc}{}
-    \verb{url}
-    \verb http://sundhed.herning.dk/lev-aktivt-med-sygdom/hjerte
-    \endverb
-  \endentry
-
   \entry{costeffect}{article}{}
     \name{author}{9}{}{%
       {{hash=FI}{%
@@ -478,6 +472,12 @@
   information and communication technologies}
     \field{journaltitle}{ScienceDirect}
     \field{year}{2017}
+  \endentry
+
+  \entry{herning}{misc}{}
+    \verb{url}
+    \verb http://sundhed.herning.dk/lev-aktivt-med-sygdom/hjerte
+    \endverb
   \endentry
 
   \entry{4}{article}{}

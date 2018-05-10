@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  10 MAY 2018 12:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  10 MAY 2018 14:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2193,7 +2193,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=184, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=180, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2254,7 +2254,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 ] [5] [6]) [7]
 \openout2 = `RAfiler/Theory.aux'.
 
- (./RAfiler/Theory.tex <Figure/thirdpart.png, id=317, 501.37312pt x 291.33844pt>
+ (./RAfiler/Theory.tex <Figure/thirdpart.png, id=312, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 10.
@@ -2306,16 +2306,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
 
 ] [14]
-Underfull \hbox (badness 1448) in paragraph at lines 42--43
-[]\T1/cmr/m/n/10.95 The purpose of this rehabilitation program is to achieve greater knowledge and
- []
-
-[15]
-Underfull \hbox (badness 1231) in paragraph at lines 50--52
+Underfull \hbox (badness 1231) in paragraph at lines 41--43
 \T1/cmr/m/n/10.95 The economics aspects of this paper is conducted in collaboration with Herning
  []
 
-[16] [17]) [18]
+[15] [16]) [17]
 \openout2 = `RAfiler/Analysisanddiscussion.aux'.
 
  (./RAfiler/Analysisanddiscussion.tex
@@ -2323,28 +2318,33 @@ Underfull \hbox (badness 1231) in paragraph at lines 50--52
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
-[19
+[18
 
 
 
 ]
-Underfull \hbox (badness 1178) in paragraph at lines 19--20
+Underfull \hbox (badness 1448) in paragraph at lines 19--20
+[]\T1/cmr/m/n/10.95 The purpose of this rehabilitation program is to achieve greater knowledge and
+ []
+
+[19]
+Underfull \hbox (badness 1178) in paragraph at lines 32--33
 []\T1/cmr/m/n/10.95 Relatives experienced that everyday life were more normal by using telemedicine
  []
 
-[20]
-Underfull \hbox (badness 1067) in paragraph at lines 39--40
+[20] [21]
+Underfull \hbox (badness 1067) in paragraph at lines 52--53
 \T1/cmr/m/n/10.95 During the implementation process ethical implications of telemedicine has to be
  []
 
-[21] [22] [23
+[22] [23
 
 ] [24
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 101.
+(hyperref)                than one, level fixed on input line 114.
 
 ) [25
 
@@ -2427,15 +2427,15 @@ Here is how much of TeX's memory you used:
  36858 strings out of 492995
  667792 string characters out of 6132704
  1327542 words of memory out of 5000000
- 39702 multiletter control sequences out of 15000+600000
+ 39701 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,3013s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (38 pages, 412351 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (38 pages, 414621 bytes).
 PDF statistics:
- 647 PDF objects out of 1000 (max. 8388607)
- 578 compressed objects within 6 object streams
- 144 named destinations out of 1000 (max. 500000)
- 371 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 648 PDF objects out of 1000 (max. 8388607)
+ 579 compressed objects within 6 object streams
+ 145 named destinations out of 1000 (max. 500000)
+ 363 words of extra memory for PDF output out of 10000 (max. 10000000)
 
