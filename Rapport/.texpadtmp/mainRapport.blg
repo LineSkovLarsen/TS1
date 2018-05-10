@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -30,63 +30,63 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "londia" isn't style-file defined
---line 11 of file ../bibliography.bib
+--line 28 of file ../bibliography.bib
 Warning--entry type for "lonfys" isn't style-file defined
---line 18 of file ../bibliography.bib
+--line 36 of file ../bibliography.bib
 Warning--entry type for "lonnurse" isn't style-file defined
---line 25 of file ../bibliography.bib
+--line 44 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 34 of file ../bibliography.bib
+--line 53 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 145 of file ../bibliography.bib
+--line 164 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 151 of file ../bibliography.bib
+--line 170 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 187 of file ../bibliography.bib
+--line 206 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 302 of file ../bibliography.bib
+--line 321 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 33 entries,
             6256 wiz_defined-function locations,
-            1348 strings with 14894 characters,
-and the built_in function-call counts, 173094 in all, are:
-= -- 12257
-> -- 3266
-< -- 1038
-+ -- 4318
-- -- 1365
-* -- 12031
-:= -- 16488
+            1351 strings with 14719 characters,
+and the built_in function-call counts, 166779 in all, are:
+= -- 11744
+> -- 3113
+< -- 1027
++ -- 4014
+- -- 1267
+* -- 11415
+:= -- 15536
 add.period$ -- 0
 call.type$ -- 33
-change.case$ -- 576
-chr.to.int$ -- 36
+change.case$ -- 588
+chr.to.int$ -- 37
 cite$ -- 64
-duplicate$ -- 17698
-empty$ -- 16334
-format.name$ -- 1815
-if$ -- 36573
+duplicate$ -- 17011
+empty$ -- 15978
+format.name$ -- 1701
+if$ -- 35448
 int.to.chr$ -- 0
 int.to.str$ -- 66
 missing$ -- 0
-newline$ -- 853
-num.names$ -- 1144
-pop$ -- 11083
+newline$ -- 825
+num.names$ -- 1156
+pop$ -- 11006
 preamble$ -- 1
-purify$ -- 789
+purify$ -- 783
 quote$ -- 0
-skip$ -- 5598
+skip$ -- 5531
 stack$ -- 0
-substring$ -- 21204
-swap$ -- 4056
-text.length$ -- 706
+substring$ -- 20220
+swap$ -- 3982
+text.length$ -- 676
 text.prefix$ -- 0
 top$ -- 1
 type$ -- 1102
 warning$ -- 0
-while$ -- 1778
+while$ -- 1661
 width$ -- 0
-write$ -- 821
+write$ -- 793
 (There were 8 warnings)

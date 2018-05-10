@@ -372,6 +372,114 @@
     \field{year}{2017}
   \endentry
 
+  \entry{ICT}{article}{}
+    \name{author}{5}{}{%
+      {{hash=LB}{%
+         family={Lindberg},
+         familyi={L\bibinitperiod},
+         given={Birgitta},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Nilsson},
+         familyi={N\bibinitperiod},
+         given={Carina},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZD}{%
+         family={Zotterman},
+         familyi={Z\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={S{\"o}derberg},
+         familyi={S\bibinitperiod},
+         given={Siv},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Sk{\"a}r},
+         familyi={S\bibinitperiod},
+         given={Lisa},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LBNCZDSSSL1}
+    \strng{fullhash}{LBNCZDSSSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Using Information and Communication Technology in Home Care
+  for Communication between Patients, Family Members, and Healthcare
+  Professionals: A Systematic Review}
+    \field{journaltitle}{International Journal of Telemedicine and
+  Applications}
+    \field{year}{2013}
+  \endentry
+
+  \entry{countries}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LM}{%
+         family={Lluch},
+         familyi={L\bibinitperiod},
+         given={Maria},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AF}{%
+         family={Abadie},
+         familyi={A\bibinitperiod},
+         given={Fabienne},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LMAF1}
+    \strng{fullhash}{LMAF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Exploring the role of ICT in the provision of integrated
+  care---Evidence from eight countries}
+    \field{journaltitle}{ScienceDirect}
+    \field{year}{2013}
+  \endentry
+
+  \entry{barrier}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GM}{%
+         family={Graves},
+         familyi={G\bibinitperiod},
+         given={Monica},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Doucet},
+         familyi={D\bibinitperiod},
+         given={Shelley},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=DA}{%
+         family={Dube},
+         familyi={D\bibinitperiod},
+         given={Anik},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JM}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Michel},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GMDSDAJM1}
+    \strng{fullhash}{GMDSDAJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Health professionals' and patients' perceived barriers and
+  facilitators to collaborating when communicating through the use of
+  information and communication technologies}
+    \field{journaltitle}{ScienceDirect}
+    \field{year}{2017}
+  \endentry
+
   \entry{4}{article}{}
     \name{author}{8}{}{%
       {{hash=CAM}{%
@@ -599,114 +707,6 @@
     \warn{\item Invalid format of field 'month'}
   \endentry
 
-  \entry{ICT}{article}{}
-    \name{author}{5}{}{%
-      {{hash=LB}{%
-         family={Lindberg},
-         familyi={L\bibinitperiod},
-         given={Birgitta},
-         giveni={B\bibinitperiod},
-      }}%
-      {{hash=NC}{%
-         family={Nilsson},
-         familyi={N\bibinitperiod},
-         given={Carina},
-         giveni={C\bibinitperiod},
-      }}%
-      {{hash=ZD}{%
-         family={Zotterman},
-         familyi={Z\bibinitperiod},
-         given={Daniel},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=SS}{%
-         family={S{\"o}derberg},
-         familyi={S\bibinitperiod},
-         given={Siv},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=SL}{%
-         family={Sk{\"a}r},
-         familyi={S\bibinitperiod},
-         given={Lisa},
-         giveni={L\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LBNCZDSSSL1}
-    \strng{fullhash}{LBNCZDSSSL1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Using Information and Communication Technology in Home Care
-  for Communication between Patients, Family Members, and Healthcare
-  Professionals: A Systematic Review}
-    \field{journaltitle}{International Journal of Telemedicine and
-  Applications}
-    \field{year}{2013}
-  \endentry
-
-  \entry{countries}{article}{}
-    \name{author}{2}{}{%
-      {{hash=LM}{%
-         family={Lluch},
-         familyi={L\bibinitperiod},
-         given={Maria},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=AF}{%
-         family={Abadie},
-         familyi={A\bibinitperiod},
-         given={Fabienne},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LMAF1}
-    \strng{fullhash}{LMAF1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Exploring the role of ICT in the provision of integrated
-  care---Evidence from eight countries}
-    \field{journaltitle}{ScienceDirect}
-    \field{year}{2013}
-  \endentry
-
-  \entry{barrier}{article}{}
-    \name{author}{4}{}{%
-      {{hash=GM}{%
-         family={Graves},
-         familyi={G\bibinitperiod},
-         given={Monica},
-         giveni={M\bibinitperiod},
-      }}%
-      {{hash=DS}{%
-         family={Doucet},
-         familyi={D\bibinitperiod},
-         given={Shelley},
-         giveni={S\bibinitperiod},
-      }}%
-      {{hash=DA}{%
-         family={Dube},
-         familyi={D\bibinitperiod},
-         given={Anik},
-         giveni={A\bibinitperiod},
-      }}%
-      {{hash=JM}{%
-         family={Johnson},
-         familyi={J\bibinitperiod},
-         given={Michel},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{GMDSDAJM1}
-    \strng{fullhash}{GMDSDAJM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Health professionals' and patients' perceived barriers and
-  facilitators to collaborating when communicating through the use of
-  information and communication technologies}
-    \field{journaltitle}{ScienceDirect}
-    \field{year}{2017}
-  \endentry
-
   \entry{KOL_1}{misc}{}
     \verb{url}
     \verb http://www.sum.dk/Aktuelt/Nyheder/Digitalisering/2012/August/~/media/
@@ -722,77 +722,48 @@
     \endverb
   \endentry
 
-  \entry{effects}{article}{}
-    \name{author}{9}{}{%
-      {{hash=BGA}{%
-         family={Barberan-Garcia},
-         familyi={B\bibinitperiod-G\bibinitperiod},
-         given={Anael},
-         giveni={A\bibinitperiod},
+  \entry{etik}{article}{}
+    \name{author}{3}{}{%
+      {{hash=FDA}{%
+         family={Fleming},
+         familyi={F\bibinitperiod},
+         given={David\bibnamedelima A.},
+         giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
       }}%
-      {{hash=VI}{%
-         family={Vogiatzis},
-         familyi={V\bibinitperiod},
-         given={Ioannis},
-         giveni={I\bibinitperiod},
+      {{hash=EKE}{%
+         family={Edison},
+         familyi={E\bibinitperiod},
+         given={Karen\bibnamedelima E.},
+         giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
       }}%
-      {{hash=SH}{%
-         family={Solberg},
-         familyi={S\bibinitperiod},
-         given={HS},
+      {{hash=PH}{%
+         family={Pak},
+         familyi={P\bibinitperiod},
+         given={Hon},
          giveni={H\bibinitperiod},
-      }}%
-      {{hash=VJ}{%
-         family={Vilar{\'o}},
-         familyi={V\bibinitperiod},
-         given={Jordi},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=RD}{%
-         family={Rodriguez},
-         familyi={R\bibinitperiod},
-         given={DA},
-         giveni={D\bibinitperiod},
-      }}%
-      {{hash=GH}{%
-         family={Gar{\aa}sen},
-         familyi={G\bibinitperiod},
-         given={HM},
-         giveni={H\bibinitperiod},
-      }}%
-      {{hash=TT}{%
-         family={Troosters},
-         familyi={T\bibinitperiod},
-         given={Thierry},
-         giveni={T\bibinitperiod},
-      }}%
-      {{hash=GAJ}{%
-         family={Garcia-Aymerich},
-         familyi={G\bibinitperiod-A\bibinitperiod},
-         given={Judith},
-         giveni={J\bibinitperiod},
-      }}%
-      {{hash=RJ}{%
-         family={Roca},
-         familyi={R\bibinitperiod},
-         given={Josep},
-         giveni={J\bibinitperiod},
       }}%
     }
     \list{publisher}{1}{%
-      {Elsevier}%
+      {Mary Ann Liebert Inc}%
     }
-    \strng{namehash}{BGAVISHVJRDGHTTGAJRJ1}
-    \strng{fullhash}{BGAVISHVJRDGHTTGAJRJ1}
+    \strng{namehash}{FDAEKEPH1}
+    \strng{fullhash}{FDAEKEPH1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{number}{4}
-    \field{pages}{628\bibrangedash 637}
-    \field{title}{Effects and barriers to deployment of telehealth wellness
-  programs for chronic patients across 3 European countries}
-    \field{volume}{108}
-    \field{journaltitle}{Respiratory medicine}
-    \field{year}{2014}
+    \verb{doi}
+    \verb 10.1089/tmj.2009.0035
+    \endverb
+    \field{issn}{1556-3669}
+    \field{number}{8}
+    \field{pages}{797\bibrangedash 803}
+    \field{title}{Telehealth Ethics}
+    \verb{url}
+    \verb http://dx.doi.org/10.1089/tmj.2009.0035
+    \endverb
+    \field{volume}{15}
+    \field{journaltitle}{Telemedicine and e-Health}
+    \field{year}{2009}
+    \warn{\item Invalid format of field 'month'}
   \endentry
 
   \entry{Healthconsensus}{article}{}

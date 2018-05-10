@@ -39,19 +39,22 @@
 \contentsline {subsection}{\numberline {4.2.3}Phase 3}{18}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}calculations}{18}{subsection.4.2.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis}{19}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{19}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Impact of ICT in homecare}{19}{subsection.5.0.2}
-\contentsline {subsection}{\numberline {5.0.3}Comparison with telemedicine solution for COPD patients}{20}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Challenges within telemedicine rehabilitation}{21}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Effects and barriers in implementation of telemedicine solutions for chronic patients across 3 European countries}{21}{subsection.5.0.5}
+\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{19}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{19}{subsection.5.0.2}
+\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{19}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{20}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{21}{subsection.5.0.5}
+\contentsline {subsubsection}{Personal aspect}{21}{subsubsection*.19}
+\contentsline {subsubsection}{Technological skills}{21}{subsubsection*.20}
+\contentsline {subsubsection}{Ethics}{21}{subsubsection*.21}
 \contentsline {section}{\numberline {5.1}Cost-effective}{22}{section.5.1}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{23}{chapter.6}
 \contentsline {chapter}{\chapternumberline {7}Recommendation}{24}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Perspectivation}{25}{chapter.8}
 \contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{25}{subsection.8.0.1}
 \contentsline {chapter}{\chapternumberline {9}Conclusion}{26}{chapter.9}
-\contentsline {chapter}{References}{27}{section*.20}
+\contentsline {chapter}{References}{27}{section*.23}
 \contentsline {appendix}{\chapternumberline {A}Appendix}{30}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}aap1}{31}{appendix.B}
-\contentsline {chapter}{List of Figures}{32}{section*.21}
-\contentsline {chapter}{List of Tables}{33}{section*.22}
+\contentsline {chapter}{List of Figures}{32}{section*.24}
+\contentsline {chapter}{List of Tables}{33}{section*.25}
