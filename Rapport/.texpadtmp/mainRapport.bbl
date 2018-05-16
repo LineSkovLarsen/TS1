@@ -332,6 +332,27 @@
     \field{year}{2016}
   \endentry
 
+  \entry{usingeffect}{article}{}
+    \name{author}{1}{}{%
+      {{hash=HC}{%
+         family={Hulme},
+         familyi={H\bibinitperiod},
+         given={Claire},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HC1}
+    \strng{fullhash}{HC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{17\bibrangedash 29}
+    \field{title}{Using cost effectiveness analysis; a Beginners guide}
+    \field{volume}{1}
+    \field{journaltitle}{Evidence Based Library and Information Practice}
+    \field{year}{2006}
+  \endentry
+
   \entry{ICT}{article}{}
     \name{author}{5}{}{%
       {{hash=LB}{%
