@@ -34,28 +34,28 @@
 \contentsline {subsection}{\numberline {4.2.1}Phase 1}{16}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Phase 2}{16}{subsection.4.2.2}
 \contentsline {subsubsection}{Control group}{16}{subsubsection*.12}
-\contentsline {subsubsection}{Intervention group}{17}{subsubsection*.16}
-\contentsline {subsection}{\numberline {4.2.3}Phase 3}{17}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}calculations}{17}{subsection.4.2.4}
-\contentsline {chapter}{\chapternumberline {5}Analysis}{18}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{18}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{18}{subsection.5.0.2}
-\contentsline {subsubsection}{Rehabilitation offered in Herning municipality}{19}{subsubsection*.19}
-\contentsline {subsubsection}{Outcome}{19}{subsubsection*.20}
-\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{20}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{20}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{21}{subsection.5.0.5}
-\contentsline {subsubsection}{Personal aspect}{21}{subsubsection*.21}
-\contentsline {subsubsection}{Technological skills}{21}{subsubsection*.22}
-\contentsline {subsubsection}{Ethics}{22}{subsubsection*.23}
-\contentsline {section}{\numberline {5.1}Cost-effective}{22}{section.5.1}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{23}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{24}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{25}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{25}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{26}{chapter.9}
-\contentsline {chapter}{References}{27}{section*.25}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{30}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{31}{appendix.B}
-\contentsline {chapter}{List of Figures}{32}{section*.26}
-\contentsline {chapter}{List of Tables}{33}{section*.27}
+\contentsline {subsubsection}{Intervention group}{19}{subsubsection*.17}
+\contentsline {subsection}{\numberline {4.2.3}Phase 3}{20}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}calculations}{20}{subsection.4.2.4}
+\contentsline {chapter}{\chapternumberline {5}Analysis}{21}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{21}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{21}{subsection.5.0.2}
+\contentsline {subsubsection}{Rehabilitation offered in Herning municipality}{22}{subsubsection*.20}
+\contentsline {subsubsection}{Outcome}{22}{subsubsection*.21}
+\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{23}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{23}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{24}{subsection.5.0.5}
+\contentsline {subsubsection}{Personal aspect}{24}{subsubsection*.22}
+\contentsline {subsubsection}{Technological skills}{24}{subsubsection*.23}
+\contentsline {subsubsection}{Ethics}{25}{subsubsection*.24}
+\contentsline {section}{\numberline {5.1}Cost-effective}{25}{section.5.1}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{26}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{27}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{28}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{28}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{29}{chapter.9}
+\contentsline {chapter}{References}{30}{section*.26}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{32}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{33}{appendix.B}
+\contentsline {chapter}{List of Figures}{34}{section*.27}
+\contentsline {chapter}{List of Tables}{35}{section*.28}

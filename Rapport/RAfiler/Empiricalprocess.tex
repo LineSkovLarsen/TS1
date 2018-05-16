@@ -45,6 +45,10 @@ This case study is not a trial so there is need of data from a former conducted 
 Therefor it was chosen to use the collected QUALY of the intervention group from this paper \cite{costeffect}.
 The QAULY baseline in the intervention group is 0.74 and this is the number that will be used in the cost-effectiveness analysis in this paper. 
 
+%beskriv control gruppe og intervention gruppe
+%Beskriv at priserne er implementerings prisen
+
+
 \subsection{Phase 1}
 
 The Economic analysis in this paper does not include a detailed analysis of phase 1 which is the hospital stay of the patient. This is dismissed because the cost of the control group and intervention group is the same in this phase of the rehabilitation, furthermore the introduction of telerehabilition will not effect this fase of the rehabilitation. 
@@ -56,48 +60,119 @@ Phase 2 is the fase after the patient has been discharged.
 % Der tages ikke højde for medicamenter i analysen 
 %Beskriv hvordan vi indhenter tal fra et sammenligneligt studie i belgien
 
+
+
+
+
 \subsubsection{Control group}
-% Få tabeller med skrift i midten
+
+All cost for the control group was collected during the semi-structured interview with .... described in \cref{??}. 
+
+The cost of profession is the first cost that is taken in to count.
+The salary and working hours of the professions needed in the control group is based on the cost in Herning municipality this means it will differ from municipality too municipality. The collected data will be described further in this section where cost per patient will be the outcome of the calculations. 
+
+
+The salary of the nurses needed in the standard CR is 308 per hour and they have two nurses who works 21 hours, 48 weeks a year. The cost per patient will there for be.
+
+Total hours of working nurses a year:
+
+$$42hours\cdot48weeks=2016hours$$
+
+Total cost per year:
+$$2016hours\cdot308DKK=620.928DKK$$
+
+Cost per patient:
+$$\frac{620.928DKK}{200patients}=3104,64DKK$$
+
+The cost per year for the physiotherapist is 600.000DKK hence the calculations for the physiotherapist is backwords. The physiotherapist works 54 hours a week in 48 weeks a year. The cost of the physiotherapist is therefor.
+
+Total hours of working nurses a year:
+$$54hours\cdot48weeks=2592hours$$
+
+Physiotherapist hourly cost:
+
+$$\frac{600.000DKK}{2592hours}=231,50DKK$$
+
+Cost per patient:
+$$\frac{600.000DKK}{200patients}=3000DKK$$
+
+%Her skal udregninger for diatisten ind når vi har de rigtige tal
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l X[j]@{}}
-    \textbf{Profession} &        \textbf{Average Cost per hour} & \textbf{Total Average cost} \\[-1ex]
+\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+    \textbf{Profession} & \textbf{Average hourly Cost} & \textbf{Total cost a year} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-     Nurse   &    207 DKK & ? \\ \hline
-    Physisican   &   184 DKK    & ? \\ \hline
-    Diatrist    &     175 DKK    & ?
+     Nurse   &    308 DKK & 620.928DKK & 3104,64DKK \\ \hline
+    Physiotherapist   &   231,50DKK  & 600.000DKK & 3000DKK \\ \hline
+    Diatrist    &     175 DKK    & ? \\ 
+    \hline \hline \hline
+    \textbf{Total} & & &?
     \newline
    \end{longtabu}
-\caption{Profession control croup cost \cite{lonnurse, lonfys, londia}}
+\caption{Profession control group cost}
 \label{tab: PC}
 \end{table}
 
-\begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l X[j]@{}}
-    \textbf{Non health related} &        \textbf{Average Cost per hour} & \textbf{Total Average cost} \\[-1ex]
-    \midrule
-     Travel   &    ? & ? \\ \hline
-     Productivity loss   &       ? & ? \\ \hline
-     Presentism   &        ? & ?
-    \newline
-   \end{longtabu}
-\caption{Non health related control croup cost}
-\label{tab: NC}
-\end{table}
+The next cost that is considered is the implementation cost of materials as training equipment and office environment at the training facility. It is important to notice that these cost is a one time cost and in the future it will be a significant minor cost. The data is collected from a spreadsheet from Herning municipality. The numbers a calculated volume of this spreadsheet to find the details on what the different headlines contains please read appendix XXXX. 
 
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l X[j]@{}}
-    \textbf{Health related}  & \textbf{Total Average cost} \\[-1ex]
+\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+    \textbf{Materials implementation} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-     Ambulant treatment    &    7800 DKK \\ \hline
-     Other treatment   &     3022 DKK   \\ \hline
-     Hospitalization   &      38594 DKK \\ \hline
-     Outpatient visit   &      641 DKK \\ \hline
-     GP   &      1222 DKK \\ \hline
+    Training equipment   &  97 &  29.711DKK & 149DKK \\ \hline
+    Training bikes   & 12 & 118.200DKK & 591DKK  \\ \hline
+    Test bike    &  1 & 76.750DKK &   382.75DKK \\ \hline 
+    Office environment    &  39 & 34.545DKK  &   173DKK  \\ \hline 
+    Other material   &  8 & 18.161DKK  &   91DKK\\
+    \hline \hline \hline
+    \textbf{Total} & 157 & 277.367DKK & 1386,75DKK
     \newline
    \end{longtabu}
-\caption{Health related control croup cost}
-\label{tab: NC}
+\caption{Materials control group cost}
+\label{tab: MC}
 \end{table}
+
+To provide the right care for the patients and follow up on their condition some medical equipment is needed. These are described in \cref{tab: MeC}. The data on this is from the spreadsheet as before mentioned and is to be seen in appendix XXX.
+
+\begin{table}[H]
+\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+    \textbf{Medical equipment} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
+    \midrule
+    Model of heart   &  1 &  350DKK & 1,75DKK \\ \hline
+    Sphygmomanometer  & 1 & 1599DKK & 8DKK  \\ \hline
+    Pulse Oximeter    &  1 & 599DKK &   3DKK \\ \hline 
+    Cuff    &  2 & 498DKK  &   2,5DKK  \\ \hline 
+    Ventilation mask   &  1 & 1637DKK  &   8DKK \\
+    \hline \hline \hline
+    \textbf{Total} & 6 & 4683DKK & 23,25DKK
+    \newline
+    \newline
+   \end{longtabu}
+\caption{Medical equipment control group cost}
+\label{tab: MeC}
+\end{table}
+
+The rest of Herning Kommunes cost is collected in this last table. It is other values and it contains cost as rent for their training facility and education of employees. 
+
+\begin{table}[H]
+\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+    \textbf{Other Cost} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
+    \midrule
+    Location   &  140.000DKK & 700DKK \\ \hline
+    Employee education   & 10.000DKK & 50DKK  \\ \hline
+    HjerteKomMidt (database)  & ?DKK &   ?DKK \\
+    \hline \hline \hline
+    \textbf{Total} & ?  & ?DKK
+    \newline
+    \newline
+   \end{longtabu}
+\caption{Other cost control group}
+\label{tab: OC}
+\end{table}
+
+From these collected cost from Herning it is possible to calculate the total cost per patient in the based on the first year after implementation, this indicates that the fixed implementation cost is included is this analysis.
+
+$$Profession + Material implementation + Medical equipment + other cost = Cost per patient$$
+% Her skal lige være summering af priser.
 
 
 
@@ -112,7 +187,7 @@ Phase 2 is the fase after the patient has been discharged.
     Diatrist    &     175 DKK    & ?
     \newline
    \end{longtabu}
-\caption{Profession intervention croup cost \cite{lonnurse, lonfys, londia}}
+\caption{Profession intervention croup cost}
 \label{tab: PI}
 \end{table}
 

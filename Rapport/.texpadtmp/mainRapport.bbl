@@ -332,40 +332,6 @@
     \field{year}{2016}
   \endentry
 
-  \entry{lonnurse}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=sD}{%
-         family={sygeplejer{\aa}d},
-         familyi={s\bibinitperiod},
-         given={Dansk},
-         giveni={D\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{sD1}
-    \strng{fullhash}{sD1}
-    \field{labelnamesource}{author}
-    \verb{url}
-    \verb https://dsr.dk/loen-og-arbejdsvilkaar/loen-og-pension/loenstatistik-f
-    \verb or-sygeplejersker-ansat-i-kommuner-og-regioner
-    \endverb
-    \field{year}{2017}
-  \endentry
-
-  \entry{lonfys}{misc}{}
-    \verb{url}
-    \verb https://fysio.dk/globalassets/documents/raadgivning/loen/kl-basis-1.1
-    \verb 0.-2017.pdf
-    \endverb
-    \field{year}{2017}
-  \endentry
-
-  \entry{londia}{misc}{}
-    \verb{url}
-    \verb http://www.lonstatistik.dk/lonninger.asp?job=Klinisk-diatist-5493
-    \endverb
-    \field{year}{2017}
-  \endentry
-
   \entry{ICT}{article}{}
     \name{author}{5}{}{%
       {{hash=LB}{%
