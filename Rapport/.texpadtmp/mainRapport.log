@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  17 MAY 2018 14:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  23 MAY 2018 15:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2186,7 +2186,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=188, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=196, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2244,15 +2244,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
 
 
-] [5] [6]) [7]
+] [5]
+
+LaTeX Warning: Reference `XXX' on page 1 undefined on input line 63.
+
+[6] [7]) [8]
 \openout2 = `RAfiler/Theory.aux'.
 
- (./RAfiler/Theory.tex <Figure/thirdpart.png, id=332, 501.37312pt x 291.33844pt>
+ (./RAfiler/Theory.tex <Figure/thirdpart.png, id=353, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 10.
 (pdftex.def)             Requested size: 426.0pt x 247.55437pt.
- [8
+ [9
 
 
 
@@ -2261,12 +2265,12 @@ Underfull \hbox (badness 1102) in paragraph at lines 20--24
 \T1/cmr/m/n/10.95 practitioners, home nursing, public healthcare, school health service, child dental
  []
 
-[9]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 57--59
 
  []
 
-[10]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
  []
@@ -2291,44 +2295,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--76
 
  []
 
-[11]) [12]
+[12]) [13]
 \openout2 = `RAfiler/Empiricalprocess.aux'.
 
- (./RAfiler/Empiricalprocess.tex [13
+ (./RAfiler/Empiricalprocess.tex [14
 
 
 
-] [14]
+] [15]
 Underfull \hbox (badness 1616) in paragraph at lines 43--44
 []\T1/cmr/m/n/10.95 Hanne Voldgaard Nielsen and Eva Klose Jensen are both working with cardiac
  []
 
-[15]
+[16]
 Underfull \hbox (badness 2368) in paragraph at lines 58--58
 []\T1/cmr/m/n/10.95 Called for start test - announces
  []
 
-[16]
+[17]
 Underfull \hbox (badness 1231) in paragraph at lines 75--76
 \T1/cmr/m/n/10.95 The economics aspects of this paper is conducted in collaboration with Herning
  []
 
-[17] [18] [19]
+[18] [19] [20]
 Underfull \hbox (badness 10000) in paragraph at lines 194--194
 
  []
 
-[20]
-Overfull \hbox (3.98503pt too wide) detected at line 221
+[21]
+Overfull \hbox (3.98503pt too wide) detected at line 235
 \OML/cmm/m/it/10.95 Profession \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Materialimplementation \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Medicalequipment \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 othercost \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 Costperpatient
  []
 
-[21]
-Underfull \hbox (badness 10000) in paragraph at lines 275--275
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 289--289
 
  []
 
-[22]) [23]
+[23]) [24]
 \openout2 = `RAfiler/Analysisanddiscussion.aux'.
 
  (./RAfiler/Analysisanddiscussion.tex
@@ -2336,7 +2340,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 275--275
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 5.
 
-[24
+[25
 
 
 
@@ -2345,31 +2349,31 @@ Underfull \hbox (badness 1448) in paragraph at lines 19--20
 []\T1/cmr/m/n/10.95 The purpose of this rehabilitation program is to achieve greater knowledge and
  []
 
-[25]
+[26]
 Underfull \hbox (badness 1178) in paragraph at lines 32--33
 []\T1/cmr/m/n/10.95 Relatives experienced that everyday life were more normal by using telemedicine
  []
 
-[26] [27]
+[27] [28]
 Underfull \hbox (badness 1067) in paragraph at lines 52--53
 \T1/cmr/m/n/10.95 During the implementation process ethical implications of telemedicine has to be
  []
 
-[28] [29
+[29] [30
 
-] [30
+] [31
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 114.
+(hyperref)                than one, level fixed on input line 118.
 
-) [31
+) [32
 
 ]
 \openout2 = `RAfiler/Conclusions.aux'.
 
- (./RAfiler/Conclusions.tex) [32
+ (./RAfiler/Conclusions.tex) [33
 
 
 
@@ -2385,7 +2389,7 @@ Underfull \hbox (badness 1859) in paragraph at lines 1--1
 \T1/cmr/m/n/10.95 Effect of comprehensive cardiac telerehabilitation on one-year cardiovascular
  []
 
-[33
+[34
 
 
 
@@ -2394,25 +2398,30 @@ Underfull \hbox (badness 1038) in paragraph at lines 1--1
 []\T1/cmr/m/n/10.95 Edward T Chen. Considerations of Telemedicine in the Delivery of Modern
  []
 
-[34]) [35]
+
+Underfull \hbox (badness 2158) in paragraph at lines 1--1
+[]\T1/cmr/m/n/10.95 Susanne Reindahl Rasmussen, Dansk Sundhedsinstitut. Hjerterehabilitering i
+ []
+
+[35]) [36]
 \openout2 = `RAfiler/Appendix.aux'.
 
- (./RAfiler/Appendix.tex [36
+ (./RAfiler/Appendix.tex [37
 
 
 
-]) [37
+]) [38
 
 ] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
-) [38
+) [39
 
 
 ] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
-[39
+[40
 
 ]
 \tf@toc=\write7
@@ -2433,23 +2442,27 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `mainRapport.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 \openout1 = `mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36889 strings out of 492995
- 668738 string characters out of 6132705
- 1330542 words of memory out of 5000000
- 39717 multiletter control sequences out of 15000+600000
+ 36914 strings out of 492995
+ 669413 string characters out of 6132705
+ 1331542 words of memory out of 5000000
+ 39734 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2990s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (44 pages, 457186 bytes).
+Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (45 pages, 465266 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 628 compressed objects within 7 object streams
- 160 named destinations out of 1000 (max. 500000)
- 379 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 728 PDF objects out of 1000 (max. 8388607)
+ 654 compressed objects within 7 object streams
+ 168 named destinations out of 1000 (max. 500000)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 

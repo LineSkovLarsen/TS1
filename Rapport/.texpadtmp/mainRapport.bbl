@@ -83,6 +83,79 @@
     \endverb
   \endentry
 
+  \entry{brymanbell}{book}{}
+    \name{author}{2}{}{%
+      {{hash=BA}{%
+         family={Bryman},
+         familyi={B\bibinitperiod},
+         given={Alan},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BE}{%
+         family={Bell},
+         familyi={B\bibinitperiod},
+         given={Emma},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Oxford University Press, USA}%
+    }
+    \strng{namehash}{BABE1}
+    \strng{fullhash}{BABE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Business research methods}
+    \field{year}{2015}
+  \endentry
+
+  \entry{gold1958roles}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GRL}{%
+         family={Gold},
+         familyi={G\bibinitperiod},
+         given={Raymond\bibnamedelima L},
+         giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {JSTOR}%
+    }
+    \strng{namehash}{GRL1}
+    \strng{fullhash}{GRL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{217\bibrangedash 223}
+    \field{title}{Roles in sociological field observations}
+    \field{journaltitle}{Social forces}
+    \field{year}{1958}
+  \endentry
+
+  \entry{lofland1995analyzing}{article}{}
+    \name{author}{2}{}{%
+      {{hash=LJ}{%
+         family={Lofland},
+         familyi={L\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LLH}{%
+         family={Lofland},
+         familyi={L\bibinitperiod},
+         given={Lyn\bibnamedelima H},
+         giveni={L\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LJLLH1}
+    \strng{fullhash}{LJLLH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Analyzing social settings: A guide to qualitative research
+  and analysis}
+    \field{journaltitle}{Belmont, CA: Wadsworth}
+    \field{year}{1995}
+  \endentry
+
   \entry{costeffect}{article}{}
     \name{author}{9}{}{%
       {{hash=FI}{%
@@ -382,6 +455,36 @@
     \field{volume}{17}
     \field{journaltitle}{American Journal of Management}
     \field{year}{2017}
+  \endentry
+
+  \entry{hjertetal}{misc}{}
+    \verb{url}
+    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{rasmussen2011hjerterehabilitering}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RSR}{%
+         family={Rasmussen},
+         familyi={R\bibinitperiod},
+         given={Susanne\bibnamedelima Reindahl},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sundhedsinstitut},
+         familyi={S\bibinitperiod},
+         given={Dansk},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSRSD1}
+    \strng{fullhash}{RSRSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Hjerterehabilitering i Danmark}
+    \field{year}{2011}
   \endentry
 
   \entry{ICT}{article}{}
