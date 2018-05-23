@@ -83,6 +83,38 @@
     \endverb
   \endentry
 
+  \entry{mark2009research}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=MS}{%
+         family={Mark},
+         familyi={M\bibinitperiod},
+         given={Saunders},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PL}{%
+         family={Philip},
+         familyi={P\bibinitperiod},
+         given={Lewis},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=AT}{%
+         family={Adrian},
+         familyi={A\bibinitperiod},
+         given={Thornhill},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Prentice Hall}%
+    }
+    \strng{namehash}{MSPLAT1}
+    \strng{fullhash}{MSPLAT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Research methods for business students}
+    \field{year}{2009}
+  \endentry
+
   \entry{brymanbell}{book}{}
     \name{author}{2}{}{%
       {{hash=BA}{%

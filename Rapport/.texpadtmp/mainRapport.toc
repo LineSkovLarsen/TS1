@@ -13,53 +13,53 @@
 \contentsline {subsection}{\numberline {1.2.1}Delimitation}{3}{subsection.1.2.1}
 \contentsline {chapter}{\chapternumberline {2}Methodology}{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}Research design}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Literature search method}{4}{section.2.2}
+\contentsline {section}{\numberline {2.2}Literature search method}{5}{section.2.2}
 \contentsline {section}{\numberline {2.3}Research interviews}{5}{section.2.3}
 \contentsline {section}{\numberline {2.4}Focus group/open discussion with patients}{6}{section.2.4}
 \contentsline {section}{\numberline {2.5}Micro ethnography}{6}{section.2.5}
 \contentsline {section}{\numberline {2.6}Analyzing qualitative data}{7}{section.2.6}
 \contentsline {section}{\numberline {2.7}Economy}{7}{section.2.7}
 \contentsline {subsection}{\numberline {2.7.1}Cost-effectiveness analysis}{7}{subsection.2.7.1}
-\contentsline {chapter}{\chapternumberline {3}Theory}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}The Danish Healthcare System}{9}{section.3.1}
-\contentsline {subsubsection}{Structure of the Danish Healthcare System}{9}{subsubsection*.5}
-\contentsline {subsubsection}{Finances}{10}{subsubsection*.7}
-\contentsline {subsubsection}{Preventive healthcare}{11}{subsubsection*.8}
-\contentsline {subsubsection}{Rehabilitation}{11}{subsubsection*.9}
-\contentsline {subsubsection}{Digitalization within the Danish Healthcare System}{11}{subsubsection*.10}
-\contentsline {subsubsection}{Treatment of Cardiac patients}{12}{subsubsection*.11}
-\contentsline {section}{\numberline {3.2}ICT in telemedicine}{13}{section.3.2}
-\contentsline {chapter}{\chapternumberline {4}Empirical data}{14}{chapter.4}
-\contentsline {section}{\numberline {4.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{14}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Outcome of the interview}{14}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{16}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{17}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Economy and effect}{18}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Phase 1}{19}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Phase 2}{19}{subsection.4.3.2}
-\contentsline {subsubsection}{Control group}{19}{subsubsection*.13}
-\contentsline {subsubsection}{Intervention group}{23}{subsubsection*.18}
-\contentsline {subsection}{\numberline {4.3.3}Phase 3}{24}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}calculations}{24}{subsection.4.3.4}
-\contentsline {chapter}{\chapternumberline {5}Analysis}{25}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{25}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{25}{subsection.5.0.2}
-\contentsline {subsubsection}{Rehabilitation offered in Herning municipality}{26}{subsubsection*.23}
-\contentsline {subsubsection}{Outcome}{26}{subsubsection*.24}
-\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{27}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{27}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{28}{subsection.5.0.5}
-\contentsline {subsubsection}{Personal aspect}{28}{subsubsection*.25}
-\contentsline {subsubsection}{Technological skills}{28}{subsubsection*.26}
-\contentsline {subsubsection}{Ethics}{29}{subsubsection*.27}
-\contentsline {section}{\numberline {5.1}Cost-effective}{29}{section.5.1}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{30}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{31}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{32}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{32}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{33}{chapter.9}
-\contentsline {chapter}{References}{34}{section*.29}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{37}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{38}{appendix.B}
-\contentsline {chapter}{List of Figures}{39}{section*.30}
-\contentsline {chapter}{List of Tables}{40}{section*.31}
+\contentsline {chapter}{\chapternumberline {3}Theory}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Danish Healthcare System}{10}{section.3.1}
+\contentsline {subsubsection}{Structure of the Danish Healthcare System}{10}{subsubsection*.6}
+\contentsline {subsubsection}{Finances}{11}{subsubsection*.8}
+\contentsline {subsubsection}{Preventive healthcare}{12}{subsubsection*.9}
+\contentsline {subsubsection}{Rehabilitation}{12}{subsubsection*.10}
+\contentsline {subsubsection}{Digitalization within the Danish Healthcare System}{12}{subsubsection*.11}
+\contentsline {subsubsection}{Treatment of Cardiac patients}{13}{subsubsection*.12}
+\contentsline {section}{\numberline {3.2}ICT in telemedicine}{14}{section.3.2}
+\contentsline {chapter}{\chapternumberline {4}Empirical data}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{15}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Outcome of the interview}{15}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{17}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{18}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Economy and effect}{19}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Phase 1}{20}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Phase 2}{20}{subsection.4.3.2}
+\contentsline {subsubsection}{Control group}{20}{subsubsection*.14}
+\contentsline {subsubsection}{Intervention group}{24}{subsubsection*.19}
+\contentsline {subsection}{\numberline {4.3.3}Phase 3}{25}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}calculations}{25}{subsection.4.3.4}
+\contentsline {chapter}{\chapternumberline {5}Analysis}{26}{chapter.5}
+\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{26}{subsection.5.0.1}
+\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{26}{subsection.5.0.2}
+\contentsline {subsubsection}{Rehabilitation offered in Herning municipality}{27}{subsubsection*.24}
+\contentsline {subsubsection}{Outcome}{27}{subsubsection*.25}
+\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{28}{subsection.5.0.3}
+\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{28}{subsection.5.0.4}
+\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{29}{subsection.5.0.5}
+\contentsline {subsubsection}{Personal aspect}{29}{subsubsection*.26}
+\contentsline {subsubsection}{Technological skills}{29}{subsubsection*.27}
+\contentsline {subsubsection}{Ethics}{30}{subsubsection*.28}
+\contentsline {section}{\numberline {5.1}Cost-effective}{30}{section.5.1}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{31}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{32}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{33}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{33}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{34}{chapter.9}
+\contentsline {chapter}{References}{35}{section*.30}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{38}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{39}{appendix.B}
+\contentsline {chapter}{List of Figures}{40}{section*.31}
+\contentsline {chapter}{List of Tables}{41}{section*.32}
