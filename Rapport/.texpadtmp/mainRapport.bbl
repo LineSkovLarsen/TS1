@@ -936,6 +936,13 @@
     \field{year}{2011}
   \endentry
 
+  \entry{ESC}{misc}{}
+    \verb{url}
+    \verb https://www.escardio.org/Education/ESC-Prevention-of-CVD-Programme/Re
+    \verb habilitation
+    \endverb
+  \endentry
+
   \entry{CAD}{article}{}
     \name{author}{6}{}{%
       {{hash=BRW}{%
