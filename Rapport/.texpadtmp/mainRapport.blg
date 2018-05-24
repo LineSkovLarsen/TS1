@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -27,63 +27,65 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10282 items from 5000.
+Reallocated field_info (elt_size=4) to 10421 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
+Warning--entry type for "ESC" isn't style-file defined
+--line 11 of file ../bibliography.bib
 Warning--entry type for "hjertetal" isn't style-file defined
---line 22 of file ../bibliography.bib
+--line 27 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 71 of file ../bibliography.bib
+--line 77 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 182 of file ../bibliography.bib
-Warning--entry type for "KOL_1" isn't style-file defined
 --line 188 of file ../bibliography.bib
+Warning--entry type for "KOL_1" isn't style-file defined
+--line 194 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 224 of file ../bibliography.bib
+--line 230 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 339 of file ../bibliography.bib
+--line 345 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 38 entries,
+You've used 39 entries,
             6256 wiz_defined-function locations,
-            1384 strings with 15386 characters,
-and the built_in function-call counts, 196065 in all, are:
-= -- 13788
+            1387 strings with 15453 characters,
+and the built_in function-call counts, 197418 in all, are:
+= -- 13822
 > -- 3779
-< -- 1207
-+ -- 4731
-- -- 1487
-* -- 13461
-:= -- 18363
+< -- 1215
++ -- 4732
+- -- 1491
+* -- 13484
+:= -- 18388
 add.period$ -- 0
-call.type$ -- 38
+call.type$ -- 39
 change.case$ -- 702
 chr.to.int$ -- 37
-cite$ -- 74
-duplicate$ -- 20125
-empty$ -- 18626
+cite$ -- 76
+duplicate$ -- 20314
+empty$ -- 18861
 format.name$ -- 2083
-if$ -- 41604
+if$ -- 41935
 int.to.chr$ -- 0
-int.to.str$ -- 81
+int.to.str$ -- 82
 missing$ -- 0
-newline$ -- 976
+newline$ -- 983
 num.names$ -- 1464
-pop$ -- 12694
+pop$ -- 13027
 preamble$ -- 1
 purify$ -- 933
 quote$ -- 0
-skip$ -- 6610
+skip$ -- 6674
 stack$ -- 0
-substring$ -- 23454
-swap$ -- 4741
-text.length$ -- 800
+substring$ -- 23459
+swap$ -- 4782
+text.length$ -- 808
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1274
+type$ -- 1307
 warning$ -- 0
-while$ -- 1992
+while$ -- 1994
 width$ -- 0
-write$ -- 939
-(There were 6 warnings)
+write$ -- 945
+(There were 7 warnings)

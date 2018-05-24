@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  24 MAY 2018 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  24 MAY 2018 14:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2038,7 +2038,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count523
 \@quotereset=\count524
-(/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
+(/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
 \openout1 = `mainRapport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -2101,7 +2101,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'mainRapport.bbl' found.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.bbl
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Emergence':
@@ -2167,7 +2167,7 @@ LaTeX Info: Redefining \nameref on input line 4.
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
-(/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.out) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.out)
+(/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.out) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.out)
 \@outlinefile=\write6
 \openout6 = `mainRapport.out'.
 
@@ -2220,7 +2220,7 @@ l.7 \include{RAfiler/Abstract}
 
 
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.toc
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.toc
 Package cleveref Info: loaded `english' language definitions on input line 4.
  [3
 
@@ -2360,33 +2360,28 @@ Underfull \hbox (badness 1742) in paragraph at lines 100--101
  []
 
 [26] [27] [28]
-Underfull \hbox (badness 10000) in paragraph at lines 219--219
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 
  []
 
 [29] [30]
-Overfull \hbox (3.98503pt too wide) detected at line 262
+Overfull \hbox (3.98503pt too wide) detected at line 256
 \OML/cmm/m/it/10.95 Profession \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Materialimplementation \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Medicalequipment \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 othercost \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 Costperpatient
  []
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
 
  []
 
-[32] [33]
-Underfull \hbox (badness 1803) in paragraph at lines 359--367
-\T1/cmr/m/n/10.95 Dette kan komme som statement for hvorfor man skal indføre telerehabilitation
- []
-
-[34
+[32] [33] [34
 
 ] [35
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 378.
+(hyperref)                than one, level fixed on input line 365.
 
 ) [36
 
@@ -2432,12 +2427,12 @@ Underfull \hbox (badness 2158) in paragraph at lines 1--1
 
 ]) [42
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lof
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) [43
 
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lot
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
@@ -2455,9 +2450,9 @@ AED: lastpage setting LastPage
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux)
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux)
 Package cleveref Info: loaded `english' language definitions on input line 30.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `mainRapport.out' has not changed.
@@ -2471,18 +2466,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36931 strings out of 492995
- 669770 string characters out of 6132705
+ 36938 strings out of 492995
+ 669259 string characters out of 6132704
  1331542 words of memory out of 5000000
- 39743 multiletter control sequences out of 15000+600000
+ 39749 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (49 pages, 565062 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (49 pages, 567934 bytes).
 PDF statistics:
- 761 PDF objects out of 1000 (max. 8388607)
- 681 compressed objects within 7 object streams
- 175 named destinations out of 1000 (max. 500000)
+ 767 PDF objects out of 1000 (max. 8388607)
+ 687 compressed objects within 7 object streams
+ 176 named destinations out of 1000 (max. 500000)
  408 words of extra memory for PDF output out of 10000 (max. 10000000)
 
