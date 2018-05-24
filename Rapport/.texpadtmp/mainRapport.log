@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  24 MAY 2018 08:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  24 MAY 2018 08:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2186,7 +2186,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=200, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=196, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2240,7 +2240,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--17
 ] [2]) [3]
 \openout2 = `RAfiler/Method.aux'.
 
- (./RAfiler/Method.tex <Figure/researchdesign.png, id=313, 682.55pt x 225.84375pt>
+ (./RAfiler/Method.tex <Figure/researchdesign.png, id=308, 682.55pt x 225.84375pt>
 File: Figure/researchdesign.png Graphic file (type png)
  <use Figure/researchdesign.png>
 Package pdftex.def Info: Figure/researchdesign.png used on input line 10.
@@ -2261,7 +2261,7 @@ LaTeX Warning: Reference `XXX' on page 1 undefined on input line 67.
 [6] [7] [8]) [9]
 \openout2 = `RAfiler/Theory.aux'.
 
- (./RAfiler/Theory.tex <Figure/thirdpart.png, id=370, 501.37312pt x 291.33844pt>
+ (./RAfiler/Theory.tex <Figure/thirdpart.png, id=365, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 10.
@@ -2355,17 +2355,17 @@ Underfull \hbox (badness 1067) in paragraph at lines 52--53
  []
 
 [25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 215--215
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
 
  []
 
 [27] [28]
-Overfull \hbox (3.98503pt too wide) detected at line 256
+Overfull \hbox (3.98503pt too wide) detected at line 254
 \OML/cmm/m/it/10.95 Profession \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Materialimplementation \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Medicalequipment \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 othercost \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 Costperpatient
  []
 
 [29]
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 
  []
 
@@ -2376,7 +2376,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--310
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 363.
+(hyperref)                than one, level fixed on input line 361.
 
 ) [34
 
@@ -2461,18 +2461,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36929 strings out of 492995
- 669756 string characters out of 6132705
+ 36927 strings out of 492995
+ 669732 string characters out of 6132705
  1331542 words of memory out of 5000000
- 39743 multiletter control sequences out of 15000+600000
+ 39742 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2990s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (47 pages, 558147 bytes).
+Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (47 pages, 558035 bytes).
 PDF statistics:
- 751 PDF objects out of 1000 (max. 8388607)
- 673 compressed objects within 7 object streams
- 173 named destinations out of 1000 (max. 500000)
- 408 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 746 PDF objects out of 1000 (max. 8388607)
+ 668 compressed objects within 7 object streams
+ 172 named destinations out of 1000 (max. 500000)
+ 400 words of extra memory for PDF output out of 10000 (max. 10000000)
 
