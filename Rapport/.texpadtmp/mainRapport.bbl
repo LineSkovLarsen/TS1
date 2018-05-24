@@ -845,6 +845,23 @@
     \endverb
   \endentry
 
+  \entry{udbud}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=U}{%
+         family={Udbudsportalen},
+         familyi={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{U1}
+    \strng{fullhash}{U1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{At handle med det offentlige}
+    \verb{url}
+    \verb http://tilbud.udbudsportalen.dk/artikler/kend-reglerne-for-udbud/
+    \endverb
+  \endentry
+
   \entry{etik}{article}{}
     \name{author}{3}{}{%
       {{hash=FDA}{%
@@ -887,31 +904,6 @@
     \field{journaltitle}{Telemedicine and e-Health}
     \field{year}{2009}
     \warn{\item Invalid format of field 'month'}
-  \endentry
-
-  \entry{Healthconsensus}{article}{}
-    \name{author}{2}{}{%
-      {{hash=PKM}{%
-         family={Pedernsen},
-         familyi={P\bibinitperiod},
-         given={Kjeld\bibnamedelima M{\o}ller},
-         giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
-      }}%
-      {{hash=aMB}{%
-         family={and},
-         familyi={a\bibinitperiod},
-         given={Mickael\bibnamedelima Bech},
-         giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{PKMaMB1}
-    \strng{fullhash}{PKMaMB1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{The Danish Health Care System: An Analysis of Strengths,
-  Weaknesses, Opportunities and Threats}
-    \field{journaltitle}{The Concensus Report}
-    \field{year}{2011}
   \endentry
 
   \entry{hjertetal}{misc}{}
