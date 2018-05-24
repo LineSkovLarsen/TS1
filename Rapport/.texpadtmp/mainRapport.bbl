@@ -489,36 +489,6 @@
     \field{year}{2017}
   \endentry
 
-  \entry{hjertetal}{misc}{}
-    \verb{url}
-    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/
-    \endverb
-    \field{year}{2016}
-  \endentry
-
-  \entry{rasmussen2011hjerterehabilitering}{article}{}
-    \name{author}{2}{}{%
-      {{hash=RSR}{%
-         family={Rasmussen},
-         familyi={R\bibinitperiod},
-         given={Susanne\bibnamedelima Reindahl},
-         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
-      }}%
-      {{hash=SD}{%
-         family={Sundhedsinstitut},
-         familyi={S\bibinitperiod},
-         given={Dansk},
-         giveni={D\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{RSRSD1}
-    \strng{fullhash}{RSRSD1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{Hjerterehabilitering i Danmark}
-    \field{year}{2011}
-  \endentry
-
   \entry{ICT}{article}{}
     \name{author}{5}{}{%
       {{hash=LB}{%
@@ -941,6 +911,36 @@
     \field{title}{The Danish Health Care System: An Analysis of Strengths,
   Weaknesses, Opportunities and Threats}
     \field{journaltitle}{The Concensus Report}
+    \field{year}{2011}
+  \endentry
+
+  \entry{hjertetal}{misc}{}
+    \verb{url}
+    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{rasmussen2011hjerterehabilitering}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RSR}{%
+         family={Rasmussen},
+         familyi={R\bibinitperiod},
+         given={Susanne\bibnamedelima Reindahl},
+         giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Sundhedsinstitut},
+         familyi={S\bibinitperiod},
+         given={Dansk},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RSRSD1}
+    \strng{fullhash}{RSRSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Hjerterehabilitering i Danmark}
     \field{year}{2011}
   \endentry
 
