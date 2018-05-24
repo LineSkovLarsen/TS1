@@ -52,7 +52,7 @@
 \contentsline {subsection}{\numberline {5.1.1}Phase 1}{27}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Phase 2}{27}{subsection.5.1.2}
 \contentsline {subsubsection}{Control group}{28}{subsubsection*.20}
-\contentsline {subsubsection}{Intervention group}{31}{subsubsection*.25}
+\contentsline {subsubsection}{Intervention group}{32}{subsubsection*.25}
 \contentsline {subsection}{\numberline {5.1.3}Phase 3}{33}{subsection.5.1.3}
 \contentsline {subsection}{\numberline {5.1.4}calculations}{33}{subsection.5.1.4}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{34}{chapter.6}
