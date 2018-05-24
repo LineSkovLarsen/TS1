@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  24 MAY 2018 09:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  24 MAY 2018 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2354,29 +2354,34 @@ Underfull \hbox (badness 1067) in paragraph at lines 52--53
 \T1/cmr/m/n/10.95 During the implementation process ethical implications of telemedicine has to be
  []
 
-[26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[26] [27] [28]
+Underfull \hbox (badness 10000) in paragraph at lines 217--217
 
  []
 
-[28] [29]
-Overfull \hbox (3.98503pt too wide) detected at line 254
+[29]
+Overfull \hbox (3.98503pt too wide) detected at line 258
 \OML/cmm/m/it/10.95 Profession \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Materialimplementation \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 Medicalequipment \OT1/cmr/m/n/10.95 + \OML/cmm/m/it/10.95 othercost \OT1/cmr/m/n/10.95 = \OML/cmm/m/it/10.95 Costperpatient
  []
 
 [30]
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
 
  []
 
-[31] [32] [33
+[31] [32]
+Underfull \hbox (badness 1803) in paragraph at lines 355--363
+\T1/cmr/m/n/10.95 Dette kan komme som statement for hvorfor man skal indføre telerehabilitation
+ []
+
+[33
 
 ] [34
 
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 361.
+(hyperref)                than one, level fixed on input line 374.
 
 ) [35
 
@@ -2463,16 +2468,16 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 Here is how much of TeX's memory you used:
  36930 strings out of 492995
  669123 string characters out of 6132704
- 1331542 words of memory out of 5000000
+ 1330542 words of memory out of 5000000
  39743 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (48 pages, 562236 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (48 pages, 564318 bytes).
 PDF statistics:
- 754 PDF objects out of 1000 (max. 8388607)
- 675 compressed objects within 7 object streams
+ 755 PDF objects out of 1000 (max. 8388607)
+ 676 compressed objects within 7 object streams
  174 named destinations out of 1000 (max. 500000)
  408 words of extra memory for PDF output out of 10000 (max. 10000000)
 

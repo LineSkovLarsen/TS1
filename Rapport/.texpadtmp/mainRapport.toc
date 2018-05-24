@@ -48,10 +48,10 @@
 \contentsline {subsubsection}{Technological skills}{25}{subsubsection*.17}
 \contentsline {subsubsection}{Ethics}{26}{subsubsection*.18}
 \contentsline {section}{\numberline {5.1}Economy and effect analysis}{26}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Phase 1}{26}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Phase 2}{26}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.1}Phase 1}{27}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Phase 2}{27}{subsection.5.1.2}
 \contentsline {subsubsection}{Control group}{27}{subsubsection*.19}
-\contentsline {subsubsection}{Intervention group}{30}{subsubsection*.24}
+\contentsline {subsubsection}{Intervention group}{31}{subsubsection*.24}
 \contentsline {subsection}{\numberline {5.1.3}Phase 3}{32}{subsection.5.1.3}
 \contentsline {subsection}{\numberline {5.1.4}calculations}{32}{subsection.5.1.4}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{33}{chapter.6}
