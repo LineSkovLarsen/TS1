@@ -489,6 +489,28 @@
     \field{year}{2017}
   \endentry
 
+  \entry{rehab}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=LV}{%
+         family={Lynggaard},
+         familyi={L\bibinitperiod},
+         given={Vibeke},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LV1}
+    \strng{fullhash}{LV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{LC-REHAB: Effect of the patient education. Learning and
+  Coping Strategies in cardiac REHABilitation - a randomised controlled trial}
+    \list{institution}{1}{%
+      {Aarhus University}%
+    }
+    \field{type}{mathesis}
+    \field{year}{2018}
+  \endentry
+
   \entry{ICT}{article}{}
     \name{author}{5}{}{%
       {{hash=LB}{%
@@ -904,6 +926,26 @@
     \field{journaltitle}{Telemedicine and e-Health}
     \field{year}{2009}
     \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{plan}{article}{}
+    \name{author}{1}{}{%
+      {{hash=fPE}{%
+         prefix={for},
+         prefixi={f\bibinitperiod},
+         family={Planl{\ae}gning},
+         familyi={P\bibinitperiod},
+         given={Enhed},
+         giveni={E\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PEf1}
+    \strng{fullhash}{PEf1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Patienter skal sikres den bedst mulige behandling}
+    \field{journaltitle}{Sundhedsstyrelsen}
+    \field{year}{2007}
   \endentry
 
   \entry{hjertetal}{misc}{}
