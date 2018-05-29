@@ -948,6 +948,36 @@
     \field{year}{2007}
   \endentry
 
+  \entry{evidence}{article}{}
+    \name{author}{3}{}{%
+      {{hash=DA}{%
+         family={DiCenso},
+         familyi={D\bibinitperiod},
+         given={Alba},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Cullum},
+         familyi={C\bibinitperiod},
+         given={Nicky},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Ciliska},
+         familyi={C\bibinitperiod},
+         given={Donna},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DACNCD1}
+    \strng{fullhash}{DACNCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Implementing evidence-based nursing: some misconsceptions}
+    \field{journaltitle}{Implementation forum}
+    \field{year}{1998}
+  \endentry
+
   \entry{hjertetal}{misc}{}
     \verb{url}
     \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/

@@ -27,67 +27,67 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10699 items from 5000.
+Reallocated field_info (elt_size=4) to 10838 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "udbud" isn't style-file defined
---line 28 of file ../bibliography.bib
-Warning--entry type for "ESC" isn't style-file defined
 --line 37 of file ../bibliography.bib
+Warning--entry type for "ESC" isn't style-file defined
+--line 46 of file ../bibliography.bib
 Warning--entry type for "hjertetal" isn't style-file defined
---line 54 of file ../bibliography.bib
+--line 63 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 104 of file ../bibliography.bib
+--line 113 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 215 of file ../bibliography.bib
+--line 224 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 221 of file ../bibliography.bib
+--line 230 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 257 of file ../bibliography.bib
+--line 266 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 372 of file ../bibliography.bib
+--line 381 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 41 entries,
+You've used 42 entries,
             6256 wiz_defined-function locations,
-            1393 strings with 15622 characters,
-and the built_in function-call counts, 202427 in all, are:
-= -- 14042
-> -- 3911
-< -- 1260
-+ -- 4800
-- -- 1518
-* -- 13662
-:= -- 18680
+            1398 strings with 15758 characters,
+and the built_in function-call counts, 207842 in all, are:
+= -- 14392
+> -- 4038
+< -- 1284
++ -- 4960
+- -- 1573
+* -- 14058
+:= -- 19259
 add.period$ -- 0
-call.type$ -- 41
-change.case$ -- 733
+call.type$ -- 42
+change.case$ -- 740
 chr.to.int$ -- 37
-cite$ -- 80
-duplicate$ -- 21017
-empty$ -- 19435
-format.name$ -- 2153
-if$ -- 43074
+cite$ -- 82
+duplicate$ -- 21647
+empty$ -- 19909
+format.name$ -- 2235
+if$ -- 44167
 int.to.chr$ -- 0
-int.to.str$ -- 87
+int.to.str$ -- 89
 missing$ -- 0
-newline$ -- 1017
-num.names$ -- 1560
-pop$ -- 13673
+newline$ -- 1047
+num.names$ -- 1598
+pop$ -- 14025
 preamble$ -- 1
-purify$ -- 967
+purify$ -- 983
 quote$ -- 0
-skip$ -- 6985
+skip$ -- 7157
 stack$ -- 0
-substring$ -- 23492
-swap$ -- 4970
-text.length$ -- 837
+substring$ -- 24022
+swap$ -- 5101
+text.length$ -- 864
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1373
+type$ -- 1407
 warning$ -- 0
-while$ -- 2044
+while$ -- 2118
 width$ -- 0
-write$ -- 977
+write$ -- 1006
 (There were 8 warnings)
