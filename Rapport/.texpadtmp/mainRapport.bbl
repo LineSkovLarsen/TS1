@@ -884,6 +884,34 @@
     \endverb
   \endentry
 
+  \entry{GDPR}{article}{}
+    \name{author}{2}{}{%
+      {{hash=gfpA}{%
+         prefix={guide\bibnamedelima for},
+         prefixi={g\bibinitperiod\bibinitdelim f\bibinitperiod},
+         family={patients},
+         familyi={p\bibinitperiod},
+         given={A},
+         giveni={A},
+      }}%
+      {{hash=po}{%
+         prefix={patients'},
+         prefixi={p'},
+         family={organisations},
+         familyi={o\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{pAgfop1}
+    \strng{fullhash}{pAgfop1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{The new EU Regulation on the protection of personal data:
+  what does it mean for patients?The new EU Regulation on the protection of
+  personal data: what does it mean for patients?}
+    \field{journaltitle}{European Patients Forum}
+    \field{year}{2015}
+  \endentry
+
   \entry{etik}{article}{}
     \name{author}{3}{}{%
       {{hash=FDA}{%
