@@ -16,10 +16,10 @@
 \contentsline {section}{\numberline {2.2}Literature search method}{5}{section.2.2}
 \contentsline {section}{\numberline {2.3}Research interviews}{5}{section.2.3}
 \contentsline {section}{\numberline {2.4}Focus group/open discussion with patients}{6}{section.2.4}
-\contentsline {section}{\numberline {2.5}Micro ethnography}{6}{section.2.5}
+\contentsline {section}{\numberline {2.5}Micro ethnography}{7}{section.2.5}
 \contentsline {section}{\numberline {2.6}Analyzing qualitative data}{7}{section.2.6}
-\contentsline {section}{\numberline {2.7}Economy}{7}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Cost-effectiveness analysis}{7}{subsection.2.7.1}
+\contentsline {section}{\numberline {2.7}Economy}{8}{section.2.7}
+\contentsline {subsection}{\numberline {2.7.1}Cost-effectiveness analysis}{8}{subsection.2.7.1}
 \contentsline {chapter}{\chapternumberline {3}Theory}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}The Danish Healthcare System}{10}{section.3.1}
 \contentsline {subsubsection}{Structure of the Danish Healthcare System}{10}{subsubsection*.6}
@@ -39,30 +39,30 @@
 \contentsline {chapter}{\chapternumberline {5}Analysis}{22}{chapter.5}
 \contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{22}{subsection.5.0.1}
 \contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{22}{subsection.5.0.2}
-\contentsline {subsubsection}{Rehabilitation offered in Herning municipality}{23}{subsubsection*.14}
+\contentsline {subsubsection}{Rehabilitation offered in Herning Municipality}{23}{subsubsection*.14}
 \contentsline {subsubsection}{Outcome}{23}{subsubsection*.15}
 \contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{24}{subsection.5.0.3}
 \contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{24}{subsection.5.0.4}
 \contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{25}{subsection.5.0.5}
 \contentsline {subsubsection}{Personal aspect}{25}{subsubsection*.16}
 \contentsline {subsubsection}{Funding}{25}{subsubsection*.17}
-\contentsline {subsubsection}{Legal issues}{26}{subsubsection*.18}
-\contentsline {subsubsection}{Technological skills}{27}{subsubsection*.19}
-\contentsline {subsubsection}{Ethics}{27}{subsubsection*.20}
-\contentsline {section}{\numberline {5.1}Economy and effect analysis}{28}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Phase 1}{29}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Phase 2}{29}{subsection.5.1.2}
-\contentsline {subsubsection}{Control group}{29}{subsubsection*.21}
-\contentsline {subsubsection}{Intervention group}{33}{subsubsection*.26}
+\contentsline {subsubsection}{Technological skills}{26}{subsubsection*.18}
+\contentsline {subsubsection}{Ethics}{26}{subsubsection*.19}
+\contentsline {section}{\numberline {5.1}Economy and effect analysis}{27}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Phase 1}{28}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Phase 2}{28}{subsection.5.1.2}
+\contentsline {subsubsection}{Control group}{28}{subsubsection*.20}
+\contentsline {subsubsection}{Intervention group}{32}{subsubsection*.25}
 \contentsline {subsection}{\numberline {5.1.3}Phase 3}{34}{subsection.5.1.3}
 \contentsline {subsection}{\numberline {5.1.4}calculations}{34}{subsection.5.1.4}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{35}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{36}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{37}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{37}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{38}{chapter.9}
-\contentsline {chapter}{References}{39}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{42}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{43}{appendix.B}
-\contentsline {chapter}{List of Figures}{44}{section*.33}
-\contentsline {chapter}{List of Tables}{45}{section*.34}
+\contentsline {subsubsection}{Implementation}{35}{subsubsection*.30}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{37}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{38}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{38}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{39}{chapter.9}
+\contentsline {chapter}{References}{40}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{43}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{44}{appendix.B}
+\contentsline {chapter}{List of Figures}{45}{section*.33}
+\contentsline {chapter}{List of Tables}{46}{section*.34}
