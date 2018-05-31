@@ -173,7 +173,8 @@ $$\frac{4500DKK}{200patients}=22,5DKK$$
     \midrule
      Nurse   &    308 DKK & 620.928DKK & 3104,64DKK \\ \hline
     Physiotherapist   &   231,50DKK  & 600.000DKK & 3000DKK \\ \hline
-    Dietician   &  225DKK &    4500 DKK    & 22.5DKK \\ 
+    Dietician   &  225DKK &    4500 DKK    & 22.5DKK \\ \hline
+    Technician & 200DKK & 0DKK & 0DKK\\
     \hline \hline \hline
     \textbf{Total} & & 1.225.428DKK & 6127,14DKK
     \newline
@@ -185,7 +186,7 @@ $$\frac{4500DKK}{200patients}=22,5DKK$$
 The next cost that is considered is the implementation cost of materials as training equipment and office environment at the training facility. It is important to notice that these cost is a one time cost and in the future it will be a significant minor cost. The data is collected from a spreadsheet handed out from Herning Municipality. To see the exact prices on all materials please see Appendix XXXX. 
 
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+\begin{longtabu} to \linewidth{l l l l }
     \textbf{Materials implementation} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
     Training equipment   &  97 &  29.711DKK & 149DKK \\ \hline
@@ -204,7 +205,7 @@ The next cost that is considered is the implementation cost of materials as trai
 To provide the right care for the patient and follow up on their condition some medical equipment is needed. These are described in \Cref{tab: MeC}. This data is based on the spreadsheet as before mentioned and is to be seen in Appendix XXX.
 
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+\begin{longtabu} to \linewidth{l l l l}
     \textbf{Medical equipment} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
     Model of heart   &  1 &  350DKK & 1,75DKK \\ \hline
@@ -236,6 +237,20 @@ Total cost spread out as a cost on all patients:
 
 $$\frac{6.254.250DKK}{200}=31.271,25DKK$$
 
+\begin{table}[H]
+\begin{longtabu} to \linewidth{l l l l }
+    \textbf{IT} & \textbf{Unit/ hourly cost} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
+    \midrule
+    IT license  & 0  & 0DKK  & 0DKK  \\  \hline
+    IT training & 0 & 0DKK & 0DKK \\
+    \hline \hline \hline
+    \textbf{Total} &  &  & 
+    \newline
+    \newline
+   \end{longtabu}
+\caption{IT equipment control group cost}
+\label{tab: ITC}
+\end{table}
 
 \begin{table}[H]
 \begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
@@ -243,11 +258,11 @@ $$\frac{6.254.250DKK}{200}=31.271,25DKK$$
     \midrule
     Location   &  (NDA) & (NDA) \\ \hline
     Employee education   & 10.000DKK & 50DKK  \\ \hline
-    HjerteKomMidt (database)  & ?DKK &   ?DKK \\ \hline
+    HjerteKomMidt (database)  & 34.346 DKK &   171,75DKK \\ \hline
     Brochure & 0DKK & 0DKK \\ \hline
     Rehospitalization & 6.254.250DKK & 31.271,25DKK \\
     \hline \hline \hline
-    \textbf{Total} & ?  & ?DKK
+    \textbf{Total} & 6.298.596DKK  & 31.493DKK
     \newline
     \newline
    \end{longtabu}
@@ -256,10 +271,14 @@ $$\frac{6.254.250DKK}{200}=31.271,25DKK$$
 \end{table}
 
 
-From these collected cost from Herning it is possible to calculate the total cost per patient after the first year of implementation. This indicates that the CAPEX cost is included in this analysis.
+From these collected cost from Herning it is possible to calculate the total cost and total cost per patient after the first year of implementation. This total cost includes both CAPEX and OPEX.
+Total cost for implementation and first operational year:
+$$1.225.428 + 277.367 + 4683 + 6.298.596 = 7.806.074DKK$$
 
-$$Profession + Material implementation + Medical equipment + other cost = Cost per patient$$
-% Her skal lige være summering af priser.
+Total cost per patient for implementation and first operational year:
+
+$$6127,14+1386,75+23,25+31.493= 39.030DKK$$
+
 
 \textbf{Effectiveness}
 
@@ -267,32 +286,72 @@ $$Profession + Material implementation + Medical equipment + other cost = Cost p
 
 \subsubsection{Intervention group}
 
+%Her skal stå en tekst om de tre pakker der udarbejdet indhold osv. Og valg af sølv pakken
+The nurse and physiotherapist hours are separated in hours used for test of the patient before and after the cardiac telerehabilitation with vCare and hours spend during the 12 week training period. Three hours have been included on testing the patient and creating the best fitted solution for the individual patient. Which was explained further in XXXX. 
+
+Total hours of working nurse per patient:
+$$1hour + 3hours=4hours$$
+
+Total hours of working nurses per 200 patients:
+$$4hours + 200patients=800hours$$
+
+Total cost per year for 200 patients:
+$$800hours\cdot308DKK= 246.400DKK$$
+
+Cost per patient:
+$$4hours \cdot 308DKK=1232DKK$$
+
+Total hours of physiotherapist per patient:
+$$1hour + 3hours=4hours$$
+
+Total hours of working nurses per 200 patients:
+$$4hours + 200patients=800hours$$
+
+Total cost per year for 200 patients:
+$$800hours\cdot231,50DKK= 185.000DKK$$
+
+Cost per patient:
+$$4hours \cdot 231,50DKK=926DKK$$
+
+Total hours of working dietician per 200 patients:
+
+$$1hours\cdot200patients=200hours$$
+
+Total cost per year:
+$$200hours\cdot225DKK=45.000DKK$$
+
+Cost per patient:
+$$\frac{45.000DKK}{200patients}=225DKK$$
+
 \begin{table}[H]
 \begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
     \textbf{Profession} & \textbf{Average hourly Cost} & \textbf{Total cost a year} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-     Nurse   &    308 DKK & 620.928DKK & 3104,64DKK \\ \hline
-    Physiotherapist   &   231,50DKK  & 600.000DKK & 3000DKK \\ \hline
-    Dietician   &  225DKK &    4500 DKK    & 22.5DKK \\ 
+     Nurse   &    308 DKK & 246.400DKK & 1232DKK \\ \hline
+    Physiotherapist   &   231,50DKK  & 185.200DKK & 926DKK \\ \hline
+    Dietician   &  225DKK &    45.000 DKK    & 225DKK \\ \hline
+    Technician & 200DKK & 80.000DKK & 400DKK \\
     \hline \hline \hline
-    \textbf{Total} & & 1.225.428DKK & 6127,14DKK
+    \textbf{Total} & & 556.600DKK & 2.783DKK
     \newline
    \end{longtabu}
 \caption{Profession Intervention group cost}
 \label{tab: PI}
 \end{table}
 
+
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
-    \textbf{Materials implementation} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
+\begin{longtabu} to \linewidth{@{}l l l l X[j]@{}}
+    \textbf{Materials implementation} & \textbf{Unit} & \textbf{Cost per unit}&\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-    Training equipment   &  97 &  29.711DKK & 149DKK \\ \hline
-    Training bikes   & 12 & 118.200DKK & 591DKK  \\ \hline
-    Test bike    &  1 & 76.750DKK &   382.75DKK \\ \hline 
-    Office environment    &  39 & 34.545DKK  &   173DKK  \\ \hline 
-    Other material   &  8 & 18.161DKK  &   91DKK\\
+    Training weights   &  $4\cdot50$ & 200DKK&  40.000DKK & 200DKK \\ \hline
+    Test bike   & 1 & 76.750DKK & 76.750DKK & 384DKK  \\ \hline
+    Training bike & 50 & 9850KK& 492.500DKK & 2462,50DKK \\ \hline
+    Yoga mat   &  50 & 99DKK& 4950DKK &   24,75DKK \\ \hline 
+    Step bench    &  50 & 399DKK & 19.950DKK  &   99,75DKK  \\ \hline 
+    Tablets   &  50 & 2790DKK& 139.500DKK  &   697,50DKK\\ 
     \hline \hline \hline
-    \textbf{Total} & 157 & 277.367DKK & 1386,75DKK
+    \textbf{Total} & 401 &  & 773.650DKK & 3868,50DKK
     \newline
    \end{longtabu}
 \caption{Materials intervention group cost}
@@ -300,16 +359,15 @@ $$Profession + Material implementation + Medical equipment + other cost = Cost p
 \end{table}
 
 \begin{table}[H]
-\begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
+\begin{longtabu} to \linewidth{l l l l }
     \textbf{Medical equipment} & \textbf{Unit} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-    Model of heart   &  1 &  350DKK & 1,75DKK \\ \hline
-    Sphygmomanometer  & 1 & 1599DKK & 8DKK  \\ \hline
+    Sphygmomanometer  & 1  &1599DKK & 8DKK  \\ \hline
     Pulse Oximeter    &  1 & 599DKK &   3DKK \\ \hline 
-    Cuff    &  2 & 498DKK  &   2,5DKK  \\ \hline 
+    Cuff    &  2 & 498DKK  & 2,5DKK  \\ \hline 
     Ventilation mask   &  1 & 1637DKK  &   8DKK \\
     \hline \hline \hline
-    \textbf{Total} & 6 & 4683DKK & 23,25DKK
+    \textbf{Total} & 5 & 4333DKK & 21,50DKK
     \newline
     \newline
    \end{longtabu}
@@ -318,16 +376,31 @@ $$Profession + Material implementation + Medical equipment + other cost = Cost p
 \end{table}
 
 \begin{table}[H]
+\begin{longtabu} to \linewidth{l l l l }
+    \textbf{IT} & \textbf{Unit/ hourly cost} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
+    \midrule
+    IT license  & 3  & 27.000DKK  & 135DKK  \\ \hline
+    IT training & 200DKK & 40.000DKK & 200DKK \\
+    \hline \hline \hline
+    \textbf{Total} &  & 67.000DKK & 335DKK
+    \newline
+    \newline
+   \end{longtabu}
+\caption{IT equipment Intervention group cost}
+\label{tab: II}
+\end{table}
+
+\begin{table}[H]
 \begin{longtabu} to \linewidth{@{}l l l X[j]@{}}
     \textbf{Other Cost} &\textbf{Total Cost} & \textbf{Cost per patient} \\[-1ex]
     \midrule
-    Location   &  (NDA) & (NDA) \\ \hline
+    Location   &  0 & 0 \\ \hline
     Employee education   & 10.000DKK & 50DKK  \\ \hline
-    HjerteKomMidt (database)  & ?DKK &   ?DKK \\ \hline
+    HjerteKomMidt (database)  & 34.346 DKK &   171,75DKK \\ \hline
     Brochure & 0DKK & 0DKK \\ \hline
-    Rehospitalization & ? & ? \\
+    Rehospitalization & 3.429.750 & 17.148,75DKK \\
     \hline \hline \hline
-    \textbf{Total} & ?  & ?DKK
+    \textbf{Total} & 3.474.096DKK  & 17.370,50DKK
     \newline
     \newline
    \end{longtabu}
@@ -335,21 +408,33 @@ $$Profession + Material implementation + Medical equipment + other cost = Cost p
 \label{tab: OI}
 \end{table}
 
+From these self estimated and collected cost from Herning it is possible to calculate the total cost and total cost per patient after the first year of implementation the silver package in Herning municipality. This total cost includes both CAPEX and OPEX cost.
+Total cost for implementation and first operational year:
+$$556.600 + 773.650 + 4333 + 67.000 + 3.474.096 = 4.875.676DKK$$
+
+Total cost per patient for implementation and first operational year:
+
+$$2.783+3868,50+21,50+335+17.370,50= 24.378,50DKK$$
+
 \textbf{Effectiveness}
 
 The QALY baseline in the intervention group is 0.74 and this is the number that will be used in the cost-effectiveness analysis in this paper\cite{costeffect}. 
 
 \subsection{Phase 3}
 
+Phase Three is not....
+
 
 \subsection{calculations}
-
+%What does the new treatment cost per gained effectiveness
 ICER(Cost I – Cost C)/(Effectiveness I – Effectiveness C) (DKK/QALY):
 %HEr skal være en tabel per cost hvor vi går mere i detaljer med priserne
 %Vi skal forklare hvor detaljeret udetaljeret modellen er 
 %Hvor vi har data fra og hvordan de skal læses
 %Lav modeller der visualisere 
 %vis udregningre
+
+$$\frac{24.378,50-39.030}{0.74-0.77}=$$ -0.03
 
 \chapter{Discussion}
 
@@ -376,6 +461,7 @@ Due to the new EU Legislation \textit{The General Data Protection Regulation} (G
 
 \chapter{Perspectivation}
 %Kan også være refleksion
+%Future work what would it cose to develop(note fra sofoklis)
 \subsection{Ongoing project in Netherlands}
 
 A project in Netherlands is looking into the impact of ICT solution for a group of cardiac patients. The patient group has been diagnosed with coronary artery disease (CAD). The result of the trial it not yet submitted as the trial is ongoing. The study is looking into 300 patients whereas 150 are restricted as a control group. The control group will receive normal Cardiac Rehabilitation (CR) treatment and the intervention group will receive home-based telemedicine rehabilitation\cite{CAD}. 

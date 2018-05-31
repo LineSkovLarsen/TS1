@@ -511,6 +511,22 @@
     \field{year}{2018}
   \endentry
 
+  \entry{hjerteKomMidt}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=JMV}{%
+         family={Jessen},
+         familyi={J\bibinitperiod},
+         given={Mads\bibnamedelima Ven{\o}},
+         giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JMV1}
+    \strng{fullhash}{JMV1}
+    \field{labelnamesource}{author}
+    \field{note}{Note: Expenses HjerteKomMidt database}
+    \field{year}{2018}
+  \endentry
+
   \entry{ICT}{article}{}
     \name{author}{5}{}{%
       {{hash=LB}{%

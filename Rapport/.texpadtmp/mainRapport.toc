@@ -52,17 +52,17 @@
 \contentsline {subsection}{\numberline {5.1.1}Phase 1}{28}{subsection.5.1.1}
 \contentsline {subsection}{\numberline {5.1.2}Phase 2}{28}{subsection.5.1.2}
 \contentsline {subsubsection}{Control group}{28}{subsubsection*.20}
-\contentsline {subsubsection}{Intervention group}{32}{subsubsection*.25}
-\contentsline {subsection}{\numberline {5.1.3}Phase 3}{34}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}calculations}{34}{subsection.5.1.4}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{35}{chapter.6}
-\contentsline {subsubsection}{Implementation}{35}{subsubsection*.30}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{37}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{38}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{38}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{39}{chapter.9}
-\contentsline {chapter}{References}{40}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{43}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{44}{appendix.B}
-\contentsline {chapter}{List of Figures}{45}{section*.33}
-\contentsline {chapter}{List of Tables}{46}{section*.34}
+\contentsline {subsubsection}{Intervention group}{32}{subsubsection*.26}
+\contentsline {subsection}{\numberline {5.1.3}Phase 3}{35}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}calculations}{36}{subsection.5.1.4}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{37}{chapter.6}
+\contentsline {subsubsection}{Implementation}{37}{subsubsection*.32}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{39}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{40}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{40}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{41}{chapter.9}
+\contentsline {chapter}{References}{42}{section*.34}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{45}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{46}{appendix.B}
+\contentsline {chapter}{List of Figures}{47}{section*.35}
+\contentsline {chapter}{List of Tables}{48}{section*.36}

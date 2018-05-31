@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -27,67 +27,67 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10977 items from 5000.
+Reallocated field_info (elt_size=4) to 11116 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "udbud" isn't style-file defined
---line 46 of file ../bibliography.bib
+--line 53 of file ../bibliography.bib
 Warning--entry type for "ESC" isn't style-file defined
---line 55 of file ../bibliography.bib
+--line 62 of file ../bibliography.bib
 Warning--entry type for "hjertetal" isn't style-file defined
---line 72 of file ../bibliography.bib
+--line 79 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 122 of file ../bibliography.bib
+--line 129 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 233 of file ../bibliography.bib
+--line 240 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 239 of file ../bibliography.bib
+--line 246 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 275 of file ../bibliography.bib
+--line 282 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 390 of file ../bibliography.bib
+--line 397 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 43 entries,
+You've used 44 entries,
             6256 wiz_defined-function locations,
-            1403 strings with 16015 characters,
-and the built_in function-call counts, 213261 in all, are:
-= -- 14772
-> -- 4137
-< -- 1304
-+ -- 5087
-- -- 1613
-* -- 14459
-:= -- 19820
+            1407 strings with 16117 characters,
+and the built_in function-call counts, 216928 in all, are:
+= -- 15001
+> -- 4208
+< -- 1320
++ -- 5143
+- -- 1634
+* -- 14692
+:= -- 20142
 add.period$ -- 0
-call.type$ -- 43
-change.case$ -- 747
+call.type$ -- 44
+change.case$ -- 753
 chr.to.int$ -- 37
-cite$ -- 84
-duplicate$ -- 22208
-empty$ -- 20425
-format.name$ -- 2299
-if$ -- 45285
+cite$ -- 86
+duplicate$ -- 22584
+empty$ -- 20824
+format.name$ -- 2343
+if$ -- 46082
 int.to.chr$ -- 0
-int.to.str$ -- 91
+int.to.str$ -- 93
 missing$ -- 0
-newline$ -- 1073
-num.names$ -- 1636
-pop$ -- 14369
+newline$ -- 1089
+num.names$ -- 1674
+pop$ -- 14703
 preamble$ -- 1
-purify$ -- 996
+purify$ -- 1005
 quote$ -- 0
-skip$ -- 7311
+skip$ -- 7448
 stack$ -- 0
-substring$ -- 24699
-swap$ -- 5220
-text.length$ -- 888
+substring$ -- 25074
+swap$ -- 5303
+text.length$ -- 905
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1441
+type$ -- 1475
 warning$ -- 0
-while$ -- 2182
+while$ -- 2216
 width$ -- 0
-write$ -- 1031
+write$ -- 1046
 (There were 8 warnings)
