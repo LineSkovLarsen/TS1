@@ -49,20 +49,22 @@
 \contentsline {subsubsection}{Technological skills}{26}{subsubsection*.18}
 \contentsline {subsubsection}{Ethics}{26}{subsubsection*.19}
 \contentsline {section}{\numberline {5.1}Economy and effect analysis}{27}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Phase 1}{28}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Phase 2}{28}{subsection.5.1.2}
-\contentsline {subsubsection}{Control group}{28}{subsubsection*.20}
-\contentsline {subsubsection}{Intervention group}{32}{subsubsection*.26}
-\contentsline {subsection}{\numberline {5.1.3}Phase 3}{35}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}calculations}{36}{subsection.5.1.4}
-\contentsline {chapter}{\chapternumberline {6}Discussion}{37}{chapter.6}
-\contentsline {subsubsection}{Implementation}{37}{subsubsection*.32}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{39}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{40}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{40}{subsection.8.0.1}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{41}{chapter.9}
-\contentsline {chapter}{References}{42}{section*.34}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{45}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{46}{appendix.B}
-\contentsline {chapter}{List of Figures}{47}{section*.35}
-\contentsline {chapter}{List of Tables}{48}{section*.36}
+\contentsline {subsection}{\numberline {5.1.1}Control group}{28}{subsection.5.1.1}
+\contentsline {subsubsection}{Economics}{28}{subsubsection*.20}
+\contentsline {subsubsection}{Effectiveness}{32}{subsubsection*.26}
+\contentsline {subsection}{\numberline {5.1.2}Intervention group}{32}{subsection.5.1.2}
+\contentsline {subsubsection}{The silver package}{33}{subsubsection*.27}
+\contentsline {subsubsection}{Economics}{34}{subsubsection*.28}
+\contentsline {subsubsection}{Effectiveness}{38}{subsubsection*.34}
+\contentsline {subsection}{\numberline {5.1.3}calculations}{38}{subsection.5.1.3}
+\contentsline {chapter}{\chapternumberline {6}Discussion}{39}{chapter.6}
+\contentsline {subsubsection}{Implementation}{39}{subsubsection*.35}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{41}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{42}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{42}{subsection.8.0.1}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{43}{chapter.9}
+\contentsline {chapter}{References}{44}{section*.37}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{47}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{48}{appendix.B}
+\contentsline {chapter}{List of Figures}{49}{section*.38}
+\contentsline {chapter}{List of Tables}{50}{section*.39}
