@@ -60,7 +60,7 @@
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
 \contentsline {subsection}{\numberline {6.0.1}Implementation}{40}{subsection.6.0.1}
 \contentsline {subsubsection}{Legislation}{40}{subsubsection*.36}
-\contentsline {subsubsection}{BIAS}{41}{subsubsection*.37}
+\contentsline {subsubsection}{A critical perspective on the empirical data}{41}{subsubsection*.37}
 \contentsline {chapter}{\chapternumberline {7}Recommendation}{42}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Perspectivation}{43}{chapter.8}
 \contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{43}{subsection.8.0.1}
