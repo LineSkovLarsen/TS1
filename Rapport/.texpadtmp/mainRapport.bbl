@@ -1117,6 +1117,21 @@
     \field{year}{2016}
   \endentry
 
+  \entry{sofoklis}{unpublished}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kyriazakos},
+         familyi={K\bibinitperiod},
+         given={Sofoklis},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KS1}
+    \strng{fullhash}{KS1}
+    \field{labelnamesource}{author}
+    \field{note}{Lector at Aarhus university}
+  \endentry
+
   \entry{ESC}{misc}{}
     \verb{url}
     \verb https://www.escardio.org/Education/ESC-Prevention-of-CVD-Programme/Re
