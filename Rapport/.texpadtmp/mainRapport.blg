@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -27,69 +27,69 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11533 items from 5000.
+Reallocated field_info (elt_size=4) to 11672 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
---line 11 of file ../bibliography.bib
+--line 17 of file ../bibliography.bib
 Warning--entry type for "udbud" isn't style-file defined
---line 58 of file ../bibliography.bib
+--line 65 of file ../bibliography.bib
 Warning--entry type for "ESC" isn't style-file defined
---line 67 of file ../bibliography.bib
+--line 74 of file ../bibliography.bib
 Warning--entry type for "hjertetal" isn't style-file defined
---line 84 of file ../bibliography.bib
+--line 91 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 134 of file ../bibliography.bib
+--line 141 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 245 of file ../bibliography.bib
+--line 252 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 251 of file ../bibliography.bib
+--line 258 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 287 of file ../bibliography.bib
+--line 294 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 402 of file ../bibliography.bib
+--line 409 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 47 entries,
+You've used 48 entries,
             6256 wiz_defined-function locations,
-            1424 strings with 16673 characters,
-and the built_in function-call counts, 236853 in all, are:
-= -- 16408
-> -- 4627
-< -- 1419
-+ -- 5754
-- -- 1831
-* -- 16216
-:= -- 22276
+            1427 strings with 16747 characters,
+and the built_in function-call counts, 240085 in all, are:
+= -- 16592
+> -- 4698
+< -- 1435
++ -- 5808
+- -- 1852
+* -- 16397
+:= -- 22552
 add.period$ -- 0
-call.type$ -- 47
-change.case$ -- 792
+call.type$ -- 48
+change.case$ -- 797
 chr.to.int$ -- 37
-cite$ -- 92
-duplicate$ -- 24756
-empty$ -- 22527
-format.name$ -- 2604
-if$ -- 50106
+cite$ -- 94
+duplicate$ -- 25128
+empty$ -- 22877
+format.name$ -- 2648
+if$ -- 50807
 int.to.chr$ -- 0
-int.to.str$ -- 100
+int.to.str$ -- 102
 missing$ -- 0
-newline$ -- 1197
-num.names$ -- 1779
-pop$ -- 15784
+newline$ -- 1212
+num.names$ -- 1817
+pop$ -- 16121
 preamble$ -- 1
-purify$ -- 1077
+purify$ -- 1085
 quote$ -- 0
-skip$ -- 8014
+skip$ -- 8151
 stack$ -- 0
-substring$ -- 27449
-swap$ -- 5766
-text.length$ -- 992
+substring$ -- 27690
+swap$ -- 5843
+text.length$ -- 1009
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1576
+type$ -- 1610
 warning$ -- 0
-while$ -- 2472
+while$ -- 2506
 width$ -- 0
-write$ -- 1151
+write$ -- 1165
 (There were 9 warnings)
