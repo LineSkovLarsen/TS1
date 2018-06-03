@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  3 JUN 2018 16:47
-=======
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  3 JUN 2018 16:45
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  3 JUN 2018 16:01
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
->>>>>>> 81f97b72a68238b7abbd46f76052189ab0af3ca8
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  3 JUN 2018 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2383,15 +2375,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=659, 778.91pt x 397.485pt>
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=660, 778.91pt x 397.485pt>
 File: Figure/scatter.png Graphic file (type png)
  <use Figure/scatter.png>
-Package pdftex.def Info: Figure/scatter.png used on input line 450.
+Package pdftex.def Info: Figure/scatter.png used on input line 451.
 (pdftex.def)             Requested size: 426.0pt x 217.3862pt.
  [39 <./Figure/scatter.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 461.
+(hyperref)                than one, level fixed on input line 462.
 
 [40
 
@@ -2400,7 +2392,7 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 ]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 498.
+(hyperref)                than one, level fixed on input line 499.
 
 ) [43
 
@@ -2485,33 +2477,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37008 strings out of 492995
-<<<<<<< HEAD
- 670560 string characters out of 6132704
-=======
- 671176 string characters out of 6132705
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
+ 37011 strings out of 492995
+ 671283 string characters out of 6132705
  1331542 words of memory out of 5000000
- 39790 multiletter control sequences out of 15000+600000
+ 39792 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-<<<<<<< HEAD
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (56 pages, 774555 bytes).
-=======
-<<<<<<< HEAD
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (56 pages, 774431 bytes).
+Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (56 pages, 775688 bytes).
 PDF statistics:
- 871 PDF objects out of 1000 (max. 8388607)
- 779 compressed objects within 8 object streams
-=======
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (56 pages, 773850 bytes).
->>>>>>> 81f97b72a68238b7abbd46f76052189ab0af3ca8
-PDF statistics:
- 873 PDF objects out of 1000 (max. 8388607)
- 781 compressed objects within 8 object streams
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
- 204 named destinations out of 1000 (max. 500000)
+ 877 PDF objects out of 1000 (max. 8388607)
+ 785 compressed objects within 8 object streams
+ 205 named destinations out of 1000 (max. 500000)
  421 words of extra memory for PDF output out of 10000 (max. 10000000)
 

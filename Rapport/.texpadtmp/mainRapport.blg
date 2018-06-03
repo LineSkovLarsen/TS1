@@ -27,7 +27,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11672 items from 5000.
+Reallocated field_info (elt_size=4) to 11811 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
@@ -45,100 +45,53 @@ Warning--entry type for "KOL_2" isn't style-file defined
 Warning--entry type for "KOL_1" isn't style-file defined
 --line 258 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
-<<<<<<< HEAD
---line 287 of file ../bibliography.bib
-Warning--entry type for "rehabiliteringDK" isn't style-file defined
---line 396 of file ../bibliography.bib
-=======
 --line 294 of file ../bibliography.bib
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
+Warning--entry type for "rehabiliteringDK" isn't style-file defined
+--line 403 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
 --line 409 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 48 entries,
+You've used 49 entries,
             6256 wiz_defined-function locations,
-<<<<<<< HEAD
-            1427 strings with 16746 characters,
-and the built_in function-call counts, 238191 in all, are:
-= -- 16442
-> -- 4627
-< -- 1427
-+ -- 5755
-- -- 1833
-* -- 16237
-:= -- 22300
-add.period$ -- 0
-call.type$ -- 48
-change.case$ -- 792
-chr.to.int$ -- 37
-cite$ -- 94
-duplicate$ -- 24944
-empty$ -- 22760
-format.name$ -- 2604
-if$ -- 50435
-int.to.chr$ -- 0
-int.to.str$ -- 101
-missing$ -- 0
-newline$ -- 1203
-num.names$ -- 1779
-pop$ -- 16117
-=======
-            1427 strings with 16747 characters,
-and the built_in function-call counts, 240085 in all, are:
-= -- 16592
+            1430 strings with 16820 characters,
+and the built_in function-call counts, 241423 in all, are:
+= -- 16626
 > -- 4698
-< -- 1435
-+ -- 5808
-- -- 1852
-* -- 16397
-:= -- 22552
+< -- 1443
++ -- 5809
+- -- 1854
+* -- 16418
+:= -- 22576
 add.period$ -- 0
-call.type$ -- 48
+call.type$ -- 49
 change.case$ -- 797
 chr.to.int$ -- 37
-cite$ -- 94
-duplicate$ -- 25128
-empty$ -- 22877
+cite$ -- 96
+duplicate$ -- 25316
+empty$ -- 23110
 format.name$ -- 2648
-if$ -- 50807
+if$ -- 51136
 int.to.chr$ -- 0
-int.to.str$ -- 102
+int.to.str$ -- 103
 missing$ -- 0
-newline$ -- 1212
+newline$ -- 1218
 num.names$ -- 1817
-pop$ -- 16121
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
+pop$ -- 16454
 preamble$ -- 1
 purify$ -- 1085
 quote$ -- 0
-<<<<<<< HEAD
-skip$ -- 8078
+skip$ -- 8215
 stack$ -- 0
-substring$ -- 27452
-swap$ -- 5806
-text.length$ -- 1000
+substring$ -- 27693
+swap$ -- 5883
+text.length$ -- 1017
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1609
+type$ -- 1643
 warning$ -- 0
-while$ -- 2474
+while$ -- 2508
 width$ -- 0
-write$ -- 1156
+write$ -- 1170
 (There were 10 warnings)
-=======
-skip$ -- 8151
-stack$ -- 0
-substring$ -- 27690
-swap$ -- 5843
-text.length$ -- 1009
-text.prefix$ -- 2
-top$ -- 1
-type$ -- 1610
-warning$ -- 0
-while$ -- 2506
-width$ -- 0
-write$ -- 1165
-(There were 9 warnings)
->>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
