@@ -35,7 +35,7 @@
 \contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{17}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{18}{subsection.4.2.1}
 \contentsline {section}{\numberline {4.3}Economy and effect}{19}{section.4.3}
-\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{20}{section.4.4}
+\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{21}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis}{23}{chapter.5}
 \contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{23}{subsection.5.0.1}
 \contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{23}{subsection.5.0.2}
