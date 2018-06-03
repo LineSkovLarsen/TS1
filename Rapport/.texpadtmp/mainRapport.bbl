@@ -548,26 +548,10 @@
     \field{year}{2017}
   \endentry
 
-  \entry{rehab}{thesis}{}
-    \name{author}{1}{}{%
-      {{hash=LV}{%
-         family={Lynggaard},
-         familyi={L\bibinitperiod},
-         given={Vibeke},
-         giveni={V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LV1}
-    \strng{fullhash}{LV1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{LC-REHAB: Effect of the patient education. Learning and
-  Coping Strategies in cardiac REHABilitation - a randomised controlled trial}
-    \list{institution}{1}{%
-      {Aarhus University}%
-    }
-    \field{type}{mathesis}
-    \field{year}{2018}
+  \entry{rehabiliteringDK}{misc}{}
+    \verb{url}
+    \verb http://nbv.cardio.dk/hjerterehabilitering
+    \endverb
   \endentry
 
   \entry{hjerteKomMidt}{unpublished}{}
@@ -1153,6 +1137,28 @@
     \verb https://www.escardio.org/Education/ESC-Prevention-of-CVD-Programme/Re
     \verb habilitation
     \endverb
+  \endentry
+
+  \entry{rehab}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=LV}{%
+         family={Lynggaard},
+         familyi={L\bibinitperiod},
+         given={Vibeke},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LV1}
+    \strng{fullhash}{LV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{LC-REHAB: Effect of the patient education. Learning and
+  Coping Strategies in cardiac REHABilitation - a randomised controlled trial}
+    \list{institution}{1}{%
+      {Aarhus University}%
+    }
+    \field{type}{mathesis}
+    \field{year}{2018}
   \endentry
 
   \entry{CAD}{article}{}

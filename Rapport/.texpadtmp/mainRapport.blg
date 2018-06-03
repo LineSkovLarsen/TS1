@@ -45,7 +45,13 @@ Warning--entry type for "KOL_2" isn't style-file defined
 Warning--entry type for "KOL_1" isn't style-file defined
 --line 258 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
+<<<<<<< HEAD
+--line 287 of file ../bibliography.bib
+Warning--entry type for "rehabiliteringDK" isn't style-file defined
+--line 396 of file ../bibliography.bib
+=======
 --line 294 of file ../bibliography.bib
+>>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
 Warning--entry type for "Hjerteforening" isn't style-file defined
 --line 409 of file ../bibliography.bib
 Biblatex version: 3.3
@@ -53,6 +59,32 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 48 entries,
             6256 wiz_defined-function locations,
+<<<<<<< HEAD
+            1427 strings with 16746 characters,
+and the built_in function-call counts, 238191 in all, are:
+= -- 16442
+> -- 4627
+< -- 1427
++ -- 5755
+- -- 1833
+* -- 16237
+:= -- 22300
+add.period$ -- 0
+call.type$ -- 48
+change.case$ -- 792
+chr.to.int$ -- 37
+cite$ -- 94
+duplicate$ -- 24944
+empty$ -- 22760
+format.name$ -- 2604
+if$ -- 50435
+int.to.chr$ -- 0
+int.to.str$ -- 101
+missing$ -- 0
+newline$ -- 1203
+num.names$ -- 1779
+pop$ -- 16117
+=======
             1427 strings with 16747 characters,
 and the built_in function-call counts, 240085 in all, are:
 = -- 16592
@@ -77,9 +109,25 @@ missing$ -- 0
 newline$ -- 1212
 num.names$ -- 1817
 pop$ -- 16121
+>>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
 preamble$ -- 1
 purify$ -- 1085
 quote$ -- 0
+<<<<<<< HEAD
+skip$ -- 8078
+stack$ -- 0
+substring$ -- 27452
+swap$ -- 5806
+text.length$ -- 1000
+text.prefix$ -- 2
+top$ -- 1
+type$ -- 1609
+warning$ -- 0
+while$ -- 2474
+width$ -- 0
+write$ -- 1156
+(There were 10 warnings)
+=======
 skip$ -- 8151
 stack$ -- 0
 substring$ -- 27690
@@ -93,3 +141,4 @@ while$ -- 2506
 width$ -- 0
 write$ -- 1165
 (There were 9 warnings)
+>>>>>>> 896f053fab516c05a00abef81df2a7eec15ba66c
