@@ -58,13 +58,16 @@
 \contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.34}
 \contentsline {subsection}{\numberline {5.1.3}Results}{39}{subsection.5.1.3}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
-\contentsline {subsubsection}{Implementation}{40}{subsubsection*.36}
+\contentsline {subsection}{\numberline {6.0.1}Implementation}{40}{subsection.6.0.1}
+\contentsline {subsubsection}{Legislation}{40}{subsubsection*.36}
+\contentsline {subsubsection}{BIAS}{41}{subsubsection*.37}
 \contentsline {chapter}{\chapternumberline {7}Recommendation}{42}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Perspectivation}{43}{chapter.8}
 \contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{43}{subsection.8.0.1}
+\contentsline {subsection}{\numberline {8.0.2}Future work}{43}{subsection.8.0.2}
 \contentsline {chapter}{\chapternumberline {9}Conclusion}{44}{chapter.9}
-\contentsline {chapter}{References}{45}{section*.38}
+\contentsline {chapter}{References}{45}{section*.39}
 \contentsline {appendix}{\chapternumberline {A}Appendix}{48}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}aap1}{49}{appendix.B}
-\contentsline {chapter}{List of Figures}{50}{section*.39}
-\contentsline {chapter}{List of Tables}{51}{section*.40}
+\contentsline {chapter}{List of Figures}{50}{section*.40}
+\contentsline {chapter}{List of Tables}{51}{section*.41}
