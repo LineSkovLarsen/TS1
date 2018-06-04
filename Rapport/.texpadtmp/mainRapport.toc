@@ -32,42 +32,42 @@
 \contentsline {chapter}{\chapternumberline {4}Empirical data}{15}{chapter.4}
 \contentsline {section}{\numberline {4.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{15}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Outcome of the interview}{15}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{17}{section.4.2}
+\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{18}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{18}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Economy and effect}{19}{section.4.3}
+\contentsline {section}{\numberline {4.3}Economy and effect}{20}{section.4.3}
 \contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{21}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis}{23}{chapter.5}
-\contentsline {subsection}{\numberline {5.0.1}Impact of ICT in homecare}{23}{subsection.5.0.1}
-\contentsline {subsection}{\numberline {5.0.2}Implementation of telemedicine in Denmark}{23}{subsection.5.0.2}
-\contentsline {subsubsection}{Rehabilitation offered in Herning Municipality}{24}{subsubsection*.14}
-\contentsline {subsubsection}{Outcome}{24}{subsubsection*.15}
-\contentsline {subsection}{\numberline {5.0.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{25}{subsection.5.0.3}
-\contentsline {subsection}{\numberline {5.0.4}Comparison with telemedicine solution for COPD patients}{25}{subsection.5.0.4}
-\contentsline {subsection}{\numberline {5.0.5}Challenges within telemedicine rehabilitation}{26}{subsection.5.0.5}
-\contentsline {subsubsection}{Personal aspect}{26}{subsubsection*.16}
-\contentsline {subsubsection}{Funding}{26}{subsubsection*.17}
-\contentsline {subsubsection}{Technological skills}{27}{subsubsection*.18}
-\contentsline {subsubsection}{Ethics}{27}{subsubsection*.19}
-\contentsline {section}{\numberline {5.1}Economy and effect analysis}{28}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Control group}{29}{subsection.5.1.1}
-\contentsline {subsubsection}{Economics}{29}{subsubsection*.20}
-\contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.26}
-\contentsline {subsection}{\numberline {5.1.2}Intervention group}{34}{subsection.5.1.2}
-\contentsline {subsubsection}{The silver package}{34}{subsubsection*.27}
-\contentsline {subsubsection}{Economics}{35}{subsubsection*.28}
-\contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.34}
-\contentsline {subsection}{\numberline {5.1.3}Results}{39}{subsection.5.1.3}
+\contentsline {section}{\numberline {5.1}Impact of ICT in homecare}{23}{section.5.1}
+\contentsline {section}{\numberline {5.2}Implementation of telemedicine in Denmark}{23}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Rehabilitation offered in Herning Municipality}{24}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Outcome}{24}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{25}{section.5.3}
+\contentsline {section}{\numberline {5.4}Comparison with telemedicine solution for COPD patients}{25}{section.5.4}
+\contentsline {section}{\numberline {5.5}Challenges within telemedicine rehabilitation}{26}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Personal aspect}{26}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Funding}{27}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Technological skills}{27}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Ethics}{27}{subsection.5.5.4}
+\contentsline {section}{\numberline {5.6}Economy and effect analysis}{28}{section.5.6}
+\contentsline {subsection}{\numberline {5.6.1}Control group}{29}{subsection.5.6.1}
+\contentsline {subsubsection}{Economics}{29}{subsubsection*.14}
+\contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.20}
+\contentsline {subsection}{\numberline {5.6.2}Intervention group}{34}{subsection.5.6.2}
+\contentsline {subsubsection}{The silver package}{34}{subsubsection*.21}
+\contentsline {subsubsection}{Economics}{35}{subsubsection*.22}
+\contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.28}
+\contentsline {subsection}{\numberline {5.6.3}Results}{39}{subsection.5.6.3}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
-\contentsline {subsection}{\numberline {6.0.1}Implementation}{40}{subsection.6.0.1}
-\contentsline {subsubsection}{Legislation}{40}{subsubsection*.36}
-\contentsline {subsubsection}{A critical perspective on the empirical data}{41}{subsubsection*.37}
+\contentsline {section}{\numberline {6.1}Implementation}{40}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Legislation}{40}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{41}{section.6.2}
 \contentsline {chapter}{\chapternumberline {7}Recommendation}{42}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Perspectivation}{43}{chapter.8}
 \contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{43}{subsection.8.0.1}
 \contentsline {subsection}{\numberline {8.0.2}Future work}{43}{subsection.8.0.2}
 \contentsline {chapter}{\chapternumberline {9}Conclusion}{44}{chapter.9}
-\contentsline {chapter}{References}{45}{section*.39}
+\contentsline {chapter}{References}{45}{section*.31}
 \contentsline {appendix}{\chapternumberline {A}Appendix}{48}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}aap1}{49}{appendix.B}
-\contentsline {chapter}{List of Figures}{50}{section*.40}
-\contentsline {chapter}{List of Tables}{51}{section*.41}
+\contentsline {chapter}{List of Figures}{50}{section*.32}
+\contentsline {chapter}{List of Tables}{51}{section*.33}
