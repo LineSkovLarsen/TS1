@@ -61,13 +61,22 @@
 \contentsline {section}{\numberline {6.1}Implementation}{40}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Legislation}{40}{subsection.6.1.1}
 \contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{41}{section.6.2}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{42}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{43}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{43}{subsection.8.0.1}
-\contentsline {subsection}{\numberline {8.0.2}Future work}{43}{subsection.8.0.2}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{45}{chapter.9}
-\contentsline {chapter}{References}{46}{section*.31}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{50}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{51}{appendix.B}
-\contentsline {chapter}{List of Figures}{52}{section*.32}
-\contentsline {chapter}{List of Tables}{53}{section*.33}
+\contentsline {section}{\numberline {6.3}Cost-effect analysis}{41}{section.6.3}
+\contentsline {subsubsection}{The choice of package for comparison}{42}{subsubsection*.30}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{44}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{45}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{45}{subsection.8.0.1}
+\contentsline {subsection}{\numberline {8.0.2}Future work}{45}{subsection.8.0.2}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{47}{chapter.9}
+\contentsline {chapter}{References}{48}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix list}{52}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Interview sp\IeC {\o }rgsm\IeC {\r a}l}{53}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Transkribering fokus gruppe}{54}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Fiels notes}{55}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transkribering vibeke}{56}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}m\IeC {\o }de hanne og eva}{57}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}\IeC {\o }konomi}{58}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD project}{59}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{60}{appendix.I}
+\contentsline {chapter}{List of Figures}{61}{section*.34}
+\contentsline {chapter}{List of Tables}{62}{section*.35}

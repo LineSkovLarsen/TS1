@@ -31,67 +31,65 @@ Reallocated field_info (elt_size=4) to 12089 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
---line 34 of file ../bibliography.bib
-Warning--entry type for "udbud" isn't style-file defined
---line 82 of file ../bibliography.bib
-Warning--entry type for "ESC" isn't style-file defined
---line 91 of file ../bibliography.bib
-Warning--entry type for "hjertetal" isn't style-file defined
---line 108 of file ../bibliography.bib
+--line 35 of file ../bibliography.bib
+I was expecting a `,' or a `}'---line 117 of file ../bibliography.bib
+ :  
+ :  urldate = {30/05/2018}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--entry type for "herning" isn't style-file defined
---line 158 of file ../bibliography.bib
+--line 138 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 269 of file ../bibliography.bib
+--line 246 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 275 of file ../bibliography.bib
-Warning--entry type for "ministryofhealth" isn't style-file defined
---line 311 of file ../bibliography.bib
-Warning--entry type for "rehabiliteringDK" isn't style-file defined
---line 420 of file ../bibliography.bib
-Warning--entry type for "Hjerteforening" isn't style-file defined
---line 426 of file ../bibliography.bib
+--line 252 of file ../bibliography.bib
+I was expecting a `,' or a `}'---line 402 of file ../bibliography.bib
+ :  
+ :  Note = {[Last checked: 20/03/2018]}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 51 entries,
             6256 wiz_defined-function locations,
-            1439 strings with 17065 characters,
-and the built_in function-call counts, 247213 in all, are:
-= -- 16912
-> -- 4840
-< -- 1475
-+ -- 5877
-- -- 1904
-* -- 16740
-:= -- 23014
+            1455 strings with 17566 characters,
+and the built_in function-call counts, 264619 in all, are:
+= -- 18257
+> -- 5336
+< -- 1568
++ -- 6274
+- -- 2037
+* -- 18270
+:= -- 25083
 add.period$ -- 0
 call.type$ -- 51
-change.case$ -- 807
-chr.to.int$ -- 37
+change.case$ -- 844
+chr.to.int$ -- 90
 cite$ -- 100
-duplicate$ -- 25964
-empty$ -- 23776
-format.name$ -- 2734
-if$ -- 52422
+duplicate$ -- 27532
+empty$ -- 25144
+format.name$ -- 2958
+if$ -- 55817
 int.to.chr$ -- 0
-int.to.str$ -- 107
+int.to.str$ -- 112
 missing$ -- 0
-newline$ -- 1252
-num.names$ -- 1893
-pop$ -- 17116
+newline$ -- 1341
+num.names$ -- 2083
+pop$ -- 17164
 preamble$ -- 1
-purify$ -- 1101
+purify$ -- 1153
 quote$ -- 0
-skip$ -- 8487
+skip$ -- 8978
 stack$ -- 0
-substring$ -- 28041
-swap$ -- 6037
-text.length$ -- 1051
+substring$ -- 30920
+swap$ -- 6518
+text.length$ -- 1144
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1711
+type$ -- 1717
 warning$ -- 0
-while$ -- 2558
+while$ -- 2833
 width$ -- 0
-write$ -- 1202
-(There were 10 warnings)
+write$ -- 1291
+(There were 2 error messages)

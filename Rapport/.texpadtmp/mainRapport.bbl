@@ -136,9 +136,25 @@
   \endentry
 
   \entry{Hjerteforening}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=FH}{%
+         family={Foreningen},
+         familyi={F\bibinitperiod},
+         given={Hjerte},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{FH1}
+    \strng{fullhash}{FH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 28/02/2018]}
+    \field{title}{Fakta om hjerte-kar-sygdom i Danmark}
     \verb{url}
     \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/noegletal/
     \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
   \entry{pico}{misc}{}
@@ -486,11 +502,27 @@
   \endentry
 
   \entry{ministryofhealth}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=oaemS}{%
+         prefix={og\bibnamedelima {\ae}ldre},
+         prefixi={o\bibinitperiod\bibinitdelim {\ae}\bibinitperiod},
+         family={ministeriet},
+         familyi={m\bibinitperiod},
+         given={Sundheds},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{mSoae1}
+    \strng{fullhash}{mSoae1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 21/03/2018]}
+    \field{title}{Ministeriet historie}
     \verb{url}
     \verb http://www.sum.dk/Om-ministeriet/Ministeriets-historie.aspx
     \endverb
     \field{year}{2016}
-    \warn{\item Invalid format of field 'month'}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
   \entry{retningsrehab}{manual}{}
@@ -549,9 +581,20 @@
   \endentry
 
   \entry{rehabiliteringDK}{misc}{}
-    \verb{url}
-    \verb http://nbv.cardio.dk/hjerterehabilitering
-    \endverb
+    \name{author}{1}{}{%
+      {{hash=SDC}{%
+         family={Selskab},
+         familyi={S\bibinitperiod},
+         given={Dansk\bibnamedelima Cardiologisk},
+         giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SDC1}
+    \strng{fullhash}{SDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Hjerterehabilitering}
+    \field{year}{2018}
   \endentry
 
   \entry{hjerteKomMidt}{unpublished}{}
@@ -1025,10 +1068,12 @@
     \strng{fullhash}{U1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{title}
-    \field{title}{At handle med det offentlige}
+    \field{note}{[Last checked: 15/05/2018]}
+    \field{title}{Kend reglerne for udbud}
     \verb{url}
     \verb http://tilbud.udbudsportalen.dk/artikler/kend-reglerne-for-udbud/
     \endverb
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
   \entry{etik}{article}{}
@@ -1126,6 +1171,18 @@
   \endentry
 
   \entry{hjertetal}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hjerteforeningen},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 20/04/2018]}
+    \field{title}{Alt om dit hjerte}
     \verb{url}
     \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/
     \endverb
@@ -1133,10 +1190,28 @@
   \endentry
 
   \entry{ESC}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=oCES}{%
+         prefix={of},
+         prefixi={o\bibinitperiod},
+         family={Cardiology},
+         familyi={C\bibinitperiod},
+         given={European\bibnamedelima Society},
+         giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CESo1}
+    \strng{fullhash}{CESo1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 01/05/2018]}
+    \field{title}{Cardiac Rehabilitation and exercise training recommendations}
     \verb{url}
     \verb https://www.escardio.org/Education/ESC-Prevention-of-CVD-Programme/Re
     \verb habilitation
     \endverb
+    \field{year}{2017}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
   \entry{rehab}{thesis}{}
@@ -1245,38 +1320,54 @@
     \field{year}{2015}
   \endentry
 
-  \entry{FUT}{online}{}
+  \entry{FUT}{misc}{}
     \name{author}{1}{}{%
-      {{hash=D}{%
-         family={Digitaliseringsstyrrelsen},
-         familyi={D\bibinitperiod},
+      {{hash=sD}{%
+         family={styrrelsen},
+         familyi={s\bibinitperiod},
+         given={Digitaliserings},
+         giveni={D\bibinitperiod},
       }}%
     }
-    \strng{namehash}{D1}
-    \strng{fullhash}{D1}
+    \strng{namehash}{sD1}
+    \strng{fullhash}{sD1}
     \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
     \field{note}{[Last checked: 30/05/2018]}
+    \field{title}{FAQ om F{\ae}lles Udbud af Telemedicin (FUT)}
     \verb{url}
     \verb https://digst.dk/media/16304/faq-om-faelles-udbud-af-telemedicin-feb-
     \verb 2018.pdf
     \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 
-  \entry{FUT2}{online}{}
+  \entry{FUT2}{misc}{}
     \name{author}{1}{}{%
-      {{hash=K}{%
-         family={Kit},
-         familyi={K\bibinitperiod},
+      {{hash=aKicF}{%
+         prefix={af\bibnamedelima Kommunale\bibnamedelima it},
+         prefixi={a\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim
+  i\bibinitperiod},
+         family={chefer},
+         familyi={c\bibinitperiod},
+         given={Foreningen},
+         giveni={F\bibinitperiod},
       }}%
     }
-    \strng{namehash}{K1}
-    \strng{fullhash}{K1}
+    \strng{namehash}{cFaKi1}
+    \strng{fullhash}{cFaKi1}
     \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
     \field{note}{[Last checked: 30/05/2018]}
+    \field{title}{F{\ae}lles Udbud af telemedicin (FUT) f{\aa}r ni
+  leverand{\oe}rer}
     \verb{url}
     \verb https://www.itchefer.dk/kit-magasinet/artikel/faelles-udbud-af-teleme
     \verb dicin-fut-faar-ni-leverandoerer
     \endverb
+    \field{year}{2018}
+    \warn{\item Invalid format of field 'urldate'}
   \endentry
 \endsortlist
 \endinput
