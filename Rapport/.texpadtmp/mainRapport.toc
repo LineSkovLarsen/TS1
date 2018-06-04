@@ -65,9 +65,9 @@
 \contentsline {chapter}{\chapternumberline {8}Perspectivation}{43}{chapter.8}
 \contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{43}{subsection.8.0.1}
 \contentsline {subsection}{\numberline {8.0.2}Future work}{43}{subsection.8.0.2}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{44}{chapter.9}
-\contentsline {chapter}{References}{45}{section*.31}
-\contentsline {appendix}{\chapternumberline {A}Appendix}{48}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}aap1}{49}{appendix.B}
-\contentsline {chapter}{List of Figures}{50}{section*.32}
-\contentsline {chapter}{List of Tables}{51}{section*.33}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{45}{chapter.9}
+\contentsline {chapter}{References}{46}{section*.31}
+\contentsline {appendix}{\chapternumberline {A}Appendix}{50}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}aap1}{51}{appendix.B}
+\contentsline {chapter}{List of Figures}{52}{section*.32}
+\contentsline {chapter}{List of Tables}{53}{section*.33}

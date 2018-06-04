@@ -27,71 +27,71 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 11811 items from 5000.
+Reallocated field_info (elt_size=4) to 12089 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
---line 17 of file ../bibliography.bib
+--line 34 of file ../bibliography.bib
 Warning--entry type for "udbud" isn't style-file defined
---line 65 of file ../bibliography.bib
+--line 82 of file ../bibliography.bib
 Warning--entry type for "ESC" isn't style-file defined
---line 74 of file ../bibliography.bib
-Warning--entry type for "hjertetal" isn't style-file defined
 --line 91 of file ../bibliography.bib
+Warning--entry type for "hjertetal" isn't style-file defined
+--line 108 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 141 of file ../bibliography.bib
+--line 158 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 252 of file ../bibliography.bib
+--line 269 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 258 of file ../bibliography.bib
+--line 275 of file ../bibliography.bib
 Warning--entry type for "ministryofhealth" isn't style-file defined
---line 294 of file ../bibliography.bib
+--line 311 of file ../bibliography.bib
 Warning--entry type for "rehabiliteringDK" isn't style-file defined
---line 403 of file ../bibliography.bib
+--line 420 of file ../bibliography.bib
 Warning--entry type for "Hjerteforening" isn't style-file defined
---line 409 of file ../bibliography.bib
+--line 426 of file ../bibliography.bib
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 49 entries,
+You've used 51 entries,
             6256 wiz_defined-function locations,
-            1430 strings with 16820 characters,
-and the built_in function-call counts, 241423 in all, are:
-= -- 16626
-> -- 4698
-< -- 1443
-+ -- 5809
-- -- 1854
-* -- 16418
-:= -- 22576
+            1439 strings with 17065 characters,
+and the built_in function-call counts, 247213 in all, are:
+= -- 16912
+> -- 4840
+< -- 1475
++ -- 5877
+- -- 1904
+* -- 16740
+:= -- 23014
 add.period$ -- 0
-call.type$ -- 49
-change.case$ -- 797
+call.type$ -- 51
+change.case$ -- 807
 chr.to.int$ -- 37
-cite$ -- 96
-duplicate$ -- 25316
-empty$ -- 23110
-format.name$ -- 2648
-if$ -- 51136
+cite$ -- 100
+duplicate$ -- 25964
+empty$ -- 23776
+format.name$ -- 2734
+if$ -- 52422
 int.to.chr$ -- 0
-int.to.str$ -- 103
+int.to.str$ -- 107
 missing$ -- 0
-newline$ -- 1218
-num.names$ -- 1817
-pop$ -- 16454
+newline$ -- 1252
+num.names$ -- 1893
+pop$ -- 17116
 preamble$ -- 1
-purify$ -- 1085
+purify$ -- 1101
 quote$ -- 0
-skip$ -- 8215
+skip$ -- 8487
 stack$ -- 0
-substring$ -- 27693
-swap$ -- 5883
-text.length$ -- 1017
+substring$ -- 28041
+swap$ -- 6037
+text.length$ -- 1051
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1643
+type$ -- 1711
 warning$ -- 0
-while$ -- 2508
+while$ -- 2558
 width$ -- 0
-write$ -- 1170
+write$ -- 1202
 (There were 10 warnings)

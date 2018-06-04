@@ -1244,5 +1244,39 @@
     \field{journaltitle}{European Patients Forum}
     \field{year}{2015}
   \endentry
+
+  \entry{FUT}{online}{}
+    \name{author}{1}{}{%
+      {{hash=D}{%
+         family={Digitaliseringsstyrrelsen},
+         familyi={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{D1}
+    \strng{fullhash}{D1}
+    \field{labelnamesource}{author}
+    \field{note}{[Last checked: 30/05/2018]}
+    \verb{url}
+    \verb https://digst.dk/media/16304/faq-om-faelles-udbud-af-telemedicin-feb-
+    \verb 2018.pdf
+    \endverb
+  \endentry
+
+  \entry{FUT2}{online}{}
+    \name{author}{1}{}{%
+      {{hash=K}{%
+         family={Kit},
+         familyi={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{K1}
+    \strng{fullhash}{K1}
+    \field{labelnamesource}{author}
+    \field{note}{[Last checked: 30/05/2018]}
+    \verb{url}
+    \verb https://www.itchefer.dk/kit-magasinet/artikel/faelles-udbud-af-teleme
+    \verb dicin-fut-faar-ni-leverandoerer
+    \endverb
+  \endentry
 \endsortlist
 \endinput
