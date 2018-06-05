@@ -77,6 +77,6 @@
 \contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{58}{appendix.F}
 \contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{59}{appendix.G}
 \contentsline {appendix}{\chapternumberline {H}COPD Project}{63}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{64}{appendix.I}
-\contentsline {chapter}{List of Figures}{65}{section*.37}
-\contentsline {chapter}{List of Tables}{66}{section*.38}
+\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{65}{appendix.I}
+\contentsline {chapter}{List of Figures}{66}{section*.38}
+\contentsline {chapter}{List of Tables}{67}{section*.39}
