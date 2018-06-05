@@ -56,25 +56,27 @@
 \contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.27}
 \contentsline {subsection}{\numberline {5.6.3}Results}{39}{subsection.5.6.3}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
-\contentsline {section}{\numberline {6.1}Implementation}{40}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Legislation}{40}{subsection.6.1.1}
-\contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{41}{section.6.2}
+\contentsline {section}{\numberline {6.1}Choice of methodology}{40}{section.6.1}
+\contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{40}{section.6.2}
 \contentsline {section}{\numberline {6.3}The digitally native}{41}{section.6.3}
-\contentsline {section}{\numberline {6.4}Cost-effect analysis}{42}{section.6.4}
-\contentsline {subsubsection}{The choice of package for comparison}{44}{subsubsection*.30}
-\contentsline {chapter}{\chapternumberline {7}Perspectivation}{45}{chapter.7}
-\contentsline {section}{\numberline {7.1}Ongoing project in Netherlands}{45}{section.7.1}
-\contentsline {section}{\numberline {7.2}Future work}{45}{section.7.2}
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{47}{chapter.8}
-\contentsline {chapter}{References}{48}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix list}{52}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Interview questions}{53}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{54}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{55}{appendix.D}
-\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{56}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{57}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{58}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD Project}{62}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{63}{appendix.I}
-\contentsline {chapter}{List of Figures}{64}{section*.37}
-\contentsline {chapter}{List of Tables}{65}{section*.38}
+\contentsline {section}{\numberline {6.4}A rehabilitation solution with respect to the patients needs}{42}{section.6.4}
+\contentsline {section}{\numberline {6.5}Implementation}{42}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Legislation}{42}{subsection.6.5.1}
+\contentsline {section}{\numberline {6.6}Cost-effect analysis}{43}{section.6.6}
+\contentsline {subsubsection}{The choice of package for comparison}{45}{subsubsection*.30}
+\contentsline {chapter}{\chapternumberline {7}Perspectivation}{46}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ongoing project in Netherlands}{46}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future work}{46}{section.7.2}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{48}{chapter.8}
+\contentsline {chapter}{References}{49}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix list}{53}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Interview questions}{54}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{55}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{56}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{57}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{58}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{59}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD Project}{63}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{64}{appendix.I}
+\contentsline {chapter}{List of Figures}{65}{section*.37}
+\contentsline {chapter}{List of Tables}{66}{section*.38}

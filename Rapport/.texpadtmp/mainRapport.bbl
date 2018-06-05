@@ -1162,6 +1162,26 @@
     \field{year}{1998}
   \endentry
 
+  \entry{digital}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=mU}{%
+         family={ministeriet},
+         familyi={m\bibinitperiod},
+         given={Undervisnings},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{mU1}
+    \strng{fullhash}{mU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 06/06/2018]}
+    \field{title}{Generation Z og de digitalt ind{\oe}dte}
+    \verb{url}
+    \verb https://www.emu.dk/modul/generation-z-og-de-digitalt-indf{\oe}dte
+    \endverb
+  \endentry
+
   \entry{ESC}{misc}{}
     \name{author}{1}{}{%
       {{hash=oCES}{%
@@ -1291,26 +1311,6 @@
   personal data: what does it mean for patients?}
     \field{journaltitle}{European Patients Forum}
     \field{year}{2015}
-  \endentry
-
-  \entry{digital}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=mU}{%
-         family={ministeriet},
-         familyi={m\bibinitperiod},
-         given={Undervisnings},
-         giveni={U\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{mU1}
-    \strng{fullhash}{mU1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{note}{[Last checked: 06/06/2018]}
-    \field{title}{Generation Z og de digitalt ind{\oe}dte}
-    \verb{url}
-    \verb https://www.emu.dk/modul/generation-z-og-de-digitalt-indf{\oe}dte
-    \endverb
   \endentry
 
   \entry{NationalBoardofHealth}{manual}{}
