@@ -65,7 +65,7 @@
 \contentsline {section}{\numberline {6.6}Cost-effect analysis}{43}{section.6.6}
 \contentsline {subsubsection}{The choice of package for comparison}{46}{subsubsection*.30}
 \contentsline {chapter}{\chapternumberline {7}Perspectivation}{47}{chapter.7}
-\contentsline {section}{\numberline {7.1}Ongoing project in Netherlands}{47}{section.7.1}
+\contentsline {section}{\numberline {7.1}Ongoing project in the Netherlands}{47}{section.7.1}
 \contentsline {section}{\numberline {7.2}Future work}{47}{section.7.2}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{49}{chapter.8}
 \contentsline {chapter}{References}{50}{section*.32}
