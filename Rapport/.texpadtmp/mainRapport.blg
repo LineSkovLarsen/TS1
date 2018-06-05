@@ -27,7 +27,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12089 items from 5000.
+Reallocated field_info (elt_size=4) to 12228 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
@@ -51,45 +51,45 @@ I'm skipping whatever remains of this entry
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 51 entries,
+You've used 52 entries,
             6256 wiz_defined-function locations,
-            1455 strings with 17566 characters,
-and the built_in function-call counts, 264619 in all, are:
-= -- 18257
-> -- 5336
-< -- 1568
-+ -- 6274
+            1459 strings with 17686 characters,
+and the built_in function-call counts, 266909 in all, are:
+= -- 18389
+> -- 5361
+< -- 1600
++ -- 6299
 - -- 2037
-* -- 18270
-:= -- 25083
+* -- 18318
+:= -- 25136
 add.period$ -- 0
-call.type$ -- 51
-change.case$ -- 844
+call.type$ -- 52
+change.case$ -- 872
 chr.to.int$ -- 90
-cite$ -- 100
-duplicate$ -- 27532
-empty$ -- 25144
-format.name$ -- 2958
-if$ -- 55817
+cite$ -- 102
+duplicate$ -- 27813
+empty$ -- 25442
+format.name$ -- 2959
+if$ -- 56389
 int.to.chr$ -- 0
-int.to.str$ -- 112
+int.to.str$ -- 114
 missing$ -- 0
-newline$ -- 1341
-num.names$ -- 2083
-pop$ -- 17164
+newline$ -- 1350
+num.names$ -- 2110
+pop$ -- 17485
 preamble$ -- 1
-purify$ -- 1153
+purify$ -- 1181
 quote$ -- 0
-skip$ -- 8978
+skip$ -- 9118
 stack$ -- 0
-substring$ -- 30920
-swap$ -- 6518
-text.length$ -- 1144
+substring$ -- 31050
+swap$ -- 6601
+text.length$ -- 1152
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1717
+type$ -- 1751
 warning$ -- 0
-while$ -- 2833
+while$ -- 2835
 width$ -- 0
-write$ -- 1291
+write$ -- 1299
 (There were 2 error messages)

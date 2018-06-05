@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  5 JUN 2018 08:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  5 JUN 2018 09:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2211,7 +2211,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=269, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=265, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2260,7 +2260,7 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 ] [2]) [3]
 \openout2 = `RAfiler/Method.aux'.
 
- (./RAfiler/Method.tex <Figure/researchdesign.png, id=407, 682.55pt x 225.84375pt>
+ (./RAfiler/Method.tex <Figure/researchdesign.png, id=402, 682.55pt x 225.84375pt>
 File: Figure/researchdesign.png Graphic file (type png)
  <use Figure/researchdesign.png>
 Package pdftex.def Info: Figure/researchdesign.png used on input line 9.
@@ -2283,61 +2283,61 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--115
 \openout2 = `RAfiler/Theory.aux'.
 
  (./RAfiler/Theory.tex
-Underfull \hbox (badness 1383) in paragraph at lines 8--9
+Underfull \hbox (badness 1383) in paragraph at lines 10--11
 \T1/cmr/m/n/10.95 Furthermore, it provides partly funding for dentist, physiotherapist, chiropractor,
  []
 
-<Figure/thirdpart.png, id=476, 501.37312pt x 291.33844pt>
+<Figure/thirdpart.png, id=470, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
-Package pdftex.def Info: Figure/thirdpart.png used on input line 16.
+Package pdftex.def Info: Figure/thirdpart.png used on input line 18.
 (pdftex.def)             Requested size: 426.0pt x 247.55437pt.
  [10
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-
- []
-
-[11 <./Figure/thirdpart.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-
+[11 <./Figure/thirdpart.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 62--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 62--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 62--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 62--78
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--76
+Underfull \hbox (badness 10000) in paragraph at lines 62--78
 
  []
 
@@ -2400,31 +2400,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=745, 778.91pt x 397.485pt>
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=740, 778.91pt x 397.485pt>
 File: Figure/scatter.png Graphic file (type png)
  <use Figure/scatter.png>
 Package pdftex.def Info: Figure/scatter.png used on input line 455.
 (pdftex.def)             Requested size: 426.0pt x 217.3862pt.
  [39 <./Figure/scatter.png>] [40
 
-] [41] [42] [43] [44] [45
-
-]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 576.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 584--586
+] [41] [42] [43] [44]
+Underfull \hbox (badness 10000) in paragraph at lines 582--584
 
  []
 
-[46
 
-]) [47]
+Underfull \hbox (badness 10000) in paragraph at lines 585--592
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--592
+
+ []
+
+[45
+
+]) [46]
 \openout2 = `RAfiler/Conclusions.aux'.
 
- (./RAfiler/Conclusions.tex) [48
+ (./RAfiler/Conclusions.tex) [47
 
 
 
@@ -2445,7 +2448,7 @@ Underfull \hbox (badness 1859) in paragraph at lines 1--1
 \T1/cmr/m/n/10.95 Effect of comprehensive cardiac telerehabilitation on one-year cardiovascular
  []
 
-[49
+[48
 
 
 
@@ -2459,17 +2462,19 @@ Underfull \hbox (badness 1038) in paragraph at lines 1--1
 []\T1/cmr/m/n/10.95 Edward T Chen. Considerations of Telemedicine in the Delivery of Modern
  []
 
-[50]
+[49]
 Underfull \hbox (badness 1817) in paragraph at lines 1--1
 []\T1/cmr/m/n/10.95 Enhed for Planlægning. Patienter skal sikres den bedst mulige behandling.
  []
 
-[51]) [52]
+[50]) [51]
 \openout2 = `RAfiler/Appendix.aux'.
 
- (./RAfiler/Appendix.tex [53
+ (./RAfiler/Appendix.tex [52
 
 
+
+] [53
 
 ] [54
 
@@ -2483,20 +2488,18 @@ Underfull \hbox (badness 1817) in paragraph at lines 1--1
 
 ] [59
 
-] [60
-
-]) [61
+]) [60
 
 ] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
-) [62
+) [61
 
 
 ] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
-[63
+[62
 
 ]
 \tf@toc=\write7
@@ -2523,17 +2526,17 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  37061 strings out of 492995
- 671870 string characters out of 6132705
+ 671945 string characters out of 6132705
  1331542 words of memory out of 5000000
- 39818 multiletter control sequences out of 15000+600000
+ 39819 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (69 pages, 802512 bytes).
+Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (68 pages, 802604 bytes).
 PDF statistics:
- 1034 PDF objects out of 1200 (max. 8388607)
- 927 compressed objects within 10 object streams
- 229 named destinations out of 1000 (max. 500000)
- 549 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1028 PDF objects out of 1200 (max. 8388607)
+ 922 compressed objects within 10 object streams
+ 228 named destinations out of 1000 (max. 500000)
+ 541 words of extra memory for PDF output out of 10000 (max. 10000000)
 
