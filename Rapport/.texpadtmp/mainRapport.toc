@@ -73,7 +73,7 @@
 \contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{55}{appendix.D}
 \contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{56}{appendix.E}
 \contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{57}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}\IeC {\o }konomi}{58}{appendix.G}
+\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{58}{appendix.G}
 \contentsline {appendix}{\chapternumberline {H}COPD project}{62}{appendix.H}
 \contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{63}{appendix.I}
 \contentsline {chapter}{List of Figures}{64}{section*.37}
