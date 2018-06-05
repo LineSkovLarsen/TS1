@@ -6,8 +6,8 @@
 \contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Technology}{1}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}The Danish Healthcare System}{1}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.1}Digitalization within the Danish Healthcare System}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Technology}{1}{subsection.1.1.2}
 \contentsline {subsection}{\numberline {1.1.3}Target Group and Market Segment}{2}{subsection.1.1.3}
 \contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Delimitation}{3}{subsection.1.2.1}
@@ -23,11 +23,10 @@
 \contentsline {chapter}{\chapternumberline {3}Theory}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}The Danish Healthcare System}{10}{section.3.1}
 \contentsline {subsubsection}{Structure of the Danish Healthcare System}{10}{subsubsection*.6}
-\contentsline {subsubsection}{Finances}{11}{subsubsection*.8}
+\contentsline {subsubsection}{Finances}{12}{subsubsection*.8}
 \contentsline {subsubsection}{Preventive healthcare}{12}{subsubsection*.9}
-\contentsline {subsubsection}{Rehabilitation}{12}{subsubsection*.10}
-\contentsline {subsubsection}{Digitalization within the Danish Healthcare System}{12}{subsubsection*.11}
-\contentsline {subsubsection}{Treatment of Cardiac patients}{13}{subsubsection*.12}
+\contentsline {subsubsection}{Rehabilitation}{13}{subsubsection*.10}
+\contentsline {subsubsection}{Treatment of Cardiac patients}{13}{subsubsection*.11}
 \contentsline {section}{\numberline {3.2}ICT in telemedicine}{14}{section.3.2}
 \contentsline {chapter}{\chapternumberline {4}Empirical data}{15}{chapter.4}
 \contentsline {section}{\numberline {4.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{15}{section.4.1}
@@ -50,33 +49,33 @@
 \contentsline {subsection}{\numberline {5.5.4}Ethics}{27}{subsection.5.5.4}
 \contentsline {section}{\numberline {5.6}Economy and effect analysis}{28}{section.5.6}
 \contentsline {subsection}{\numberline {5.6.1}Control group}{29}{subsection.5.6.1}
-\contentsline {subsubsection}{Economics}{29}{subsubsection*.14}
-\contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.20}
+\contentsline {subsubsection}{Economics}{29}{subsubsection*.13}
+\contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.19}
 \contentsline {subsection}{\numberline {5.6.2}Intervention group}{34}{subsection.5.6.2}
-\contentsline {subsubsection}{The silver package}{34}{subsubsection*.21}
-\contentsline {subsubsection}{Economics}{35}{subsubsection*.22}
-\contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.28}
+\contentsline {subsubsection}{The silver package}{34}{subsubsection*.20}
+\contentsline {subsubsection}{Economics}{35}{subsubsection*.21}
+\contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.27}
 \contentsline {subsection}{\numberline {5.6.3}Results}{39}{subsection.5.6.3}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
 \contentsline {section}{\numberline {6.1}Implementation}{40}{section.6.1}
 \contentsline {subsection}{\numberline {6.1.1}Legislation}{40}{subsection.6.1.1}
 \contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{41}{section.6.2}
 \contentsline {section}{\numberline {6.3}Cost-effect analysis}{41}{section.6.3}
-\contentsline {subsubsection}{The choice of package for comparison}{42}{subsubsection*.30}
-\contentsline {chapter}{\chapternumberline {7}Recommendation}{44}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Perspectivation}{45}{chapter.8}
-\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{45}{subsection.8.0.1}
-\contentsline {subsection}{\numberline {8.0.2}Future work}{45}{subsection.8.0.2}
-\contentsline {chapter}{\chapternumberline {9}Conclusion}{47}{chapter.9}
-\contentsline {chapter}{References}{48}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix list}{52}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Interview sp\IeC {\o }rgsm\IeC {\r a}l}{53}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Transkribering fokus gruppe}{54}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}Fiels notes}{55}{appendix.D}
-\contentsline {appendix}{\chapternumberline {E}Transkribering vibeke}{56}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}m\IeC {\o }de hanne og eva}{57}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}\IeC {\o }konomi}{58}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD project}{59}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{60}{appendix.I}
-\contentsline {chapter}{List of Figures}{61}{section*.34}
-\contentsline {chapter}{List of Tables}{62}{section*.35}
+\contentsline {subsubsection}{The choice of package for comparison}{44}{subsubsection*.30}
+\contentsline {chapter}{\chapternumberline {7}Recommendation}{45}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Perspectivation}{46}{chapter.8}
+\contentsline {subsection}{\numberline {8.0.1}Ongoing project in Netherlands}{46}{subsection.8.0.1}
+\contentsline {subsection}{\numberline {8.0.2}Future work}{46}{subsection.8.0.2}
+\contentsline {chapter}{\chapternumberline {9}Conclusion}{48}{chapter.9}
+\contentsline {chapter}{References}{49}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix list}{53}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Interview sp\IeC {\o }rgsm\IeC {\r a}l}{54}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Transkribering fokus gruppe}{55}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Fiels notes}{56}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transkribering vibeke}{57}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}m\IeC {\o }de hanne og eva}{58}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}\IeC {\o }konomi}{59}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD project}{60}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{61}{appendix.I}
+\contentsline {chapter}{List of Figures}{62}{section*.33}
+\contentsline {chapter}{List of Tables}{63}{section*.34}
