@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  5 JUN 2018 10:27
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.7)  5 JUN 2018 10:45
->>>>>>> 551ae29a73d68408b6541a0e99b1cddba8bb54ac
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  5 JUN 2018 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2042,7 +2038,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count523
 \@quotereset=\count524
-(/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
+(/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
 \openout1 = `mainRapport.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -2105,7 +2101,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'mainRapport.bbl' found.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.bbl
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.bbl
 
 Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'Emergence':
@@ -2196,7 +2192,7 @@ LaTeX Info: Redefining \nameref on input line 4.
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
 LaTeX Info: Redefining \nameref on input line 4.
-(/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.out) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.out)
+(/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.out) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.out)
 \@outlinefile=\write6
 \openout6 = `mainRapport.out'.
 
@@ -2215,7 +2211,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=269, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=265, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2249,7 +2245,7 @@ l.7 \include{RAfiler/Abstract}
 
 
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.toc
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.toc
 Package cleveref Info: loaded `english' language definitions on input line 4.
  [3
 
@@ -2264,7 +2260,7 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 ] [2]) [3]
 \openout2 = `RAfiler/Method.aux'.
 
- (./RAfiler/Method.tex <Figure/researchdesign.png, id=407, 682.55pt x 225.84375pt>
+ (./RAfiler/Method.tex <Figure/researchdesign.png, id=403, 682.55pt x 225.84375pt>
 File: Figure/researchdesign.png Graphic file (type png)
  <use Figure/researchdesign.png>
 Package pdftex.def Info: Figure/researchdesign.png used on input line 9.
@@ -2291,7 +2287,7 @@ Underfull \hbox (badness 1383) in paragraph at lines 10--11
 \T1/cmr/m/n/10.95 Furthermore, it provides partly funding for dentist, physiotherapist, chiropractor,
  []
 
-<Figure/thirdpart.png, id=476, 501.37312pt x 291.33844pt>
+<Figure/thirdpart.png, id=471, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 18.
@@ -2416,43 +2412,30 @@ LaTeX Warning: Citation 'hjertetal' on page 32 undefined on input line 206.
 
 LaTeX Warning: Citation 'hjertetal' on page 37 undefined on input line 395.
 
-[37] [38] <Figure/scatter.png, id=740, 778.91pt x 397.485pt>
+[37] [38] <Figure/scatter.png, id=736, 778.91pt x 397.485pt>
 File: Figure/scatter.png Graphic file (type png)
  <use Figure/scatter.png>
 Package pdftex.def Info: Figure/scatter.png used on input line 455.
 (pdftex.def)             Requested size: 426.0pt x 217.3862pt.
  [39 <./Figure/scatter.png>] [40
 
-<<<<<<< HEAD
 ] [41]
 Overfull \hbox (25.51646pt too wide) in paragraph at lines 502--539
 [][] 
  []
 
 [42] [43] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 590--592
-=======
-] [41] [42] [43] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 588--590
->>>>>>> 551ae29a73d68408b6541a0e99b1cddba8bb54ac
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 593--600
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 591--598
->>>>>>> 551ae29a73d68408b6541a0e99b1cddba8bb54ac
+Underfull \hbox (badness 10000) in paragraph at lines 592--599
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 593--600
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 591--598
->>>>>>> 551ae29a73d68408b6541a0e99b1cddba8bb54ac
+Underfull \hbox (badness 10000) in paragraph at lines 592--599
 
  []
 
@@ -2516,26 +2499,31 @@ Underfull \hbox (badness 1817) in paragraph at lines 1--1
 
 ] [56
 
-] [57
+]
+Overfull \hbox (3.02174pt too wide) in paragraph at lines 19--19
+|[]\T1/cmr/bx/n/24.88 Interview with Hanne Voldgaard
+ []
 
-] <Figure/SCR.png, id=877, 479.7925pt x 450.18187pt>
+[57
+
+] <Figure/SCR.png, id=873, 479.7925pt x 450.18187pt>
 File: Figure/SCR.png Graphic file (type png)
  <use Figure/SCR.png>
 Package pdftex.def Info: Figure/SCR.png used on input line 25.
 (pdftex.def)             Requested size: 426.0pt x 399.71265pt.
- <Figure/Bronze.png, id=878, 519.44063pt x 519.44063pt>
+ <Figure/Bronze.png, id=874, 519.44063pt x 519.44063pt>
 File: Figure/Bronze.png Graphic file (type png)
  <use Figure/Bronze.png>
 Package pdftex.def Info: Figure/Bronze.png used on input line 31.
 (pdftex.def)             Requested size: 426.0pt x 425.99956pt.
  [58
 
- <./Figure/SCR.png>] <Figure/Silver.png, id=886, 508.39937pt x 578.66188pt>
+ <./Figure/SCR.png>] <Figure/Silver.png, id=881, 508.39937pt x 578.66188pt>
 File: Figure/Silver.png Graphic file (type png)
  <use Figure/Silver.png>
 Package pdftex.def Info: Figure/Silver.png used on input line 38.
 (pdftex.def)             Requested size: 426.0pt x 484.88948pt.
- [59 <./Figure/Bronze.png>] <Figure/Gold.png, id=893, 487.32062pt x 643.90562pt>
+ [59 <./Figure/Bronze.png>] <Figure/Gold.png, id=889, 487.32062pt x 643.90562pt>
 File: Figure/Gold.png Graphic file (type png)
  <use Figure/Gold.png>
 Package pdftex.def Info: Figure/Gold.png used on input line 45.
@@ -2544,12 +2532,12 @@ Package pdftex.def Info: Figure/Gold.png used on input line 45.
 
 ]) [63
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lof
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lof
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) [64
 
 
-] (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.lot
+] (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.lot
 Package cleveref Info: loaded `english' language definitions on input line 3.
 ) 
 AED: lastpage setting LastPage
@@ -2567,9 +2555,9 @@ AED: lastpage setting LastPage
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 40.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 40.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux)
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Forside.aux)
 Package cleveref Info: loaded `english' language definitions on input line 30.
- (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
+ (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Abstract.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Acronyms.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Introduction.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Method.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Theory.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Empiricalprocess.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Analysisanddiscussion.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Conclusions.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Litteraturliste.aux) (/Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/RAfiler/Appendix.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 40.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 40.
 Package rerunfilecheck Info: File `mainRapport.out' has not changed.
@@ -2588,27 +2576,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37097 strings out of 492995
- 672449 string characters out of 6132705
+ 37095 strings out of 492995
+ 671785 string characters out of 6132704
  1331542 words of memory out of 5000000
- 39844 multiletter control sequences out of 15000+600000
+ 39843 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-<<<<<<< HEAD
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (68 pages, 805390 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (71 pages, 1669264 bytes).
 PDF statistics:
- 1030 PDF objects out of 1200 (max. 8388607)
- 924 compressed objects within 10 object streams
- 228 named destinations out of 1000 (max. 500000)
- 549 words of extra memory for PDF output out of 10000 (max. 10000000)
-=======
-Output written on /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.pdf (71 pages, 1668898 bytes).
-PDF statistics:
- 1060 PDF objects out of 1200 (max. 8388607)
- 943 compressed objects within 10 object streams
- 235 named destinations out of 1000 (max. 500000)
- 569 words of extra memory for PDF output out of 10000 (max. 10000000)
->>>>>>> 551ae29a73d68408b6541a0e99b1cddba8bb54ac
+ 1055 PDF objects out of 1200 (max. 8388607)
+ 938 compressed objects within 10 object streams
+ 234 named destinations out of 1000 (max. 500000)
+ 561 words of extra memory for PDF output out of 10000 (max. 10000000)
 
