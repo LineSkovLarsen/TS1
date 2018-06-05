@@ -75,7 +75,7 @@
 \contentsline {appendix}{\chapternumberline {E}Transkribering vibeke}{56}{appendix.E}
 \contentsline {appendix}{\chapternumberline {F}m\IeC {\o }de hanne og eva}{57}{appendix.F}
 \contentsline {appendix}{\chapternumberline {G}\IeC {\o }konomi}{58}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD project}{59}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{60}{appendix.I}
-\contentsline {chapter}{List of Figures}{61}{section*.33}
-\contentsline {chapter}{List of Tables}{62}{section*.34}
+\contentsline {appendix}{\chapternumberline {H}COPD project}{62}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Excel fra HERning muni}{63}{appendix.I}
+\contentsline {chapter}{List of Figures}{64}{section*.37}
+\contentsline {chapter}{List of Tables}{65}{section*.38}
