@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -27,69 +27,63 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12228 items from 5000.
+Reallocated field_info (elt_size=4) to 12367 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
+Warning--entry type for "digital" isn't style-file defined
+--line 11 of file ../bibliography.bib
 Warning--entry type for "pico" isn't style-file defined
---line 35 of file ../bibliography.bib
-I was expecting a `,' or a `}'---line 117 of file ../bibliography.bib
- :  
- :  urldate = {30/05/2018}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
+--line 40 of file ../bibliography.bib
 Warning--entry type for "herning" isn't style-file defined
---line 138 of file ../bibliography.bib
+--line 133 of file ../bibliography.bib
 Warning--entry type for "KOL_2" isn't style-file defined
---line 246 of file ../bibliography.bib
+--line 240 of file ../bibliography.bib
 Warning--entry type for "KOL_1" isn't style-file defined
---line 252 of file ../bibliography.bib
-I was expecting a `,' or a `}'---line 402 of file ../bibliography.bib
- :  
- :  Note = {[Last checked: 20/03/2018]}
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
+--line 246 of file ../bibliography.bib
+Warning--I didn't find a database entry for "rehabiliteringDK"
+Warning--I didn't find a database entry for "hjertetal"
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 52 entries,
+You've used 51 entries,
             6256 wiz_defined-function locations,
-            1459 strings with 17686 characters,
-and the built_in function-call counts, 266909 in all, are:
-= -- 18389
-> -- 5361
-< -- 1600
-+ -- 6299
-- -- 2037
-* -- 18318
-:= -- 25136
+            1455 strings with 17562 characters,
+and the built_in function-call counts, 261339 in all, are:
+= -- 18024
+> -- 5219
+< -- 1576
++ -- 6210
+- -- 1995
+* -- 17892
+:= -- 24592
 add.period$ -- 0
-call.type$ -- 52
-change.case$ -- 872
+call.type$ -- 51
+change.case$ -- 858
 chr.to.int$ -- 90
-cite$ -- 102
-duplicate$ -- 27813
-empty$ -- 25442
-format.name$ -- 2959
-if$ -- 56389
+cite$ -- 100
+duplicate$ -- 27285
+empty$ -- 24901
+format.name$ -- 2872
+if$ -- 55203
 int.to.chr$ -- 0
-int.to.str$ -- 114
+int.to.str$ -- 111
 missing$ -- 0
-newline$ -- 1350
-num.names$ -- 2110
-pop$ -- 17485
+newline$ -- 1320
+num.names$ -- 2034
+pop$ -- 17166
 preamble$ -- 1
-purify$ -- 1181
+purify$ -- 1161
 quote$ -- 0
-skip$ -- 9118
+skip$ -- 8907
 stack$ -- 0
-substring$ -- 31050
-swap$ -- 6601
-text.length$ -- 1152
+substring$ -- 30420
+swap$ -- 6458
+text.length$ -- 1126
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1751
+type$ -- 1716
 warning$ -- 0
-while$ -- 2835
+while$ -- 2778
 width$ -- 0
-write$ -- 1299
-(There were 2 error messages)
+write$ -- 1270
+(There were 7 warnings)
