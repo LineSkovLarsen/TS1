@@ -167,9 +167,15 @@
   \endentry
 
   \entry{pico}{misc}{}
-    \verb{url}
-    \verb http://videncentret.dk/forskerservice/vaerktoejer/
-    \endverb
+    \name{author}{1}{}{%
+      {{hash=V}{%
+         family={Videnscentret},
+         familyi={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{V1}
+    \strng{fullhash}{V1}
+    \field{labelnamesource}{author}
   \endentry
 
   \entry{mark2009research}{misc}{}
@@ -793,6 +799,7 @@
   \endentry
 
   \entry{herning}{misc}{}
+    \field{note}{[Last checked: 05/05/2018]}
     \verb{url}
     \verb http://sundhed.herning.dk/lev-aktivt-med-sygdom/hjerte
     \endverb
@@ -1026,14 +1033,16 @@
   \endentry
 
   \entry{KOL_1}{misc}{}
+    \field{note}{[Last checked: 22/03/2018]}
     \verb{url}
     \verb http://www.sum.dk/Aktuelt/Nyheder/Digitalisering/2012/August/~/media/
-    \verb Filer%20-%20Publikationer_i_pdf/2012/Telemedicin/Telemedicinsk-handli
-    \verb ngsplan.ashx
+    \verb Filer\%20-\%20Publikationer_i_pdf/2012/Telemedicin/Telemedicinsk-hand
+    \verb lingsplan.ashx
     \endverb
   \endentry
 
   \entry{KOL_2}{misc}{}
+    \field{note}{[Last checked: 22/03/2018]}
     \verb{url}
     \verb http://www.rn.dk/sundhed/til-sundhedsfaglige-og-samarbejdspartnere/te
     \verb lecare-nord/national-udbredelse
@@ -1285,8 +1294,22 @@
   \endentry
 
   \entry{digital}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=mU}{%
+         family={ministeriet},
+         familyi={m\bibinitperiod},
+         given={Undervisnings},
+         giveni={U\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{mU1}
+    \strng{fullhash}{mU1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{[Last checked: 06/06/2018]}
+    \field{title}{Generation Z og de digitalt ind{\oe}dte}
     \verb{url}
-    \verb https://www.emu.dk/modul/generation-z-og-de-digitalt-indfødte
+    \verb https://www.emu.dk/modul/generation-z-og-de-digitalt-indf{\oe}dte
     \endverb
   \endentry
 
