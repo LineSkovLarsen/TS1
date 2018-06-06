@@ -3,7 +3,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \contentsline {chapter}{Abstract}{i}{chapter*.2}
-\contentsline {chapter}{Acronyms and Abbreviations}{iii}{chapter*.3}
+\contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Digitalization within the Danish Healthcare System}{1}{subsection.1.1.1}
@@ -13,12 +13,12 @@
 \contentsline {subsection}{\numberline {1.2.1}Delimitation}{3}{subsection.1.2.1}
 \contentsline {chapter}{\chapternumberline {2}Methodology}{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}Research design}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}Literature search method}{5}{section.2.2}
+\contentsline {section}{\numberline {2.2}Literature search method}{4}{section.2.2}
 \contentsline {section}{\numberline {2.3}Research interviews}{5}{section.2.3}
 \contentsline {section}{\numberline {2.4}Focus group/open discussion with patients}{6}{section.2.4}
 \contentsline {section}{\numberline {2.5}Micro ethnography}{7}{section.2.5}
 \contentsline {section}{\numberline {2.6}Analyzing qualitative data}{7}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Cost-effectiveness analysis}{8}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.1}Cost-effectiveness analysis}{7}{subsection.2.6.1}
 \contentsline {chapter}{\chapternumberline {3}Theory}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}The Danish Healthcare System}{10}{section.3.1}
 \contentsline {subsubsection}{Structure of the Danish Healthcare System}{10}{subsubsection*.6}
@@ -30,10 +30,10 @@
 \contentsline {chapter}{\chapternumberline {4}Empirical data}{15}{chapter.4}
 \contentsline {section}{\numberline {4.1}Interview with Vibeke Lynggard, post.doc, Cardiovascular Clinic, Herning Hospital}{15}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Outcome of the interview}{15}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{18}{section.4.2}
+\contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{17}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{18}{subsection.4.2.1}
-\contentsline {section}{\numberline {4.3}Economy and effect}{20}{section.4.3}
-\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{21}{section.4.4}
+\contentsline {section}{\numberline {4.3}Economy and effect}{19}{section.4.3}
+\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{20}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis}{23}{chapter.5}
 \contentsline {section}{\numberline {5.1}Impact of ICT in homecare}{23}{section.5.1}
 \contentsline {section}{\numberline {5.2}Implementation of telemedicine in Denmark}{23}{section.5.2}
@@ -43,40 +43,40 @@
 \contentsline {section}{\numberline {5.4}Comparison with telemedicine solution for COPD patients}{25}{section.5.4}
 \contentsline {section}{\numberline {5.5}Challenges within telemedicine rehabilitation}{26}{section.5.5}
 \contentsline {subsection}{\numberline {5.5.1}Personal aspect}{26}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Funding}{27}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.2}Funding}{26}{subsection.5.5.2}
 \contentsline {subsection}{\numberline {5.5.3}Technological skills}{27}{subsection.5.5.3}
 \contentsline {subsection}{\numberline {5.5.4}Ethics}{27}{subsection.5.5.4}
 \contentsline {section}{\numberline {5.6}Economy and effect analysis}{28}{section.5.6}
 \contentsline {subsection}{\numberline {5.6.1}Control group}{29}{subsection.5.6.1}
 \contentsline {subsubsection}{Economics}{29}{subsubsection*.13}
 \contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.19}
-\contentsline {subsection}{\numberline {5.6.2}Intervention group}{34}{subsection.5.6.2}
-\contentsline {subsubsection}{The Silver package}{34}{subsubsection*.20}
-\contentsline {subsubsection}{Economics}{35}{subsubsection*.21}
-\contentsline {subsubsection}{Effectiveness}{39}{subsubsection*.27}
-\contentsline {subsection}{\numberline {5.6.3}Results}{39}{subsection.5.6.3}
+\contentsline {subsection}{\numberline {5.6.2}Intervention group}{33}{subsection.5.6.2}
+\contentsline {subsubsection}{The Silver package}{33}{subsubsection*.20}
+\contentsline {subsubsection}{Economics}{34}{subsubsection*.21}
+\contentsline {subsubsection}{Effectiveness}{38}{subsubsection*.27}
+\contentsline {subsection}{\numberline {5.6.3}Results}{38}{subsection.5.6.3}
 \contentsline {chapter}{\chapternumberline {6}Discussion}{40}{chapter.6}
 \contentsline {section}{\numberline {6.1}Choice of methodology}{40}{section.6.1}
 \contentsline {section}{\numberline {6.2}A critical perspective on the empirical data}{41}{section.6.2}
 \contentsline {section}{\numberline {6.3}The digitally native}{41}{section.6.3}
 \contentsline {section}{\numberline {6.4}A rehabilitation solution with respect to the patients needs}{42}{section.6.4}
-\contentsline {section}{\numberline {6.5}Implementation}{43}{section.6.5}
+\contentsline {section}{\numberline {6.5}Implementation}{42}{section.6.5}
 \contentsline {subsection}{\numberline {6.5.1}Legislation}{43}{subsection.6.5.1}
 \contentsline {section}{\numberline {6.6}Cost-effect analysis}{43}{section.6.6}
-\contentsline {subsubsection}{The choice of package for comparison}{46}{subsubsection*.30}
-\contentsline {chapter}{\chapternumberline {7}Perspectivation}{47}{chapter.7}
-\contentsline {section}{\numberline {7.1}Ongoing project in the Netherlands}{47}{section.7.1}
-\contentsline {section}{\numberline {7.2}Future work}{47}{section.7.2}
-\contentsline {chapter}{\chapternumberline {8}Conclusion}{49}{chapter.8}
-\contentsline {chapter}{References}{51}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix list}{55}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Interview questions}{56}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{57}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{58}{appendix.D}
-\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{59}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{60}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{61}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD Project}{65}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{67}{appendix.I}
-\contentsline {chapter}{List of Figures}{68}{section*.38}
-\contentsline {chapter}{List of Tables}{69}{section*.39}
+\contentsline {subsubsection}{The choice of package for comparison}{45}{subsubsection*.30}
+\contentsline {chapter}{\chapternumberline {7}Perspectivation}{46}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ongoing project in the Netherlands}{46}{section.7.1}
+\contentsline {section}{\numberline {7.2}Future work}{46}{section.7.2}
+\contentsline {chapter}{\chapternumberline {8}Conclusion}{48}{chapter.8}
+\contentsline {chapter}{References}{50}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix list}{54}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Interview questions}{55}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{56}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{57}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{58}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{59}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{60}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD Project}{64}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{65}{appendix.I}
+\contentsline {chapter}{List of Figures}{66}{section*.38}
+\contentsline {chapter}{List of Tables}{67}{section*.39}
