@@ -176,6 +176,10 @@
     \strng{namehash}{V1}
     \strng{fullhash}{V1}
     \field{labelnamesource}{author}
+    \field{note}{[Last checked: 03/03/2018]}
+    \verb{url}
+    \verb http://videncentret.dk/forskerservice/vaerktoejer/
+    \endverb
   \endentry
 
   \entry{mark2009research}{misc}{}
@@ -586,12 +590,34 @@
     \field{year}{2017}
   \endentry
 
+  \entry{rehab}{thesis}{}
+    \name{author}{1}{}{%
+      {{hash=LV}{%
+         family={Lynggaard},
+         familyi={L\bibinitperiod},
+         given={Vibeke},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LV1}
+    \strng{fullhash}{LV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{LC-REHAB: Effect of the patient education. Learning and
+  Coping Strategies in cardiac REHABilitation - a randomised controlled trial}
+    \list{institution}{1}{%
+      {Aarhus University}%
+    }
+    \field{type}{mathesis}
+    \field{year}{2018}
+  \endentry
+
   \entry{hjerteKomMidt}{unpublished}{}
     \name{author}{1}{}{%
       {{hash=JMV}{%
          family={Jessen},
          familyi={J\bibinitperiod},
-         given={Mads\bibnamedelima Ven{\o}},
+         given={Mads\bibnamedelima Ven{\oe}},
          giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
       }}%
     }
@@ -1162,6 +1188,23 @@
     \field{year}{1998}
   \endentry
 
+  \entry{hjertetal}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=H}{%
+         family={Hjertetal.dk},
+         familyi={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{H1}
+    \strng{fullhash}{H1}
+    \field{labelnamesource}{author}
+    \field{note}{[Last checked: 06/04/2018]}
+    \verb{url}
+    \verb https://hjerteforeningen.dk/alt-om-dit-hjerte/hjertetal/hjertetaldk/
+    \endverb
+    \field{year}{2015}
+  \endentry
+
   \entry{digital}{misc}{}
     \name{author}{1}{}{%
       {{hash=mU}{%
@@ -1205,28 +1248,6 @@
     \endverb
     \field{year}{2017}
     \warn{\item Invalid format of field 'urldate'}
-  \endentry
-
-  \entry{rehab}{thesis}{}
-    \name{author}{1}{}{%
-      {{hash=LV}{%
-         family={Lynggaard},
-         familyi={L\bibinitperiod},
-         given={Vibeke},
-         giveni={V\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{LV1}
-    \strng{fullhash}{LV1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{title}{LC-REHAB: Effect of the patient education. Learning and
-  Coping Strategies in cardiac REHABilitation - a randomised controlled trial}
-    \list{institution}{1}{%
-      {Aarhus University}%
-    }
-    \field{type}{mathesis}
-    \field{year}{2018}
   \endentry
 
   \entry{CAD}{article}{}

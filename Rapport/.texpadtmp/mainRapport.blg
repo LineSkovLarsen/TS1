@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2017)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.aux
+The top-level auxiliary file: /Users/matildeandersen/Documents/GitHub/TS1/Rapport/.texpadtmp/mainRapport.aux
 The style file: biblatex.bst
 A level-1 auxiliary file: RAfiler/Forside.aux
 A level-1 auxiliary file: RAfiler/Abstract.aux
@@ -27,58 +27,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 12367 items from 5000.
+Reallocated field_info (elt_size=4) to 12228 items from 5000.
 Database file #1: mainRapport-blx.bib
 Database file #2: ../bibliography.bib
-I was expecting a `,' or a `}'---line 43 of file ../bibliography.bib
- :  
- :  Note = {[Last checked: 03/03/2018]},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "rehabiliteringDK"
-Warning--I didn't find a database entry for "hjertetal"
 Biblatex version: 3.3
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 51 entries,
+You've used 52 entries,
             6256 wiz_defined-function locations,
-            1461 strings with 17685 characters,
-and the built_in function-call counts, 265012 in all, are:
-= -- 18298
-> -- 5361
-< -- 1592
-+ -- 6296
-- -- 2035
-* -- 18233
-:= -- 25053
+            1464 strings with 17856 characters,
+and the built_in function-call counts, 267956 in all, are:
+= -- 18438
+> -- 5432
+< -- 1608
++ -- 6330
+- -- 2060
+* -- 18410
+:= -- 25271
 add.period$ -- 0
-call.type$ -- 51
-change.case$ -- 869
+call.type$ -- 52
+change.case$ -- 875
 chr.to.int$ -- 90
-cite$ -- 100
-duplicate$ -- 27618
-empty$ -- 25145
-format.name$ -- 2959
-if$ -- 55933
+cite$ -- 102
+duplicate$ -- 27952
+empty$ -- 25486
+format.name$ -- 3002
+if$ -- 56583
 int.to.chr$ -- 0
-int.to.str$ -- 113
+int.to.str$ -- 115
 missing$ -- 0
-newline$ -- 1343
-num.names$ -- 2110
-pop$ -- 17158
+newline$ -- 1364
+num.names$ -- 2148
+pop$ -- 17482
 preamble$ -- 1
-purify$ -- 1178
+purify$ -- 1187
 quote$ -- 0
-skip$ -- 9053
+skip$ -- 9189
 stack$ -- 0
-substring$ -- 30874
-swap$ -- 6555
-text.length$ -- 1144
+substring$ -- 31040
+swap$ -- 6648
+text.length$ -- 1161
 text.prefix$ -- 2
 top$ -- 1
-type$ -- 1721
+type$ -- 1755
 warning$ -- 0
-while$ -- 2833
+while$ -- 2859
 width$ -- 0
-write$ -- 1293
-(There was 1 error message)
+write$ -- 1313
