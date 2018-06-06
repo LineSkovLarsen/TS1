@@ -3,7 +3,7 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \contentsline {chapter}{Abstract}{i}{chapter*.2}
-\contentsline {chapter}{Acronyms and Abbreviations}{ii}{chapter*.3}
+\contentsline {chapter}{Acronyms and Abbreviations}{iii}{chapter*.3}
 \contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Digitalization within the Danish Healthcare System}{1}{subsection.1.1.1}
