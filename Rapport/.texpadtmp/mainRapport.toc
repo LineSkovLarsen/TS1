@@ -68,15 +68,15 @@
 \contentsline {section}{\numberline {7.1}Ongoing project in the Netherlands}{47}{section.7.1}
 \contentsline {section}{\numberline {7.2}Future work}{47}{section.7.2}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{49}{chapter.8}
-\contentsline {chapter}{References}{50}{section*.32}
-\contentsline {appendix}{\chapternumberline {A}Appendix list}{54}{appendix.A}
-\contentsline {appendix}{\chapternumberline {B}Interview questions}{55}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{56}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{57}{appendix.D}
-\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{58}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{59}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{60}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD Project}{64}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{66}{appendix.I}
-\contentsline {chapter}{List of Figures}{67}{section*.38}
-\contentsline {chapter}{List of Tables}{68}{section*.39}
+\contentsline {chapter}{References}{51}{section*.32}
+\contentsline {appendix}{\chapternumberline {A}Appendix list}{55}{appendix.A}
+\contentsline {appendix}{\chapternumberline {B}Interview questions}{56}{appendix.B}
+\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{57}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{58}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{59}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{60}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{61}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD Project}{65}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{67}{appendix.I}
+\contentsline {chapter}{List of Figures}{68}{section*.38}
+\contentsline {chapter}{List of Tables}{69}{section*.39}
