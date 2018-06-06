@@ -71,12 +71,12 @@
 \contentsline {chapter}{References}{50}{section*.32}
 \contentsline {appendix}{\chapternumberline {A}Appendix list}{54}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Interview questions}{55}{appendix.B}
-\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{56}{appendix.C}
-\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{57}{appendix.D}
-\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{58}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{59}{appendix.F}
-\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{60}{appendix.G}
-\contentsline {appendix}{\chapternumberline {H}COPD Project}{64}{appendix.H}
-\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{65}{appendix.I}
-\contentsline {chapter}{List of Figures}{66}{section*.38}
-\contentsline {chapter}{List of Tables}{67}{section*.39}
+\contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{57}{appendix.C}
+\contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{59}{appendix.D}
+\contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{60}{appendix.E}
+\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{64}{appendix.F}
+\contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{66}{appendix.G}
+\contentsline {appendix}{\chapternumberline {H}COPD Project}{70}{appendix.H}
+\contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{73}{appendix.I}
+\contentsline {chapter}{List of Figures}{74}{section*.38}
+\contentsline {chapter}{List of Tables}{75}{section*.39}
