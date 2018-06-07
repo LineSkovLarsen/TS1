@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  7 JUN 2018 10:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  7 JUN 2018 10:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2211,7 +2211,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 4.
 \c__siunitx_mathtt_int=\count534
 \openout2 = `RAfiler/Forside.aux'.
 
- (./RAfiler/Forside.tex <Figure/Ase.jpg, id=273, 1176.395pt x 299.1175pt>
+ (./RAfiler/Forside.tex <Figure/Ase.jpg, id=269, 1176.395pt x 299.1175pt>
 File: Figure/Ase.jpg Graphic file (type jpg)
  <use Figure/Ase.jpg>
 Package pdftex.def Info: Figure/Ase.jpg used on input line 6.
@@ -2250,7 +2250,7 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
  [3
 
 
-]) [4] [5]
+]) [4]
 \openout2 = `RAfiler/Introduction.aux'.
 
  (./RAfiler/Introduction.tex [1
@@ -2260,7 +2260,7 @@ Package cleveref Info: loaded `english' language definitions on input line 4.
 ] [2]) [3]
 \openout2 = `RAfiler/Method.aux'.
 
- (./RAfiler/Method.tex <Figure/researchdesign.png, id=413, 682.55pt x 225.84375pt>
+ (./RAfiler/Method.tex <Figure/researchdesign.png, id=403, 682.55pt x 225.84375pt>
 File: Figure/researchdesign.png Graphic file (type png)
  <use Figure/researchdesign.png>
 Package pdftex.def Info: Figure/researchdesign.png used on input line 9.
@@ -2282,7 +2282,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--117
 [8]) [9]
 \openout2 = `RAfiler/Theory.aux'.
 
- (./RAfiler/Theory.tex <Figure/thirdpart.png, id=485, 501.37312pt x 291.33844pt>
+ (./RAfiler/Theory.tex <Figure/thirdpart.png, id=474, 501.37312pt x 291.33844pt>
 File: Figure/thirdpart.png Graphic file (type png)
  <use Figure/thirdpart.png>
 Package pdftex.def Info: Figure/thirdpart.png used on input line 17.
@@ -2395,15 +2395,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=762, 778.91pt x 397.485pt>
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=752, 778.91pt x 397.485pt>
 File: Figure/scatter.png Graphic file (type png)
  <use Figure/scatter.png>
-Package pdftex.def Info: Figure/scatter.png used on input line 457.
+Package pdftex.def Info: Figure/scatter.png used on input line 458.
 (pdftex.def)             Requested size: 426.0pt x 217.3862pt.
  [39 <./Figure/scatter.png>] [40
 
 ] [41] [42] [43] [44]
-Underfull \hbox (badness 1810) in paragraph at lines 562--563
+Underfull \hbox (badness 1810) in paragraph at lines 564--565
 []\T1/cmr/m/n/10.95 From the obtained cost-effectiveness analysis, it is possible to indicate that an
  []
 
@@ -2468,30 +2468,30 @@ Underfull \hbox (badness 1817) in paragraph at lines 1--1
 ] [60
 
 ] [61] [62] [63]
-Overfull \hbox (3.02174pt too wide) in paragraph at lines 223--223
-|[]\T1/cmr/bx/n/24.88 Interview with Hanne Voldgaard
+Underfull \hbox (badness 2384) in paragraph at lines 223--223
+|[]\T1/cmr/bx/n/24.88 Interview: Hanne Voldgaard
  []
 
 [64
 
-] [65] <Figure/SCR.png, id=950, 479.7925pt x 450.18187pt>
+] [65] <Figure/SCR.png, id=941, 479.7925pt x 450.18187pt>
 File: Figure/SCR.png Graphic file (type png)
  <use Figure/SCR.png>
 Package pdftex.def Info: Figure/SCR.png used on input line 265.
 (pdftex.def)             Requested size: 426.0pt x 399.71265pt.
- <Figure/Bronze.png, id=951, 519.44063pt x 519.44063pt>
+ <Figure/Bronze.png, id=942, 519.44063pt x 519.44063pt>
 File: Figure/Bronze.png Graphic file (type png)
  <use Figure/Bronze.png>
 Package pdftex.def Info: Figure/Bronze.png used on input line 272.
 (pdftex.def)             Requested size: 426.0pt x 425.99956pt.
  [66
 
- <./Figure/SCR.png>] <Figure/Silver.png, id=958, 508.39937pt x 578.66188pt>
+ <./Figure/SCR.png>] <Figure/Silver.png, id=949, 508.39937pt x 578.66188pt>
 File: Figure/Silver.png Graphic file (type png)
  <use Figure/Silver.png>
 Package pdftex.def Info: Figure/Silver.png used on input line 279.
 (pdftex.def)             Requested size: 426.0pt x 484.88948pt.
- [67 <./Figure/Bronze.png>] <Figure/Gold.png, id=966, 487.32062pt x 643.90562pt>
+ [67 <./Figure/Bronze.png>] <Figure/Gold.png, id=956, 487.32062pt x 643.90562pt>
 File: Figure/Gold.png Graphic file (type png)
  <use Figure/Gold.png>
 Package pdftex.def Info: Figure/Gold.png used on input line 286.
@@ -2499,14 +2499,14 @@ Package pdftex.def Info: Figure/Gold.png used on input line 286.
  [68 <./Figure/Silver.png>] [69 <./Figure/Gold.png>] [70
 
 ] [71] [72]
-Overfull \hbox (5.16368pt too wide) in paragraph at lines 367--367
+Overfull \hbox (5.16368pt too wide) in paragraph at lines 369--369
 |[]\T1/cmr/bx/n/24.88 Exercise equip-ment used in Hern-
  []
 
-<Figure/8.png, id=991, 600.2425pt x 805.0075pt>
+<Figure/8.png, id=982, 600.2425pt x 805.0075pt>
 File: Figure/8.png Graphic file (type png)
  <use Figure/8.png>
-Package pdftex.def Info: Figure/8.png used on input line 370.
+Package pdftex.def Info: Figure/8.png used on input line 372.
 (pdftex.def)             Requested size: 426.0pt x 571.33824pt.
 ) [73
 
@@ -2545,18 +2545,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37141 strings out of 492995
- 672265 string characters out of 6132704
+ 37139 strings out of 492995
+ 672242 string characters out of 6132704
  1331542 words of memory out of 5000000
- 39867 multiletter control sequences out of 15000+600000
+ 39866 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (81 pages, 1777100 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (80 pages, 1776935 bytes).
 PDF statistics:
- 1151 PDF objects out of 1200 (max. 8388607)
- 1021 compressed objects within 11 object streams
- 255 named destinations out of 1000 (max. 500000)
- 582 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1142 PDF objects out of 1200 (max. 8388607)
+ 1013 compressed objects within 11 object streams
+ 254 named destinations out of 1000 (max. 500000)
+ 574 words of extra memory for PDF output out of 10000 (max. 10000000)
 

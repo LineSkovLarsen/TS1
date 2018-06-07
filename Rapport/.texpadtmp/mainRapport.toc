@@ -46,7 +46,7 @@
 \contentsline {subsection}{\numberline {5.5.2}Funding}{26}{subsection.5.5.2}
 \contentsline {subsection}{\numberline {5.5.3}Technological skills}{27}{subsection.5.5.3}
 \contentsline {subsection}{\numberline {5.5.4}Ethics}{27}{subsection.5.5.4}
-\contentsline {section}{\numberline {5.6}Economy and effect analysis}{28}{section.5.6}
+\contentsline {section}{\numberline {5.6}Cost and effectiveness analysis}{28}{section.5.6}
 \contentsline {subsection}{\numberline {5.6.1}Control group}{29}{subsection.5.6.1}
 \contentsline {subsubsection}{Economics}{29}{subsubsection*.13}
 \contentsline {subsubsection}{Effectiveness}{33}{subsubsection*.19}
@@ -61,22 +61,22 @@
 \contentsline {section}{\numberline {6.3}The digitally native}{41}{section.6.3}
 \contentsline {section}{\numberline {6.4}A rehabilitation solution with respect to the patients needs}{42}{section.6.4}
 \contentsline {section}{\numberline {6.5}Implementation}{42}{section.6.5}
-\contentsline {subsection}{\numberline {6.5.1}Legislation}{43}{subsection.6.5.1}
-\contentsline {section}{\numberline {6.6}Cost-effect analysis}{43}{section.6.6}
-\contentsline {subsubsection}{The choice of package for comparison}{45}{subsubsection*.30}
+\contentsline {subsubsection}{Legislation}{43}{subsubsection*.29}
+\contentsline {section}{\numberline {6.6}Cost-effectiveness analysis}{43}{section.6.6}
+\contentsline {subsubsection}{The choice of package for comparison}{45}{subsubsection*.31}
 \contentsline {chapter}{\chapternumberline {7}Perspectivation}{46}{chapter.7}
 \contentsline {section}{\numberline {7.1}Ongoing project in the Netherlands}{46}{section.7.1}
 \contentsline {section}{\numberline {7.2}Future work}{46}{section.7.2}
 \contentsline {chapter}{\chapternumberline {8}Conclusion}{48}{chapter.8}
-\contentsline {chapter}{References}{50}{section*.32}
+\contentsline {chapter}{References}{50}{section*.33}
 \contentsline {appendix}{\chapternumberline {A}Appendix list}{54}{appendix.A}
 \contentsline {appendix}{\chapternumberline {B}Interview questions}{55}{appendix.B}
 \contentsline {appendix}{\chapternumberline {C}Transcription: Open discussion with cardiac patients}{57}{appendix.C}
 \contentsline {appendix}{\chapternumberline {D}Field notes: Observation doing rehabilitation program}{59}{appendix.D}
 \contentsline {appendix}{\chapternumberline {E}Transcription: Interview with Vibeke Lynggard}{60}{appendix.E}
-\contentsline {appendix}{\chapternumberline {F}Interview with Hanne Voldgaard Nielsen and Eva Klose Jensen}{64}{appendix.F}
+\contentsline {appendix}{\chapternumberline {F}Interview: Hanne Voldgaard Nielsen and Eva Klose Jensen}{64}{appendix.F}
 \contentsline {appendix}{\chapternumberline {G}Economy: Different packages}{66}{appendix.G}
 \contentsline {appendix}{\chapternumberline {H}COPD Project}{70}{appendix.H}
 \contentsline {appendix}{\chapternumberline {I}Exercise equipment used in Herning Municipality}{73}{appendix.I}
-\contentsline {chapter}{List of Figures}{74}{section*.38}
-\contentsline {chapter}{List of Tables}{75}{section*.39}
+\contentsline {chapter}{List of Figures}{74}{section*.39}
+\contentsline {chapter}{List of Tables}{75}{section*.40}
