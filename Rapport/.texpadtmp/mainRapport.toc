@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {2.4}Focus group/open discussion with patients}{6}{section.2.4}
 \contentsline {section}{\numberline {2.5}Micro ethnography}{7}{section.2.5}
 \contentsline {section}{\numberline {2.6}Analyzing qualitative data}{7}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Cost-effectiveness analysis}{8}{subsection.2.6.1}
+\contentsline {section}{\numberline {2.7}Cost-effectiveness analysis}{8}{section.2.7}
 \contentsline {chapter}{\chapternumberline {3}Theory}{10}{chapter.3}
 \contentsline {section}{\numberline {3.1}The Danish Healthcare System}{10}{section.3.1}
 \contentsline {subsubsection}{Structure of the Danish Healthcare System}{10}{subsubsection*.6}
@@ -33,12 +33,12 @@
 \contentsline {section}{\numberline {4.2}Interview with Hanne Voldgaard Nielsen, Professional leader, Health, Training and Assistive Technology, Herning Municipality and Eva Klose Jensen, Leader, Rehabilitation and Health, Herning Municipality}{17}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Outcome of the interview}{18}{subsection.4.2.1}
 \contentsline {section}{\numberline {4.3}Economy and effect}{19}{section.4.3}
-\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sport Center Holing, Herning}{20}{section.4.4}
+\contentsline {section}{\numberline {4.4}Open discussion with cardiac patients, Sportscenter Holing, Herning}{20}{section.4.4}
 \contentsline {chapter}{\chapternumberline {5}Analysis}{23}{chapter.5}
 \contentsline {section}{\numberline {5.1}Impact of ICT in homecare}{23}{section.5.1}
 \contentsline {section}{\numberline {5.2}Implementation of telemedicine in Denmark}{23}{section.5.2}
 \contentsline {subsection}{\numberline {5.2.1}Rehabilitation offered in Herning Municipality}{24}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Outcome}{24}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.2}Position on ICT in Herning Municipality}{24}{subsection.5.2.2}
 \contentsline {section}{\numberline {5.3}Relative\IeC {\textquoteright }s Experiences of cardiac Patient\IeC {\textquoteright }s telemedicine rehabilitation}{25}{section.5.3}
 \contentsline {section}{\numberline {5.4}Comparison with telemedicine solution for COPD patients}{25}{section.5.4}
 \contentsline {section}{\numberline {5.5}Challenges within telemedicine rehabilitation}{26}{section.5.5}

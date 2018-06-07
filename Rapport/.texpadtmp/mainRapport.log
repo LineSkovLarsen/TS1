@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  6 JUN 2018 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.2.28)  7 JUN 2018 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2371,38 +2371,43 @@ Underfull \hbox (badness 1178) in paragraph at lines 32--33
  []
 
 [25] [26]
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
-Overfull \hbox (2.99649pt too wide) in paragraph at lines 61--62
-[]\T1/cmr/m/n/10.95 Edward Chen ex-plains in an ar-ti-cle some of the con-sid-er-a-tions of im-ple-ment-ing telemedicine.
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
+
+Overfull \hbox (2.99649pt too wide) in paragraph at lines 63--64
+[]\T1/cmr/m/n/10.95 Edward Chen ex-plains in an ar-ti-cle some of the con-sid-er-a-tions of im-ple-ment-ing telemedicine.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
 [27]
-Underfull \hbox (badness 1742) in paragraph at lines 70--71
+Underfull \hbox (badness 1742) in paragraph at lines 72--73
 \T1/cmr/m/n/10.95 The cost part of this analysis will be the implementation cost of standard or
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
 
  []
 
-[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=756, 778.91pt x 397.485pt>
+[29] [30] [31] [32] [33] [34] [35] [36] [37] [38] <Figure/scatter.png, id=762, 778.91pt x 397.485pt>
 File: Figure/scatter.png Graphic file (type png)
  <use Figure/scatter.png>
-Package pdftex.def Info: Figure/scatter.png used on input line 455.
+Package pdftex.def Info: Figure/scatter.png used on input line 457.
 (pdftex.def)             Requested size: 426.0pt x 217.3862pt.
  [39 <./Figure/scatter.png>] [40
 
-] [41] [42] [43] [44] [45] [46
+] [41] [42] [43] [44]
+Underfull \hbox (badness 1810) in paragraph at lines 562--563
+[]\T1/cmr/m/n/10.95 From the obtained cost-effectiveness analysis, it is possible to indicate that an
+ []
+
+[45] [46
 
 ]) [47]
 \openout2 = `RAfiler/Conclusions.aux'.
@@ -2469,39 +2474,39 @@ Overfull \hbox (3.02174pt too wide) in paragraph at lines 223--223
 
 [64
 
-] [65] <Figure/SCR.png, id=943, 479.7925pt x 450.18187pt>
+] [65] <Figure/SCR.png, id=950, 479.7925pt x 450.18187pt>
 File: Figure/SCR.png Graphic file (type png)
  <use Figure/SCR.png>
 Package pdftex.def Info: Figure/SCR.png used on input line 265.
 (pdftex.def)             Requested size: 426.0pt x 399.71265pt.
- <Figure/Bronze.png, id=944, 519.44063pt x 519.44063pt>
+ <Figure/Bronze.png, id=951, 519.44063pt x 519.44063pt>
 File: Figure/Bronze.png Graphic file (type png)
  <use Figure/Bronze.png>
-Package pdftex.def Info: Figure/Bronze.png used on input line 271.
+Package pdftex.def Info: Figure/Bronze.png used on input line 272.
 (pdftex.def)             Requested size: 426.0pt x 425.99956pt.
  [66
 
- <./Figure/SCR.png>] <Figure/Silver.png, id=951, 508.39937pt x 578.66188pt>
+ <./Figure/SCR.png>] <Figure/Silver.png, id=958, 508.39937pt x 578.66188pt>
 File: Figure/Silver.png Graphic file (type png)
  <use Figure/Silver.png>
-Package pdftex.def Info: Figure/Silver.png used on input line 278.
+Package pdftex.def Info: Figure/Silver.png used on input line 279.
 (pdftex.def)             Requested size: 426.0pt x 484.88948pt.
- [67 <./Figure/Bronze.png>] <Figure/Gold.png, id=959, 487.32062pt x 643.90562pt>
+ [67 <./Figure/Bronze.png>] <Figure/Gold.png, id=966, 487.32062pt x 643.90562pt>
 File: Figure/Gold.png Graphic file (type png)
  <use Figure/Gold.png>
-Package pdftex.def Info: Figure/Gold.png used on input line 285.
+Package pdftex.def Info: Figure/Gold.png used on input line 286.
 (pdftex.def)             Requested size: 426.0pt x 562.88548pt.
  [68 <./Figure/Silver.png>] [69 <./Figure/Gold.png>] [70
 
 ] [71] [72]
-Overfull \hbox (5.16368pt too wide) in paragraph at lines 366--366
+Overfull \hbox (5.16368pt too wide) in paragraph at lines 367--367
 |[]\T1/cmr/bx/n/24.88 Exercise equip-ment used in Hern-
  []
 
-<Figure/8.png, id=984, 600.2425pt x 805.0075pt>
+<Figure/8.png, id=991, 600.2425pt x 805.0075pt>
 File: Figure/8.png Graphic file (type png)
  <use Figure/8.png>
-Package pdftex.def Info: Figure/8.png used on input line 369.
+Package pdftex.def Info: Figure/8.png used on input line 370.
 (pdftex.def)             Requested size: 426.0pt x 571.33824pt.
 ) [73
 
@@ -2540,18 +2545,18 @@ Package logreq Info: Writing requests to 'mainRapport.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 37133 strings out of 492995
- 672197 string characters out of 6132704
+ 37141 strings out of 492995
+ 672265 string characters out of 6132704
  1331542 words of memory out of 5000000
- 39859 multiletter control sequences out of 15000+600000
+ 39867 multiletter control sequences out of 15000+600000
  553414 words of font info for 86 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  54i,12n,92p,10489b,2989s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (81 pages, 1775753 bytes).
+Output written on /Users/linelarsen/Desktop/TS1/TS1/Rapport/.texpadtmp/mainRapport.pdf (81 pages, 1777100 bytes).
 PDF statistics:
- 1144 PDF objects out of 1200 (max. 8388607)
- 1014 compressed objects within 11 object streams
+ 1151 PDF objects out of 1200 (max. 8388607)
+ 1021 compressed objects within 11 object streams
  255 named destinations out of 1000 (max. 500000)
  582 words of extra memory for PDF output out of 10000 (max. 10000000)
 
